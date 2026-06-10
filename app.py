@@ -564,7 +564,7 @@ def tab_hubs(hubs):
         return colors.get(str(val), "")
 
     styled = display_hubs.head(n_show).style \
-        .applymap(color_tier, subset=["Tier"]) \
+        .map(color_tier, subset=["Tier"]) \
         .background_gradient(subset=["Risk Score"], cmap="Reds") \
         .format({"Risk Score": "{:.1f}", "Betweenness": "{:.5f}", "PageRank": "{:.6f}"})
     st.dataframe(styled, use_container_width=True, height=420)
@@ -719,7 +719,7 @@ def tab_ftl_carting(df):
                 "dist_band": "Distance", "time_band": "Time Band",
                 "FTL": "FTL Delay ×", "Carting": "Carting Delay ×",
                 "Delta": "Δ (Carting−FTL)", "Rec": "Recommendation"
-            }).style.applymap(
+            }).style.map(
                 lambda v: f"color:{GREEN}" if "FTL" in str(v) else f"color:{AMBER}",
                 subset=["Recommendation"]
             ).format({"FTL Delay ×": "{:.3f}", "Carting Delay ×": "{:.3f}", "Δ (Carting−FTL)": "{:+.3f}"}),
