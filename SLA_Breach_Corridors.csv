@@ -1,0 +1,1409 @@
+source_name,destination_name,max_delay_ratio,total_breach_score,total_trips
+Jaynagar_Wardno6_D (Bihar),Muzaffrpur_Bbganj_I (Bihar),8.976190476190476,167.5,21
+Mumbai_Chndivli_PC (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),3.45,165.29561403508774,94
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai Hub (Maharashtra),2.8,147.54999999999998,102
+Mumbai Hub (Maharashtra),Mumbai_MiraRd_IP (Maharashtra),3.2222222222222223,139.11111111111111,72
+Mumbai Hub (Maharashtra),Mumbai_CottonGreen_DPC (Maharashtra),4.283088235294118,128.23235294117646,58
+Benipatti_WardNo1_D (Bihar),Muzaffrpur_Bbganj_I (Bihar),10.53125,123.90625,13
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_MiraRd_IP (Maharashtra),3.0,123.10637140637141,75
+Mumbai Hub (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),3.8043478260869565,121.70956521739132,61
+Bengaluru_KGAirprt_HB (Karnataka),Bengaluru_Bomsndra_HB (Karnataka),3.170779220779221,121.39569788503161,86
+Bengaluru_Bomsndra_HB (Karnataka),Bengaluru_KGAirprt_HB (Karnataka),2.6213962690785753,116.68175192372364,121
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_KGAirprt_HB (Karnataka),2.1851615646258504,110.55215262700825,148
+Bhopal_Old City (Madhya Pradesh),Bhopal_Trnsport_H (Madhya Pradesh),7.671428571428571,109.86813186813185,27
+Pune_Tathawde_H (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),2.1514372739387015,105.76635337630198,104
+Mumbai_Virar_DC (Maharashtra),Mumbai_MiraRd_IP (Maharashtra),6.767316017316017,103.83549783549783,22
+Gurgaon_Bilaspur_HB (Haryana),Sonipat_Kundli_H (Haryana),2.3333333333333335,101.44308419243987,92
+Mumbai Hub (Maharashtra),Mumbai_Sanpada_I (Maharashtra),2.8,99.83909774436088,64
+LowerParel_CP (Maharashtra),Mumbai_Chndivli_PC (Maharashtra),3.0555555555555554,97.84795321637426,53
+Jhanjharpur_Nagar_D (Bihar),Muzaffrpur_Bbganj_I (Bihar),8.48,97.24000000000001,13
+Mumbai_MiraRd_IP (Maharashtra),Mumbai Hub (Maharashtra),6.375,95.875,29
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_Jogshwri_I (Maharashtra),3.1538461538461537,92.5664286687646,59
+Bengaluru_KGAirprt_HB (Karnataka),Bangalore_Nelmngla_H (Karnataka),2.52,92.07708849577568,105
+Jaipur_VarunCly_DC (Rajasthan),Jaipur_Central_I_7 (Rajasthan),5.75,90.25,19
+Hyderabad_Alwal_L (Telangana),Hyderabad_Shamshbd_H (Telangana),3.5128205128205128,89.24179609473728,38
+Midnapore_Talkui_D (West Bengal),Kolkata_Dankuni_HB (West Bengal),8.073655913978495,84.88387096774194,12
+Raxaul_KairiyaT_D (Bihar),Muzaffrpur_Bbganj_I (Bihar),5.96875,84.46875,17
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_Bomsndra_HB (Karnataka),1.88,84.10230833004061,120
+Kolkata_Dankuni_HB (West Bengal),CCU_Beliaghata_DPC (West Bengal),5.458498023715415,83.56408808582722,29
+Mumbai_Jogshwri_I (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),4.90625,82.12479838709676,26
+Kolkata_North_I_4 (West Bengal),Hooghly_DC (West Bengal),4.0,79.33333333333333,28
+Sonipat_Kundli_H (Haryana),Gurgaon_Bilaspur_HB (Haryana),2.2244897959183674,78.95590153587209,86
+Bhiwandi_Mankoli_HB (Maharashtra),Pune_Tathawde_H (Maharashtra),2.4105263157894736,78.88803827751195,67
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_CottonGreen_DPC (Maharashtra),3.1875,77.11894845282637,49
+Kanpur_Central_H_6 (Uttar Pradesh),Kanpur_Rawatpur_D (Uttar Pradesh),5.6875,74.875,18
+Mumbai_CottonGreen_DPC (Maharashtra),Mumbai Hub (Maharashtra),4.382352941176471,74.70588235294119,35
+Ludhiana_MilrGanj_HB (Punjab),Chandigarh_Mehmdpur_H (Punjab),2.314516129032258,73.83712321523004,70
+Durgapur_Central_I_1 (West Bengal),Kolkata_Dankuni_HB (West Bengal),7.622641509433962,72.84905660377359,11
+Hyderabad_Chikdply_C (Telangana),Hyderabad_Shamshbd_P (Telangana),3.2739130434782613,72.76521739130436,32
+Ahmedabad_Mithakal_D (Gujarat),Ahmedabad_East_H_1 (Gujarat),4.75,72.46212121212122,27
+Dahanu_KetyDPP_D (Maharashtra),Boisar_OstwlEmp_D (Maharashtra),7.344827586206897,70.72413793103448,12
+Gurgaon_Bilaspur_HB (Haryana),Chandigarh_Mehmdpur_H (Punjab),2.3160377358490565,69.21324778681928,57
+Chincholi_Mainroad_D (Karnataka),Gulbarga_Nehrugnj_I (Karnataka),5.561538461538461,68.55384615384615,17
+Chandigarh_Mehmdpur_H (Punjab),Gurgaon_Bilaspur_HB (Haryana),2.1800947867298577,68.08867860655842,65
+Phalodi_PalikDPP_D (Rajasthan),Jodhpur_Basni_I (Rajasthan),5.859375,68.03125,14
+MAA_Poonamallee_HB (Tamil Nadu),Chennai_Egmore_DPC (Tamil Nadu),4.205882352941177,67.82389073565544,31
+Kolkata_Narynpur_C (West Bengal),Kolkata_Dankuni_P (West Bengal),4.2,67.2,21
+Muktsar_DPC (Punjab),Ludhiana_MilrGanj_HB (Punjab),4.533333333333333,67.13333333333333,19
+Delhi_Airport_H (Delhi),FBD_Balabhgarh_DPC (Haryana),3.433333333333333,66.40666666666667,46
+CCU_Beleghta_CP (West Bengal),Kolkata_Dankuni_P (West Bengal),5.416666666666667,66.25,15
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_Sanpada_I (Maharashtra),3.608695652173913,66.13354037267081,43
+Hyderabad_Bownplly_C (Telangana),Hyderabad_Shamshbd_P (Telangana),7.0,66.0,11
+Mumbai_East_I_21 (Maharashtra),Mumbai_Ulhasngr_DC (Maharashtra),3.734848484848485,65.63636363636364,24
+Gurgaon_Bilaspur_HB (Haryana),Noida_Sector63_L (Uttar Pradesh),3.345679012345679,65.54635396353117,38
+Mumbai_Vasai_CP (Maharashtra),Mumbai_MiraRd_IP (Maharashtra),7.551587301587302,65.51587301587303,10
+Kolkata_Dankuni_HB (West Bengal),CCU_DumDum_DPC (West Bengal),4.226006191950464,64.08978328173374,22
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_Tejpal_I (Maharashtra),3.375,61.875,37
+Bhagalpur_Pbroad_DC (Bihar),Kahalgaon_NdiaTola_D (Bihar),5.909090909090909,60.719367588932805,18
+Noida_Sector02_C (Uttar Pradesh),Del_Okhla_PC (Delhi),3.2777777777777777,60.230994152046776,34
+MAA_Poonamallee_HB (Tamil Nadu),Chennai_Hub (Tamil Nadu),2.691341991341991,60.22570346320346,52
+Aland_RazaviRd_D (Karnataka),Gulbarga_Nehrugnj_I (Karnataka),4.757309941520468,60.11695906432749,16
+Bengaluru_Bomsndra_HB (Karnataka),Bangalore_Nelmngla_H (Karnataka),2.052631578947368,59.64494316599579,100
+Gurgaon_Bilaspur_HB (Haryana),Faridabad_Mthurard_L (Haryana),2.515151515151515,58.2989921842863,57
+Gurgaon_Bilaspur_HB (Haryana),Bangalore_Nelmngla_H (Karnataka),1.9244532803180914,57.838054783588476,65
+Ragunthgnj_GopalDPP_D (West Bengal),Jangipur_Central_D_1 (West Bengal),4.611111111111111,57.77777777777777,16
+Del_Okhla_PC (Delhi),Gurgaon_Bilaspur_HB (Haryana),2.066666666666667,57.50323237936464,74
+Ranchi_Hub (Jharkhand),Bokaro_KSClny_DC (Jharkhand),4.333333333333333,56.666666666666664,17
+Kaptanganj_Subshngr_D (Uttar Pradesh),Gorakhpur_Matriprm_IP (Uttar Pradesh),4.756756756756757,56.351351351351354,15
+Kolkata_Dankuni_HB (West Bengal),Kolkata_TrtllaRD_L (West Bengal),3.3793103448275863,55.98339719029374,24
+Mumbai_MiraRd_IP (Maharashtra),Nalasopara (Maharashtra),2.6666666666666665,55.15686274509804,36
+Bengaluru_Bagaluru_D (Karnataka),HBR Layout PC (Karnataka),2.5384615384615383,54.920192307692304,39
+Surat_Central_D_12 (Gujarat),Surat_Central_I_4 (Gujarat),8.823529411764707,54.76470588235294,7
+Hyderabad_Shamshbd_H (Telangana),Hyderabad_Alwal_L (Telangana),2.9625,54.72105263157894,30
+Hoogly_Bandel_D (West Bengal),Kolkata_North_I_4 (West Bengal),3.7666666666666666,54.53333333333333,23
+Chennai_Hub (Tamil Nadu),Chennai_Madhavaram_DPC (Tamil Nadu),3.2,53.93928571428572,42
+Manjhaul_Purbari_D (Bihar),Muzaffrpur_Bbganj_I (Bihar),4.333333333333333,53.33333333333333,16
+Gandhinagar_DC (Gujarat),Ahmedabad_East_H_1 (Gujarat),4.53125,52.96875,15
+Pune_Tathawde_H (Maharashtra),PNQ Vadgaon Sheri DPC (Maharashtra),2.9642857142857144,52.64811165845649,40
+Simrahi_Bazar_D (Bihar),Purnia_Central_H_2 (Bihar),4.0843373493975905,52.43373493975904,17
+Chennai_Hub (Tamil Nadu),MAA_Poonamallee_HB (Tamil Nadu),2.303030303030303,51.974654634581114,58
+Patran_MheshNGR_D (Punjab),Chandigarh_Mehmdpur_H (Punjab),8.411764705882353,51.88235294117647,7
+FBD_Balabhgarh_DPC (Haryana),Delhi_Airport_H (Delhi),2.8958333333333335,51.733333333333334,36
+Sonari_Central_DPP_1 (Assam),Sivasagar_Babupaty_D (Assam),4.188235294117647,51.01176470588236,16
+AMD_Rakhial (Gujarat),Ahmedabad_East_H_1 (Gujarat),3.0,50.0,26
+Peterbar_GagiDPP_D (Jharkhand),Ranchi_Hub (Jharkhand),7.087301587301587,48.698412698412696,8
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_Jogeshwri_L (Maharashtra),3.326190476190476,47.71193212917351,31
+Gurgaon_Bilaspur_HB (Haryana),Kolkata_Dankuni_HB (West Bengal),2.168141592920354,47.269296105700576,46
+Saharsa_Gangjala_D (Bihar),Madhepura_Krishnpr_D (Bihar),3.75,46.75,17
+Jaipur_Central_I_7 (Rajasthan),Jaipur_Bhankrot_DC (Rajasthan),4.764705882352941,46.642414860681114,19
+Pune_Tathawde_H (Maharashtra),PNQ Pashan DPC (Maharashtra),2.8333333333333335,46.243589743589745,31
+Bhopal_Kolar Mandakni (Madhya Pradesh),Bhopal_Trnsport_H (Madhya Pradesh),5.7142857142857135,45.885714285714286,14
+Delhi_Airport_H (Delhi),Delhi_North_R_8 (Delhi),3.045238095238095,45.625814536340854,34
+Mohania_Bhabua_D (Bihar),Dinara_Wardno7_D (Bihar),5.125,45.375,11
+Mumbai_Sanpada_I (Maharashtra),Mumbai_Khandeshwar_Dc (Maharashtra),2.2666666666666666,45.349999999999994,36
+Mumbai_East_I_21 (Maharashtra),Mumbai_Kalyan West _Dc (Maharashtra),4.0,45.0,15
+Noida_Sector63_L (Uttar Pradesh),Gurgaon_Bilaspur_HB (Haryana),3.188311688311688,44.27118933697881,26
+Hooghly_DC (West Bengal),Hoogly_Bandel_D (West Bengal),2.9545454545454546,43.72727272727273,24
+Triveninganj_Central_D_1 (Bihar),Purnia_Central_H_2 (Bihar),3.1655263157894735,43.310526315789474,20
+Pune_Mundhawa_L (Maharashtra),Pune_Tathawde_H (Maharashtra),3.4285714285714284,43.29294454155411,32
+Patiala (Punjab),Chandigarh_Mehmdpur_H (Punjab),7.090909090909091,42.63636363636363,7
+Ahmedabad_East_H_1 (Gujarat),AMD_Memnagar (Gujarat),2.4,41.71111111111111,36
+Kolkata_Dankuni_HB (West Bengal),CCU_Lake Avenue_DPC (West Bengal),2.9411764705882355,41.69246646026832,28
+Allahabad_Central_H_1 (Uttar Pradesh),Allahabad_Central_D_5 (Uttar Pradesh),4.455357142857142,41.46428571428571,12
+Hyderabad_South_D_4 (Telangana),Hyderabad_Uppal_I (Telangana),3.5294117647058822,41.41176470588235,18
+Pune_North_D_3 (Maharashtra),PNQ Rahatani DPC (Maharashtra),2.466666666666667,41.372549019607845,31
+Mumbai_Kalyan West _Dc (Maharashtra),Mumbai_East_I_21 (Maharashtra),3.75,41.25,15
+MAA_Poonamallee_HB (Tamil Nadu),Chennai_Porur_DPC (Tamil Nadu),3.993368700265252,41.12486884762747,18
+Ahmedabad_East_H_1 (Gujarat),AMD_Satellite (Gujarat),2.416666666666667,40.66666666666667,31
+Mumbai_CotnGren_M (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),3.5,40.631152669632925,20
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Jhilmil_L (Delhi),3.3766233766233764,40.4025974025974,17
+Chintamani_Central_D_2 (Karnataka),Bangalore_East_I_20 (Karnataka),4.358320251177394,40.29984301412873,12
+Mumbai_MiraRoad_M (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),3.782608695652174,40.01060041407868,19
+Delhi_Kapshera_L (Delhi),Gurgaon_Bilaspur_HB (Haryana),2.675,39.975,36
+BOM_Sakinaka_RP (Maharashtra),LowerParel_CP (Maharashtra),3.35,39.95,17
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_Tejpal_M (Maharashtra),3.1521739130434785,39.753557312252966,27
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_CotnGren_M (Maharashtra),2.9375,39.36734629386187,29
+Mumbai_Panvel_D (Maharashtra),Mumbai_Sanpada_I (Maharashtra),2.31875,39.1625,31
+Mumbai_Ambernath_Dc (Maharashtra),Mumbai_East_I_21 (Maharashtra),3.2941176470588234,39.0,17
+Sonipat_AmzonDev_V (Haryana),Sonipat_Kundli_P (Haryana),1.8,38.825,53
+Gurgaon_Bilaspur_HB (Haryana),GGN_DPC (Haryana),1.9861111111111112,38.50630252100841,53
+CCU_Beliaghata_DPC (West Bengal),Kolkata_Dankuni_HB (West Bengal),3.782608695652174,38.36889654967459,19
+Kolkata_Dankuni_HB (West Bengal),Tarkeshwar_Naraynpr_D (West Bengal),5.25,38.25,9
+Aurangabad_Pratpngr_D (Maharashtra),Aurangabad_Central_H_1 (Maharashtra),3.25,38.25,17
+Bhind_EtwahDPP_D (Madhya Pradesh),Gwalior_HrihrNgr_I (Madhya Pradesh),5.518518518518518,38.1697489268244,11
+Tirupur_Koliplm_I (Tamil Nadu),Coimbatore_Karayam_H (Tamil Nadu),2.9065628476084537,38.131256952169075,20
+Nichlaul_Wardno13_D (Uttar Pradesh),Gorakhpur_Matriprm_IP (Uttar Pradesh),4.147540983606557,37.77049180327869,12
+BLR_JPNagar_Pc (Karnataka),Bengaluru_Bomsndra_HB (Karnataka),4.333333333333333,37.4547619047619,13
+Allahabad_Central_D_5 (Uttar Pradesh),Soraon_BypassRD_D (Uttar Pradesh),4.119047619047619,37.42857142857142,12
+Asangaon_Shahapur_D (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),3.870967741935484,37.322580645161295,13
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Mandapeta_Mainrd_D (Andhra Pradesh),3.636904761904762,36.916666666666664,14
+Samastipur_Haripur_D (Bihar),HazratJandaha_HajiprRD_D (Bihar),3.301169590643275,36.8187134502924,16
+MAA_Poonamallee_HB (Tamil Nadu),Chennai_Madhavaram_L (Tamil Nadu),2.810810810810811,36.16216216216217,22
+Srikakulam_Kuslpram_I (Andhra Pradesh),Narasnpeta_HudcoDPP_D (Andhra Pradesh),3.0,36.0,18
+Palwal (Haryana),FBD_Balabhgarh_DPC (Haryana),3.992857142857143,35.91428571428571,12
+Aurangabad_Central_H_1 (Maharashtra),Aurangabad (Maharashtra),3.111111111111111,35.88888888888889,17
+Bangalore_Nelmngla_H (Karnataka),Gurgaon_Bilaspur_HB (Haryana),1.8860510805500983,35.86146547274334,43
+Bhopal_Trnsport_H (Madhya Pradesh),Bhopal MP Nagar (Madhya Pradesh),2.480769230769231,35.53846153846154,24
+Jaipur (Rajasthan),Jaipur_Central_I_7 (Rajasthan),3.7333333333333334,35.53333333333333,13
+Pune_Tathawde_H (Maharashtra),Pune_PC (Maharashtra),4.16547619047619,35.49285714285714,17
+Mumbai_MaladWest_CP (Maharashtra),Mumbai_Chndivli_PC (Maharashtra),3.076923076923077,35.307692307692314,17
+FBD_Balabhgarh_DPC (Haryana),Palwal (Haryana),2.0714285714285716,34.714285714285715,40
+Tirumakudalu_Narasipr_D (Karnataka),Mysore_Yadvgiri_IP (Karnataka),4.137931034482759,34.51724137931035,11
+Rupnarayanpur_Salanpur_D (West Bengal),Kolkata_Dankuni_HB (West Bengal),4.832214765100671,34.48993288590604,9
+Nowda_ArhamDPP_D (West Bengal),Nowda_AmtlaDPP_D (West Bengal),3.1538461538461537,34.46153846153846,16
+Motihari_RajaBzr_D (Bihar),Raxaul_KairiyaT_D (Bihar),2.5634920634920633,34.39682539682539,22
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Mayapuri_PC (Delhi),2.189655172413793,34.0948275862069,48
+Nadaun_Ward6_D (Himachal Pradesh),Chandigarh_Mehmdpur_H (Punjab),2.886503443374262,33.95706198073672,18
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_KHRoad_I (Karnataka),3.2222222222222223,33.86752136752137,18
+Tiruppattur_KoilStrt_D (Tamil Nadu),Ambur_Central_D_2 (Tamil Nadu),4.367647058823529,33.67647058823529,10
+Kanpur_Central_H_6 (Uttar Pradesh),Unnao_VikasRam_D (Uttar Pradesh),2.6818181818181817,33.63636363636363,20
+Ahmedabad_East_H_1 (Gujarat),Amd_Chandkheda_Dc (Gujarat),2.3333333333333335,33.42424242424243,35
+Domkal_Central_D_2 (West Bengal),Nazirpur_Central_D_1 (West Bengal),3.065433854907539,33.046941678520625,16
+Pali_Nayagaon_I (Rajasthan),Ajmer_FoySGRRD_I (Rajasthan),2.942622950819672,33.02459016393442,17
+Rishikesh_DC (Uttarakhand),Haridwar (Uttarakhand),5.092592592592593,32.74074074074074,8
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_Peenya_L (Karnataka),2.0035885167464116,32.67173615857826,50
+Muzaffrpur_Bbganj_I (Bihar),Kanti_Central_DPP_2 (Bihar),3.7,32.51428571428571,14
+Silvassa_Samrvrni_D (Dadra and Nagar Haveli),Vapi_IndEstat_I (Gujarat),3.5,32.5,13
+MAA_Poonamallee_HB (Tamil Nadu),Chennai_Chrompet_L (Tamil Nadu),2.1621621621621623,32.163751987281394,34
+Kanpur_Central_H_6 (Uttar Pradesh),Gurgaon_Bilaspur_HB (Haryana),2.019877675840979,32.12538226299694,34
+AMD_Memnagar (Gujarat),Ahmedabad_East_H_1 (Gujarat),2.4705882352941178,32.117647058823536,23
+Sitamari_Durma_D (Bihar),Pupri_SngihiRD_D (Bihar),2.6,32.0,20
+Hyderabad_Chikdply_I (Telangana),Hyderabad_Shamshbd_H (Telangana),3.8095238095238093,31.935714285714283,16
+Anupshahar_DcntCLY_D (Uttar Pradesh),Noida_Sec 02_DPC (Uttar Pradesh),2.5958440721649483,31.916881443298966,20
+Bengaluru_Kadugodi_D (Karnataka),Hoskote_DC (Karnataka),2.7777777777777777,31.838383838383834,19
+Gadag_Cdosclrd_D (Karnataka),Hubli_Adargchi_IP (Karnataka),2.872340425531915,31.829787234042556,17
+Guskhara_Itachnda_D (West Bengal),Bolpur_WebelDPP_D (West Bengal),3.8333333333333335,31.666666666666668,13
+Jamshedpur_Central_I_3 (Jharkhand),Ranchi_Hub (Jharkhand),2.5,31.5,21
+Rayaparthi_Perkadrd_D (Telangana),Warangal_HunterRd_I (Telangana),3.625,31.225,14
+Muzaffrpur_Bbganj_I (Bihar),Dholi_WardNo4_D (Bihar),2.9375,31.0,16
+Raver_Truptingr_D (Maharashtra),Burhanpur_StRoad_D (Madhya Pradesh),3.105263157894737,30.93498452012384,16
+Morgram_Kntgorya_D (West Bengal),Rampurhat_SrifoDPP_D (West Bengal),3.0842105263157893,30.842105263157894,15
+Shirala_Central_DPP_3 (Maharashtra),Kolhapur_Shivaji_I (Maharashtra),4.36734693877551,30.306122448979593,9
+Plassey_BtaiRoad_D (West Bengal),Berhampore_Central_I_2 (West Bengal),3.6470588235294117,30.256684491978607,13
+Del_Okhla_PC (Delhi),Sonipat_Kundli_H (Haryana),2.1153846153846154,30.234397677793904,40
+Ratanpura_MubarDPP_D (Uttar Pradesh),Gorakhpur_Matriprm_IP (Uttar Pradesh),4.0233739837398375,30.233739837398375,10
+Nowda_AmtlaDPP_D (West Bengal),Berhampore_Central_I_2 (West Bengal),3.727272727272727,29.999999999999996,11
+Gorakhpur_Matriprm_IP (Uttar Pradesh),Deoria_CCRoad_D (Uttar Pradesh),3.3,29.9,13
+Biswan_PatelNGR_D (Uttar Pradesh),Sitapur_Chowk_D (Uttar Pradesh),2.6559139784946235,29.806451612903224,18
+Bidar (Karnataka),Narayankhed_Datatrya_D (Telangana),2.4186046511627906,29.790697674418603,21
+Haridwar (Uttarakhand),Sonipat_Kundli_H (Haryana),2.7430167597765363,29.631284916201118,17
+Gurgaon_Begumpur_CP (Haryana),Gurgaon_Bilaspur_P (Haryana),1.8,29.504761904761907,41
+Hassan_Pandrnga_I (Karnataka),Mangalore_Kuntikna_H (Karnataka),3.274193548387097,29.47135483870968,14
+Hyderabad_Uppal_I (Telangana),Hyderabad_Shamshbd_H (Telangana),4.0,29.423076923076923,10
+Jaipur_Central_I_7 (Rajasthan),Ambabadi_DC (Rajasthan),2.7142857142857144,29.142857142857146,17
+Sandur_WrdN1DPP_D (Karnataka),Bellary_Dc (Karnataka),4.232558139534884,29.093023255813957,9
+Bengaluru_Bomsndra_HB (Karnataka),Bengaluru_Peenya_IP (Karnataka),2.461229946524064,28.883121615949808,38
+Vapi_IndEstat_I (Gujarat),Silvassa_Samrvrni_D (Dadra and Nagar Haveli),2.6923076923076925,28.769230769230774,17
+Chennai_Potheri (Tamil Nadu),Chennai_Chrompet_DPC (Tamil Nadu),3.75625,28.680357142857144,11
+Jaipur_Central_I_7 (Rajasthan),Jaipur_NgrNigam_DC (Rajasthan),2.579861111111111,28.554093567251464,22
+Allahabad_Central_H_1 (Uttar Pradesh),Allahabad_Phaphamu_DC (Uttar Pradesh),5.071428571428571,28.5,7
+Ranchi_Hub (Jharkhand),Dhanbad_Kalynpur_I (Jharkhand),2.492063492063492,28.365829271341084,20
+Bellary_Dc (Karnataka),Hospet (Karnataka),2.6666666666666665,28.333333333333332,17
+Ahmedabad_East_H_1 (Gujarat),Amdavad_East (Gujarat),2.1538461538461537,28.22680995475113,27
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Kapshera_L (Delhi),1.794871794871795,28.21653171390014,37
+Dibrugarh_Bokule_H (Assam),Digboi_JyotiNgr_D (Assam),3.1666666666666665,28.166666666666664,13
+Kanpur_Central_H_6 (Uttar Pradesh),Akbarpur_NehruNGR_D (Uttar Pradesh),3.0,28.0,14
+Cjb_West_Dc (Tamil Nadu),Coimbatore_Karayam_H (Tamil Nadu),4.105263157894737,27.947368421052634,9
+Sitapur_Chowk_D (Uttar Pradesh),Lakhimpur_Maheva_D (Uttar Pradesh),2.466666666666667,27.866666666666667,19
+Bengaluru_KGAirprt_HB (Karnataka),BLR_JPNagar_Pc (Karnataka),2.8536585365853657,27.804878048780488,15
+Gurgaon_Bilaspur_HB (Haryana),Hyderabad_Shamshbd_H (Telangana),2.093525423479266,27.759564576778295,29
+Delhi_Gateway_HB (Delhi),Gurgaon_Bilaspur_HB (Haryana),2.0055555555555555,27.697683647102252,41
+Mumbai_Sanpada_I (Maharashtra),Mumbai_Kharghar_D (Maharashtra),3.664835164835165,27.634470792365533,13
+Bhiwandi_Mankoli_HB (Maharashtra),Akola_Gaurkshn_I (Maharashtra),2.381679389312977,27.62293176270004,20
+Pune_Tathawde_H (Maharashtra),Pune_Mundhawa_L (Maharashtra),2.6053639846743293,27.592911877394634,29
+Gurgaon_Bilaspur_HB (Haryana),FBD_Balabhgarh_DPC (Haryana),2.121212121212121,27.5,30
+Kolkata_Dankuni_HB (West Bengal),CCU_New Alipore_DPC (West Bengal),3.2038177339901477,27.35623973727422,14
+Jalandhar_DPC (Punjab),Ludhiana_MilrGanj_HB (Punjab),2.30188679245283,27.339622641509433,21
+Gola_BkgnRoad_D (Uttar Pradesh),Dhaurahara_TahsilRD_D (Uttar Pradesh),2.5181159420289854,27.326086956521735,18
+Bengaluru_Bomsndra_HB (Karnataka),Bengaluru_Hoodi_IP (Karnataka),2.6470588235294117,27.308316430020284,22
+Davangere_Central_I_1 (Karnataka),Ranebennur_SriRmNGR_D (Karnataka),2.6995073891625614,27.192118226600982,16
+Bengaluru_Bomsndra_HB (Karnataka),Bengaluru_Banshkri_DC (Karnataka),3.4210526315789473,27.145995423340963,17
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_Pawane_L (Maharashtra),2.6,27.016374929418408,20
+Lalgola_KrsprDPP_D (West Bengal),Ragunthgnj_GopalDPP_D (West Bengal),3.25,27.0,12
+Janakpuri (Delhi),Delhi_Nangli_IP (Delhi),3.3333333333333335,26.95757575757576,14
+Margherita_CivilHPL_D (Assam),Changlang_Central_D_1 (Arunachal Pradesh),4.848484848484849,26.93939393939394,7
+Chennai_Chrompet_L (Tamil Nadu),MAA_Poonamallee_HB (Tamil Nadu),2.2794117647058822,26.865546218487395,27
+Jammikunta_ConduDPP_D (Telangana),Warangal_HunterRd_I (Telangana),2.75,26.25,15
+Muzaffrpur_Bbganj_I (Bihar),Madhubani_Bardivan_D (Bihar),2.191780821917808,26.219178082191778,22
+Chandigarh_Mehmdpur_H (Punjab),Ludhiana_MilrGanj_HB (Punjab),2.015873015873016,26.187908496732025,27
+Bengaluru_Bomsndra_HB (Karnataka),HBR Layout PC (Karnataka),2.669607843137255,26.15062388591801,23
+Akola_Gaurkshn_I (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),2.306996248068859,26.139924961377183,20
+Hyderabad_North_D_2 (Telangana),Medchal_MROoffce_D (Telangana),2.602564102564102,26.115384615384613,17
+Pune_PC (Maharashtra),Pune_Tathawde_H (Maharashtra),2.76,26.1,16
+Hisar_ModelTwn_P (Haryana),Delhi_Airport_H (Delhi),3.6087743102668473,26.087743102668473,10
+Delhi_Nangli_IP (Delhi),Janakpuri (Delhi),1.880952380952381,25.995238095238093,33
+Gandhinagar_Kalol_DC (Gujarat),Ahmedabad_East_H_1 (Gujarat),2.731707317073171,25.975609756097565,15
+Bhopal_Trnsport_H (Madhya Pradesh),Sehore_Mangalam_D (Madhya Pradesh),2.8488372093023253,25.883720930232556,14
+Ahmedabad_East_H_1 (Gujarat),Surat_HUB (Gujarat),1.8706467661691542,25.860696517412933,30
+Surat_Central_I_4 (Gujarat),Surat_Varachha_DC (Gujarat),2.1394230769230766,25.778846153846153,27
+Margherita_CivilHPL_D (Assam),Jairampur_Mdiclcly_D (Arunachal Pradesh),3.5977011494252875,25.758620689655174,11
+Bengaluru_Hoodi_IP (Karnataka),Bengaluru_Bomsndra_HB (Karnataka),3.3333333333333335,25.666666666666668,11
+Agra_Central_D_3 (Uttar Pradesh),Kirauli_AchneraRD_D (Uttar Pradesh),2.5789473684210527,25.535087719298247,18
+Mumbai_Vasai_CP (Maharashtra),Bhiwandi_Mankoli_GW (Maharashtra),2.595798319327731,25.5327731092437,16
+Bengaluru_KHRoad_I (Karnataka),Bangalore_Nelmngla_H (Karnataka),2.610452586206897,25.516033176593524,21
+Chapra_NagarDPP_D (West Bengal),Nakashipara_MaxDPP_D (West Bengal),2.4157196969696972,25.48295454545455,18
+Mumbai_Sanpada_CP (Maharashtra),Bhiwandi_Mankoli_GW (Maharashtra),3.1075,25.29,12
+Bhopal_Trnsport_H (Madhya Pradesh),Kanpur_Central_H_6 (Uttar Pradesh),2.11340206185567,25.246707126388042,23
+Kolkata_North_I_4 (West Bengal),Bagnan_Harop_D (West Bengal),2.402439024390244,25.24390243902439,18
+Kolkata_Dankuni_HB (West Bengal),Bhubaneshwar_Hub (Orissa),2.0670926517571884,25.225765227249305,26
+Alappuzha_Pazhvedu_D (Kerala),Kottayam_Central_H_1 (Kerala),3.1,25.200000000000003,12
+PNQ Pashan DPC (Maharashtra),Pune_Tathawde_H (Maharashtra),2.533333333333333,25.18333333333333,24
+Parli_JirgeNgr_D (Maharashtra),Ambajogai_BnsllNgr_D (Maharashtra),2.933333333333333,25.13333333333333,13
+Mumbai_Pawane_L (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),2.475,25.1,19
+Buxar_Sarswati_D (Bihar),Dumraon_Nishangr_D (Bihar),2.7916666666666665,25.083333333333332,14
+HDKote_BegurRD_D (Karnataka),Mysore_Yadvgiri_IP (Karnataka),4.13499245852187,25.07993966817496,8
+Sillod_ZebaTWR_D (Maharashtra),Aurangabad_Central_H_1 (Maharashtra),3.272727272727273,25.000000000000004,11
+Mumbai_MhimWest_C (Maharashtra),Mumbai_Chndivli_PC (Maharashtra),2.923076923076923,24.999999999999996,13
+Tulsipur_Central_DPP_1 (Uttar Pradesh),Gonda_KotwaliN_D (Uttar Pradesh),3.0733695652173916,24.8804347826087,12
+GreaterThane_Anjur_C (Maharashtra),Mumbai Hub (Maharashtra),2.5454545454545454,24.727272727272727,16
+Panagarh_Central_D_1 (West Bengal),Guskhara_Itachnda_D (West Bengal),2.638888888888889,24.583333333333332,15
+Gurgaon_Bilaspur_HB (Haryana),Jaipur_Hub (Rajasthan),1.8938217890706577,24.54771020834369,28
+Kalka_Pinjore_DC (Haryana),Baddi_ByePass_D (Himachal Pradesh),2.75,24.5,14
+Hindupur_Parigi_D (Andhra Pradesh),Madakasira_RTCStand_D (Andhra Pradesh),2.7456709956709955,24.439393939393938,14
+Madhepura_Krishnpr_D (Bihar),Triveninganj_Central_D_1 (Bihar),2.625,24.375,15
+Narayankhed_Datatrya_D (Telangana),Zahirabad_Mohim_D (Telangana),2.18,24.369999999999997,22
+Muzaffrpur_Bbganj_I (Bihar),Darbhanga (Bihar),2.16,24.360000000000003,21
+Guwahati_Hub (Assam),Delhi_Airport_H (Delhi),2.5198375590585345,24.31740094493655,16
+Amritsar_DPC (Punjab),Jalandhar_DPC (Punjab),2.272727272727273,24.181818181818187,19
+Gurgaon_Bilaspur_HB (Haryana),Bhiwandi_Mankoli_HB (Maharashtra),1.9376299376299377,24.16322864920996,26
+Pehowa_WdN14DPP_D (Haryana),Kaithal_DC (Haryana),2.0954545454545457,24.100000000000005,22
+Bhiwandi_Mankoli_HB (Maharashtra),Gurgaon_Bilaspur_HB (Haryana),2.022718759304734,23.993699491822095,24
+Bengaluru_Bomsndra_HB (Karnataka),BLR_JPNagar_Pc (Karnataka),2.6363636363636362,23.977272727272727,28
+Murshidabad_Sirjudol_D (West Bengal),Lalgola_KrsprDPP_D (West Bengal),2.8333333333333335,23.833333333333336,13
+Nakashipara_MaxDPP_D (West Bengal),Plassey_BtaiRoad_D (West Bengal),2.588235294117647,23.823529411764707,15
+Kotdwara_Nzbadrd_D (Uttarakhand),Haridwar (Uttarakhand),2.6869328493647915,23.617059891107083,14
+Haridwar (Uttarakhand),Kotdwara_Nzbadrd_D (Uttarakhand),2.3859649122807016,23.561403508771928,17
+Ahmedabad_Paldi_D (Gujarat),Ahmedabad_East_H_1 (Gujarat),2.7,23.545454545454547,18
+Chandigarh_Raiprvlg_L (Chandigarh),Chandigarh_Mehmdpur_H (Punjab),2.1882352941176473,23.529411764705884,22
+Delhi_Airport_H (Delhi),Delhi_Lajpat_IP (Delhi),2.68,23.520000000000003,14
+SundarNgr_Bhogpur_D (Himachal Pradesh),Mandi_PlaceCol_D (Himachal Pradesh),2.8,23.4,13
+Bengaluru_KHRoad_I (Karnataka),Bengaluru_Bomsndra_HB (Karnataka),2.701388888888889,23.34325396825397,14
+FBD_Balabhgarh_DPC (Haryana),Gurgaon_Bilaspur_HB (Haryana),1.7936507936507937,23.34054834054834,30
+Karaikal_Thalthru_DC (Pondicherry),Nagapttinm_Sttyapar_D (Tamil Nadu),3.111111111111111,23.22222222222222,11
+Betul_PatelWrd_D (Madhya Pradesh),Pandhurna_Mataward_D (Madhya Pradesh),2.29009324009324,23.221678321678322,18
+Tirupati_Balajicly_I (Andhra Pradesh),Sriklahsti_SDKNgr_D (Andhra Pradesh),2.447619047619048,23.161904761904765,16
+Pukhrayan_Arulimod_D (Uttar Pradesh),Orai_Ajnari_D (Uttar Pradesh),2.15515873015873,23.1031746031746,20
+Bhiwandi_Mankoli_HB (Maharashtra),Bangalore_Nelmngla_H (Karnataka),1.896485610961339,23.085064491624518,28
+Dehradun_Selakui_D (Uttarakhand),Mussoorie_BrlwgDPP_D (Uttarakhand),2.5319148936170213,22.97872340425532,15
+Bhadrak_Central_I_2 (Orissa),Joda_Central_D_1 (Orissa),3.7080745341614905,22.865372670807453,13
+Nashik_TgrniaRD_I (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),2.139121563573883,22.78243127147766,20
+Veraval_DC (Gujarat),Kodinar_NCplxDPP_D (Gujarat),2.4222222222222225,22.75555555555556,16
+Gosainganj_Pakrela_D (Uttar Pradesh),Akbarpur_Auliyapr_D (Uttar Pradesh),2.894736842105263,22.736842105263154,12
+Chiplun_LxmiNiws_D (Maharashtra),Khed_Mahad_D (Maharashtra),2.42,22.72,16
+Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),Visakhapatnam_VislkNgr_DC (Andhra Pradesh),2.888888888888889,22.666666666666664,12
+Chhaygaon_GwhRDDPP_D (Assam),Guwahati_Hub (Assam),4.77671370967742,22.66028225806452,6
+Chennai_Madhavaram_DPC (Tamil Nadu),Chennai_Hub (Tamil Nadu),2.611111111111111,22.631578947368418,15
+Vaijiapur_YeolaRD_D (Maharashtra),Nashik_TgrniaRD_I (Maharashtra),2.2550154320987654,22.59027777777778,18
+Sathupally_VidyaNGR_D (Telangana),Khammam_NSTRoad_I (Telangana),2.4074074074074074,22.51851851851852,16
+Delhi_Airport_H (Delhi),Kanpur_Central_H_6 (Uttar Pradesh),2.124251497005988,22.48502994011976,20
+Faridabad_Mthurard_L (Haryana),Gurgaon_Bilaspur_HB (Haryana),2.303030303030303,22.151515151515156,17
+Banda_GayatriN_D (Uttar Pradesh),Mahoba_Mlkpura_D (Uttar Pradesh),3.7521341463414632,22.017073170731706,8
+Delhi_Gateway_HB (Delhi),Sonipat_Kundli_H (Haryana),1.7767857142857144,21.924603174603178,35
+Tirupati_Balajicly_I (Andhra Pradesh),Puttur_Artmclny_D (Andhra Pradesh),2.1538461538461537,21.92307692307692,19
+HBR Layout PC (Karnataka),Bengaluru_NwYlhnka_DC (Karnataka),1.7777777777777777,21.918838149294807,36
+Faridabad (Haryana),FBD_Balabhgarh_DPC (Haryana),2.0,21.90909090909091,23
+Sankaramangalam_Central_D_1 (Kerala),Shoranur_KdrShrRd_D (Kerala),2.564705882352941,21.905882352941173,14
+Koduru_MGRoad_D (Andhra Pradesh),Rajampet_RSRoad_D (Andhra Pradesh),2.4583333333333335,21.875000000000004,15
+Badarpur_Konapara_D (Assam),Silchar_Sirikona_H (Assam),3.7279411764705883,21.823529411764707,8
+Rampur_RoshnBgh_I (Uttar Pradesh),Bareilly (Uttar Pradesh),2.506280193236715,21.704347826086956,16
+Tuni_Eaglvari_D (Andhra Pradesh),Rajamundry_AtoNgrRd_I (Andhra Pradesh),2.2739726027397262,21.657534246575345,17
+HBR Layout PC (Karnataka),Bengaluru_Bomsndra_HB (Karnataka),2.411764705882353,21.588235294117645,24
+Pen_BljiMrkt_D (Maharashtra),Roha_DataSagr_D (Maharashtra),2.2666666666666666,21.53333333333333,17
+Tiruchi (Tamil Nadu),Tiruchi_Samyaprm_D (Tamil Nadu),2.0,21.5,25
+Adoor_Town_D (Kerala),Kollam_Central_H_1 (Kerala),2.263157894736842,21.473684210526315,17
+Bhiwandi_Mankoli_HB (Maharashtra),Hyderabad_Shamshbd_H (Telangana),1.9901369342934179,21.44178683809193,22
+Srikakulam_Kuslpram_I (Andhra Pradesh),Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),2.0719305794607,21.438611589214,20
+Sheohar_Ward9DPP_D (Bihar),Sitamari_Durma_D (Bihar),2.9473684210526314,21.421052631578945,11
+Pilkhuwa_HapurRD_D (Uttar Pradesh),GZB_Mohan_Nagar_DPC (Uttar Pradesh),2.6470588235294117,21.41176470588235,13
+Hazaribag_BodomBzr_DC (Jharkhand),JhumriTlya_RadhaCpx_D (Jharkhand),2.642857142857143,21.357142857142858,13
+Margherita_CivilHPL_D (Assam),Dibrugarh_Bokule_H (Assam),3.3666666666666667,21.3,9
+BilaspurHP_Indsarea_D (Himachal Pradesh),SundarNgr_Bhogpur_D (Himachal Pradesh),2.5185185185185186,21.25925925925926,14
+Jaipur_Hub (Rajasthan),Ajmer_FoySGRRD_I (Rajasthan),2.514150943396227,21.198113207547173,14
+Faizabad_TrnspNgr_D (Uttar Pradesh),Gosainganj_Pakrela_D (Uttar Pradesh),2.925925925925926,21.185185185185187,11
+Jaipur_Central_I_7 (Rajasthan),Chaksu_TonkRoad_D (Rajasthan),3.1176470588235294,21.176470588235293,10
+Sonipat_Kundli_H (Haryana),Chandigarh_Mehmdpur_H (Punjab),1.7938931297709924,21.17598492400552,29
+Lalru_OnkarDPP_D (Punjab),Chandigarh_Mehmdpur_H (Punjab),2.5294117647058822,21.147058823529413,14
+Hura_Central_D_1 (West Bengal),Purulia_GariDPP_D (West Bengal),2.619047619047619,21.047619047619047,13
+Mandla_Mharajpr_D (Madhya Pradesh),Jabalpur_Adhartal_IP (Madhya Pradesh),3.6228248796741944,20.982599037393555,8
+Hoskote_DC (Karnataka),Bengaluru_Kadugodi_D (Karnataka),3.6222222222222222,20.977777777777778,8
+Purnia_Central_H_2 (Bihar),Gurgaon_Bilaspur_HB (Haryana),2.232508073196986,20.96382930261221,18
+Bhopal_Trnsport_H (Madhya Pradesh),Gurgaon_Bilaspur_HB (Haryana),1.9106529209621994,20.945017182130588,23
+Bewar_BndhuTRH_D (Uttar Pradesh),Kanpur_Central_H_6 (Uttar Pradesh),2.4835164835164836,20.76923076923077,14
+Silchar_Sirikona_H (Assam),Guwahati_Hub (Assam),2.3815261044176705,20.72289156626506,15
+Akhnoor_ThthiCwk_D (Jammu & Kashmir),Jammu_Central_I_1 (Jammu & Kashmir),5.130434782608695,20.652173913043477,5
+Parakkdavu_KeRoad_D (Kerala),Mundakayam_Central_D_1 (Kerala),2.375,20.625,15
+Noida_Sec-83_DC (Uttar Pradesh),Noida_Sec 02_DPC (Uttar Pradesh),2.287179487179487,20.58315018315018,17
+Chandigarh_Mehmdpur_H (Punjab),Solan_MohanPrk_D (Himachal Pradesh),2.1426985370950886,20.568573667711597,18
+Coimbatore_Karayam_H (Tamil Nadu),Coonoor_Fairybnk_D (Tamil Nadu),2.4663503019844697,20.528904227782576,14
+Amravati_DC (Maharashtra),Akola_Gaurkshn_I (Maharashtra),2.08,20.520000000000003,19
+Barshi_Kurduwdi_D (Maharashtra),Pune_Tathawde_H (Maharashtra),2.133889718776385,20.41001493797493,18
+Kangayam_Thvlrsrt_D (Tamil Nadu),Tirupur_Koliplm_I (Tamil Nadu),2.2,20.400000000000002,17
+Chennai_Chrompet_DPC (Tamil Nadu),Chennai_Vandalur_Dc (Tamil Nadu),4.392307692307693,20.353846153846156,6
+Dahod_DC (Gujarat),Jhabua_Ward11_D (Madhya Pradesh),2.8484848484848486,20.333333333333336,11
+Muzaffrpur_Bbganj_I (Bihar),DalsinghSarai_Wardno13_D (Bihar),2.267857142857143,20.285714285714285,16
+Jehanabad_Madarpur_D (Bihar),BiharSarif_Soghra_D (Bihar),2.8421052631578947,20.263157894736842,11
+Safidon_HatRDDPP_D (Haryana),Sonipat_Kundli_H (Haryana),2.264131455399061,20.226103286384976,16
+Berhampore_Central_I_2 (West Bengal),Morgram_Kntgorya_D (West Bengal),2.838709677419355,20.225806451612904,11
+Karauli_HnsChowk_D (Rajasthan),Gangapur_Ward6DPP_D (Rajasthan),2.347826086956522,20.217391304347828,15
+Kaman_BsstdDPP_D (Rajasthan),FBD_Balabhgarh_DPC (Haryana),3.2439024390243905,20.195121951219512,9
+Ghanashyampur_NditaDPP_D (West Bengal),Berhampore_Central_I_2 (West Bengal),3.015151515151515,20.151515151515152,10
+Bengaluru_Bomsndra_HB (Karnataka),Bengaluru_KHRoad_I (Karnataka),2.4375,20.125,14
+Gooty_StatonRd_D (Andhra Pradesh),Guntakal_Verpatem_D (Andhra Pradesh),2.4347826086956523,20.086956521739133,14
+Vizianagaram_NcsRd_DC (Andhra Pradesh),Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),3.5102915951972555,20.082332761578044,8
+Mumbai_Jogeshwri_L (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),2.9285714285714284,20.035244922341697,17
+Hapur_Swargash_D (Uttar Pradesh),Pilkhuwa_HapurRD_D (Uttar Pradesh),2.3333333333333335,20.000000000000004,15
+Manikchak_Enayetpr_D (West Bengal),Paranpur_Nijgan_D (West Bengal),3.0,20.0,10
+Pushpavanam_Thmpulam_D (Tamil Nadu),Thiruvarur_Bypasrd_D (Tamil Nadu),2.1824289405684754,19.98460183227625,17
+Durgapur_Central_I_1 (West Bengal),Mejia_Central_D_1 (West Bengal),3.84,19.88,7
+Thrissur_Poothole_D (Kerala),Vadakkencherry_Robinson_D (Kerala),2.419590643274854,19.874269005847957,14
+Hyderabad_Shamshbd_H (Telangana),Hyderabad_Chikdply_I (Telangana),2.2,19.657608695652172,21
+Bhiwandi_Mankoli_HB (Maharashtra),Delhi_Airport_H (Delhi),2.091320084803203,19.64376152645766,18
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_Bnnrghta_L (Karnataka),1.5644736842105265,19.618218623481784,43
+Rajampet_RSRoad_D (Andhra Pradesh),Tirupati_Balajicly_I (Andhra Pradesh),2.225576662143826,19.60922659430122,16
+Chennai_Alandur_C (Tamil Nadu),Chennai_Chrompet_PC (Tamil Nadu),2.0303030303030303,19.575757575757574,19
+Jangaon_Hanmkond_D (Telangana),Hyderabad_Shamshbd_H (Telangana),2.2183133322373827,19.493013315798123,16
+Puttur_Artmclny_D (Andhra Pradesh),Koduru_MGRoad_D (Andhra Pradesh),2.1458333333333335,19.479166666666668,17
+Jaipur_Hub (Rajasthan),Gurgaon_Bilaspur_HB (Haryana),1.9939024390243902,19.394610057211686,21
+Pune_Tathawde_H (Maharashtra),Nanded_Aswningr_I (Maharashtra),2.343653250773994,19.326961906043884,15
+Hyderabad_South_R_11 (Telangana),Hyderabad_Mhdiptnm_C (Telangana),2.75,19.25,11
+Lucknow_Hub (Uttar Pradesh),Lucknow_Indira Nagar (Uttar Pradesh),4.207608695652174,19.245652173913044,6
+Merta_Central_DPP_1 (Rajasthan),Ajmer_FoySGRRD_I (Rajasthan),2.372727272727273,19.218181818181822,14
+Delhi_Airport_H (Delhi),Aligarh_KhirByps_I (Uttar Pradesh),1.9846153846153847,19.210375670840786,24
+Kaikaluru_Atapaka_D (Andhra Pradesh),Vijayawada_Rynapadu_H (Andhra Pradesh),2.4776119402985075,19.208955223880597,13
+Jaipur_Hub (Rajasthan),Alwar_Central_I_1 (Rajasthan),1.9137931034482758,19.189655172413794,21
+Etawah_MhraChng_D (Uttar Pradesh),Gurgaon_Bilaspur_HB (Haryana),1.9594093910491561,19.188187820983124,20
+Delhi_Airport_H (Delhi),Delhi_Rohini_DPC (Delhi),1.9583333333333335,19.16666666666667,20
+Bangalore_Nelmngla_H (Karnataka),HBR Layout PC (Karnataka),2.462121212121212,19.155793226381462,21
+Chinnasalem_VkotRoad_D (Tamil Nadu),Villupuram_Thirumtr_IP (Tamil Nadu),2.276315789473684,19.14473684210526,15
+Malemruvathur_Achipkam_D (Tamil Nadu),Chennai_Chrompet_DPC (Tamil Nadu),2.3561705989110706,18.98638838475499,14
+Hubli_Adargchi_IP (Karnataka),Goa_Hub (Goa),2.4532374100719423,18.89208633093525,13
+Sakleshpur_RgvdrDPP_D (Karnataka),Hassan_Pandrnga_I (Karnataka),2.3479960899315735,18.87194525904203,14
+Jalandhar_Sodal Road (Punjab),Chandigarh_Mehmdpur_H (Punjab),2.4504504504504503,18.855855855855854,13
+Jath_Shivprsad_D (Maharashtra),Kolhapur_Shivaji_I (Maharashtra),4.77,18.849999999999998,5
+Khonsa_Central_D_1 (Arunachal Pradesh),Dibrugarh_Bokule_H (Assam),2.8824274013402826,18.824274013402828,10
+Hyderabad_Shamshbd_H (Telangana),Pune_Tathawde_H (Maharashtra),2.042466068093521,18.76438922568338,18
+Jaipur_Central_I_7 (Rajasthan),Jaipur_VarunCly_DC (Rajasthan),2.041666666666667,18.750000000000007,18
+Hyderabad_Shamshbd_H (Telangana),Bhopal_Trnsport_H (Madhya Pradesh),2.102272727272727,18.73863636363636,17
+Mysore_Yadvgiri_IP (Karnataka),Krishnarajngr_JublieRD_D (Karnataka),2.4411764705882355,18.73529411764706,13
+Delhi_Airport_H (Delhi),OK_RPC (Delhi),3.339464882943144,18.71571906354515,8
+Jaipur_Central_I_7 (Rajasthan),Jaipur_Central_D_10 (Rajasthan),2.1,18.700000000000003,17
+Koppal_Banikatt_D (Karnataka),Hospet (Karnataka),2.5563241106719365,18.67588932806324,12
+Chandigarh_Kharar_DC (Chandigarh),Chandigarh_Mullanpr_DC (Chandigarh),2.033333333333333,18.599999999999998,18
+Katwa_BSarani_D (West Bengal),Chapra_NagarDPP_D (West Bengal),2.1640625,18.59375,17
+Dhanbad_Kalynpur_I (Jharkhand),Jamtara_D (Jharkhand),3.3230158730158728,18.584126984126982,8
+Bhandara_KaremDPP_D (Maharashtra),Savner_Wagodha_D (Maharashtra),2.8513513513513513,18.513513513513512,10
+Surat_Central_I_4 (Gujarat),Surat_Central_D_3 (Gujarat),2.3208333333333333,18.491666666666667,14
+Delhi_Gateway_HB (Delhi),Chandigarh_Mehmdpur_H (Punjab),2.023922700393289,18.4306086070792,18
+Bihta_ShivNgar_D (Bihar),Arrah_Katira_D (Bihar),2.6666666666666665,18.333333333333332,11
+Murbad_SnkunDPP_D (Maharashtra),Asangaon_Shahapur_D (Maharashtra),2.6666666666666665,18.333333333333332,11
+Muzaffrpur_Bbganj_I (Bihar),Chakia_Wardno10_D (Bihar),2.303781512605042,18.252941176470586,14
+Bhubaneshwar_Hub (Orissa),Kolkata_Dankuni_HB (West Bengal),2.0588235294117645,18.230727073438068,18
+Nandyal_SrnvsNgr_D (Andhra Pradesh),Bngnpalle_Enkndla_D (Andhra Pradesh),2.2974137931034484,18.163793103448278,14
+Purnia_Central_H_2 (Bihar),Katihar_Central_D_2 (Bihar),2.65,18.15,11
+Ahmedabad_East_H_1 (Gujarat),Gurgaon_Bilaspur_HB (Haryana),2.3166666666666664,18.055019714892325,16
+Gudur_Bngisheb_D (Andhra Pradesh),Tirupati_Balajicly_I (Andhra Pradesh),2.126600284495021,18.02560455192034,16
+Moga_DPC (Punjab),Muktsar_DPC (Punjab),1.6428931451612905,18.001008064516135,28
+Ghatampur_StatinRD_D (Uttar Pradesh),Hamirpur_KanpurRd_D (Uttar Pradesh),2.2,18.000000000000004,15
+Bolpur_WebelDPP_D (West Bengal),Nanoor_Central_DPP_1 (West Bengal),2.5,18.0,12
+Gurgaon_Bilaspur_HB (Haryana),Sasaram_Central_I_2 (Bihar),2.05564142194745,17.945904173106648,17
+Surat_HUB (Gujarat),Bangalore_Nelmngla_H (Karnataka),1.9445086705202312,17.945664739884393,19
+Asind_BsStdDPP_D (Rajasthan),Bijainagar_Central_DPP_1 (Rajasthan),4.588235294117647,17.941176470588232,5
+Purnia_Central_H_2 (Bihar),Saharsa_Gangjala_D (Bihar),3.9878048780487805,17.926829268292682,6
+Kharagpur_DC (West Bengal),Jhargram_UBamdDPP_D (West Bengal),2.4893617021276597,17.872340425531917,12
+Udaipur_Mangri_I (Rajasthan),Pali_Nayagaon_I (Rajasthan),2.0492957746478875,17.838028169014088,17
+Amroha_SamitiRd_D (Uttar Pradesh),Sonipat_Kundli_H (Haryana),1.8892106392106394,17.784212784212787,20
+Mumbai_East_I_21 (Maharashtra),Mumbai_Mumbra_DC (Maharashtra),2.3636363636363638,17.72727272727273,13
+Benipur_Javahar_D (Bihar),Jhanjharpur_Nagar_D (Bihar),1.9848484848484849,17.727272727272727,18
+Punalur_PostofJN_D (Kerala),Pthnmthitt_Klskhrpt_D (Kerala),2.264245014245014,17.699430199430196,14
+Kadi_KaranNGR_D (Gujarat),Ahmedabad_East_H_1 (Gujarat),1.981818181818182,17.672727272727276,18
+Gurgaon_Bilaspur_HB (Haryana),Muzaffrpur_Bbganj_I (Bihar),2.0392953929539295,17.6680216802168,17
+Bailhongal_NamoNagr_D (Karnataka),Gokak_Bsavangr_D (Karnataka),1.976467331118494,17.57641196013289,18
+Ariyalur_Kmrajngr_D (Tamil Nadu),Jayamkondan_Chithbrm_D (Tamil Nadu),2.033333333333333,17.566666666666663,17
+Mysore_Yadvgiri_IP (Karnataka),Nanjangud_RPRoad_D (Karnataka),2.95,17.55,9
+Allahabad_Central_H_1 (Uttar Pradesh),Satna_Central_I_2 (Madhya Pradesh),2.462406015037594,17.548872180451127,12
+Bengaluru_Bnnrghta_L (Karnataka),Bangalore_Nelmngla_H (Karnataka),2.0930232558139537,17.534883720930235,24
+Banka_Wardno6_D (Bihar),Bhagalpur_Pbroad_DC (Bihar),2.025,17.424999999999997,17
+Kakinada_DC (Andhra Pradesh),Tuni_Eaglvari_D (Andhra Pradesh),2.021276595744681,17.361702127659576,17
+Rudrapur_UdhamNgr_H (Uttarakhand),Sonipat_Kundli_H (Haryana),2.017543859649123,17.29824561403509,17
+Faridpur_ShjnprRD_D (Uttar Pradesh),Rampur_RoshnBgh_I (Uttar Pradesh),2.729647218453189,17.296472184531886,10
+Ranchi_Hub (Jharkhand),Ramgarh_HotelPrk_D (Jharkhand),2.4375,17.25,12
+Nasirabad_Central_DPP_2 (Rajasthan),Ajmer_FoySGRRD_I (Rajasthan),1.9575163398692812,17.23529411764706,18
+Bangalore_Nelmngla_H (Karnataka),BLR_JPNagar_Pc (Karnataka),2.25,17.19758064516129,18
+Hyderabad_Uppal_I (Telangana),Bhuvanagiri_HBColny_D (Telangana),2.3214285714285716,17.17857142857143,13
+Hyderabad_Mhdiptnm_C (Telangana),Hyderabad_Shamshbd_P (Telangana),2.3333333333333335,17.166666666666668,15
+Muzaffrpur_Bbganj_I (Bihar),Purnia_Central_H_2 (Bihar),1.9019607843137254,17.137254901960784,19
+Fatehpur_Kotwali_D (Uttar Pradesh),Banda_GayatriN_D (Uttar Pradesh),2.3181818181818183,17.13636363636364,13
+Kanchipuram_DC (Tamil Nadu),Arakkonam_HousngBd_D (Tamil Nadu),2.7115384615384617,17.115384615384617,10
+Loha_SivjiCWK_D (Maharashtra),Gangakher_Busstand_D (Maharashtra),2.0689655172413794,17.10344827586207,16
+Srikakulam_Kuslpram_I (Andhra Pradesh),Rajam_SamathBv_D (Andhra Pradesh),1.9,17.099999999999998,19
+Surat_HUB (Gujarat),Pune_Tathawde_H (Maharashtra),2.738831615120275,17.03898566180827,10
+Warangal_HunterRd_I (Telangana),Ghanpur_Palakrty_D (Telangana),2.0,17.0,17
+Neyveli_NJVNgr_D (Tamil Nadu),Virudhchlm_SelamRd_D (Tamil Nadu),2.130434782608696,16.956521739130437,15
+Madikeri_MuthpTmp_D (Karnataka),Ramanathapura_Central_D_2 (Karnataka),2.0892857142857144,16.929511278195488,17
+Lakhimpur_Maheva_D (Uttar Pradesh),Gola_BkgnRoad_D (Uttar Pradesh),2.125,16.875,15
+Guwahati_Hub (Assam),Silchar_Sirikona_H (Assam),2.6866935483870966,16.866935483870968,10
+Vadodara_Karelibaug_DPC (Gujarat),Anand_Vaghasi_IP (Gujarat),2.1153846153846154,16.823076923076925,17
+Chandigarh_Mullanpr_DC (Chandigarh),Chandigarh_Mehmdpur_H (Punjab),1.8390379278445885,16.78075855689177,20
+Gulbarga_Nehrugnj_I (Karnataka),Humnabad_EBroad_D (Karnataka),1.8372093023255813,16.744186046511626,20
+Sonipat_Kundli_H (Haryana),Moradabad_DC (Uttar Pradesh),1.9290638606676342,16.723149492017416,18
+Pune_Tathawde_H (Maharashtra),Goa_Hub (Goa),2.0591259640102826,16.637565091292593,16
+Noida_Sec 02_DPC (Uttar Pradesh),Sikandrabd_GTRoad_D (Uttar Pradesh),1.9782608695652173,16.630434782608695,17
+Gwalior_HrihrNgr_I (Madhya Pradesh),Gurgaon_Bilaspur_HB (Haryana),1.7323345324793076,16.62770904624024,25
+Boisar_OstwlEmp_D (Maharashtra),Dahanu_KetyDPP_D (Maharashtra),2.0384615384615383,16.615384615384613,16
+Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),Srikakulam_Kuslpram_I (Andhra Pradesh),1.75,16.5,22
+Chandigarh_Mehmdpur_H (Punjab),Chandigarh_Raiprvlg_L (Chandigarh),1.910924369747899,16.45882352941176,21
+Sriklahsti_SDKNgr_D (Andhra Pradesh),Venktagiri_TirupthiRd_D (Andhra Pradesh),2.280952380952381,16.42857142857143,15
+Kashipur_Vaishali_D (Uttarakhand),Kashipur_BajprDPP_D (Uttarakhand),2.0217391304347827,16.347826086956523,16
+Pune_Tathawde_H (Maharashtra),Solapur_Central_I_2 (Maharashtra),1.778301886792453,16.344339622641513,21
+Gudivada_GvrCompx_D (Andhra Pradesh),Machilipatnam_DC (Andhra Pradesh),1.92,16.326153846153844,19
+Muzaffrpur_Bbganj_I (Bihar),Sitamari_Durma_D (Bihar),3.717853839037928,16.307123034227565,6
+Pali_Nayagaon_I (Rajasthan),Jaipur_Hub (Rajasthan),1.9587155963302751,16.298165137614678,17
+Kolkata_Dankuni_HB (West Bengal),Ranchi_Hub (Jharkhand),2.3553297873697367,16.26395744843684,12
+Panruti_GandhiRd_D (Tamil Nadu),Neyveli_NJVNgr_D (Tamil Nadu),2.16025641025641,16.24358974358974,14
+Padrauna_BawliDPPP_D (Uttar Pradesh),Kaptanganj_Subshngr_D (Uttar Pradesh),2.352941176470588,16.235294117647054,12
+Burhanpur_StRoad_D (Madhya Pradesh),Jalgaon_DC (Maharashtra),2.242857142857143,16.15714285714286,13
+Deesa_HawaiPlr_DC (Gujarat),Mehsana_Panchot_IP (Gujarat),1.95,16.15,17
+Gurgaon_Bilaspur_HB (Haryana),Hisar_ModelTwn_P (Haryana),2.237037037037037,16.08148148148148,13
+Gulbarga_Nehrugnj_I (Karnataka),Chittapur_GlbrgaRD_D (Karnataka),1.945945945945946,16.081081081081084,17
+Anjar_DC (Gujarat),Bhuj_DC (Gujarat),2.1483870967741936,16.07741935483871,14
+Mandi_PlaceCol_D (Himachal Pradesh),Kullu_AkhraBzr_D (Himachal Pradesh),2.0001801801801804,16.04289769221276,17
+Hospet (Karnataka),Gangavathi_PhrmPlza_D (Karnataka),2.0,16.0,16
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_Peenya_IP (Karnataka),2.416666666666667,16.0,17
+Dholi_WardNo4_D (Bihar),Samastipur_Haripur_D (Bihar),2.0,16.0,16
+Bangarapet_KolarRd_D (Karnataka),Bethamangala_FshryOFC_D (Karnataka),2.0,16.0,16
+Rajgir_PnditNGR_D (Bihar),Chandi_SH78_D (Bihar),2.2285714285714286,15.971428571428572,13
+Patiala_GainMrkt_L (Punjab),Chandigarh_Mehmdpur_H (Punjab),4.193548387096774,15.96774193548387,5
+Sonipat_Kundli_H (Haryana),Gajraula_JawaharN_D (Uttar Pradesh),1.7603305785123966,15.966942148760328,21
+Hyderabad_Shamshbd_H (Telangana),Hyderabad_Tolichwk_I (Telangana),2.1,15.966666666666669,19
+Kakdwip_KlngrDPP_D (West Bengal),CCU_New Alipore_DPC (West Bengal),3.6583638583638582,15.95018315018315,6
+Kanpur_Central_H_6 (Uttar Pradesh),Fatehpur_Kotwali_D (Uttar Pradesh),2.2238805970149254,15.91044776119403,13
+Ambasamdrm_Solaiprm_D (Tamil Nadu),Tirunelveli_VdkkuSrt_I (Tamil Nadu),2.2222222222222223,15.88888888888889,13
+Aurangabad_Central_H_1 (Maharashtra),Jalna_BhgyaNgr_D (Maharashtra),2.132761578044597,15.858662092624357,14
+Udaipur_Mangri_I (Rajasthan),Ahmedabad_East_H_1 (Gujarat),2.1315825923155765,15.842156292418071,14
+Phagwara_Lovely_D (Punjab),Jalandhar_DPC (Punjab),1.9583333333333335,15.805555555555557,17
+HBR Layout PC (Karnataka),Bangalore_Nelmngla_H (Karnataka),2.0921052631578947,15.789473684210526,15
+Delhi_Bhogal (Delhi),Delhi_Lajpat_IP (Delhi),3.630952380952381,15.785714285714285,6
+Mussoorie_BrlwgDPP_D (Uttarakhand),Dehradun (Uttarakhand),2.210526315789474,15.736842105263161,13
+Surat_HUB (Gujarat),Ahmedabad_East_H_1 (Gujarat),1.821300563236047,15.713146646732984,20
+Gangakher_Busstand_D (Maharashtra),Parli_JirgeNgr_D (Maharashtra),2.0454545454545454,15.681818181818182,15
+Mumbai Hub (Maharashtra),Mumbai_East_I_21 (Maharashtra),2.0434782608695654,15.65217391304348,15
+FBD_Balabhgarh_DPC (Haryana),Faridabad_Blbgarh_DC (Haryana),1.8,15.65,20
+Khanpur_Nrsampt_D (Telangana),Mahbubabad_Yellanda_D (Telangana),1.8235294117647058,15.647058823529411,19
+Chetpet_Blmrgnst_D (Tamil Nadu),Vellore_GndhiNgr_IP (Tamil Nadu),2.302861952861953,15.634343434343435,12
+MughalSarai_Central_D_2 (Uttar Pradesh),Chandauli_ShubsNGR_D (Uttar Pradesh),3.230769230769231,15.615384615384617,7
+Kolkata_Dankuni_HB (West Bengal),Baharampur_Chuanpur_I (West Bengal),2.9466398799010953,15.573119039208763,8
+Jayamkondan_Chithbrm_D (Tamil Nadu),Lalpet_PriyrNGR_D (Tamil Nadu),2.5555555555555554,15.555555555555554,10
+Jhalda_GMukrDPP_D (West Bengal),Durgapur_Central_I_1 (West Bengal),2.29514742014742,15.54176904176904,12
+Jammu_Central_I_1 (Jammu & Kashmir),Akhnoor_ThthiCwk_D (Jammu & Kashmir),3.217391304347826,15.521739130434783,7
+Rajgurunagar_Chakan_D (Maharashtra),Talegaon_Central_DPP_4 (Maharashtra),4.1,15.499999999999998,5
+Moradabad_DC (Uttar Pradesh),Rudrapur_UdhamNgr_H (Uttarakhand),1.9661686627978763,15.45869860476602,16
+Chhapra_Prbhunth_D (Bihar),Gopalganj_GopalDPP_D (Bihar),3.5727882327492972,15.436729396495783,6
+Jabalpur_Adhartal_IP (Madhya Pradesh),Katni_Bargawan_DC (Madhya Pradesh),2.6379310344827585,15.43103448275862,10
+Gurgaon_Bilaspur_HB (Haryana),Pune_Tathawde_H (Maharashtra),1.7695691890617633,15.391383781235266,20
+Bagalkot_Sector4_D (Karnataka),Rona_GadagRD_D (Karnataka),1.901639344262295,15.327868852459014,17
+Mumbai Antop Hill (Maharashtra),Mumbai_Tejpal_I (Maharashtra),2.6956521739130435,15.26086956521739,9
+Gurgaon_Bilaspur_HB (Haryana),Kanpur_Central_H_6 (Uttar Pradesh),2.2710280373831777,15.252336448598133,12
+Godhra_DC (Gujarat),Dahod_DC (Gujarat),1.7254901960784315,15.235294117647062,21
+Silchar_Sirikona_H (Assam),Hailakandi_kalibari_D (Assam),2.5227272727272725,15.227272727272725,10
+Hassan_Pandrnga_I (Karnataka),Channaraya_patna_D (Karnataka),2.083916083916084,15.174825174825179,14
+Mumbai_Ghansoli_DC (Maharashtra),Jasai_JNPT_D (Maharashtra),2.1666666666666665,15.166666666666664,13
+Ajmer_FoySGRRD_I (Rajasthan),Pali_Nayagaon_I (Rajasthan),2.0080645161290325,15.120967741935488,15
+Chennai_Egmore_C (Tamil Nadu),Chennai_Chrompet_PC (Tamil Nadu),2.080014224751067,15.120199146514937,14
+Bareilly_Central_D_2 (Uttar Pradesh),Faridpur_ShjnprRD_D (Uttar Pradesh),2.2592592592592595,15.111111111111114,12
+Humnabad_EBroad_D (Karnataka),Bidar (Karnataka),1.7941176470588236,15.088235294117649,19
+Chandigarh_Mehmdpur_H (Punjab),Moga_DPC (Punjab),1.8360875706214688,15.049576271186439,18
+Kamareddy_Devenply_I (Telangana),Bodhan_SuryaDPP_D (Telangana),1.8852459016393444,15.049180327868854,17
+Bengaluru_Bomsndra_HB (Karnataka),Bengaluru_Kengeri_IP (Karnataka),2.210181451612903,15.046720893585466,31
+Darbhanga (Bihar),Benipur_Javahar_D (Bihar),1.7916666666666667,15.041666666666668,19
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_Hoodi_IP (Karnataka),2.6486486486486487,15.04054054054054,14
+Nalagarh_Central_DPP_2 (Himachal Pradesh),Chandigarh_Mehmdpur_H (Punjab),2.5032467532467533,15.032467532467532,10
+Del_Okhla_PC (Delhi),Delhi_Kishangarh_DPC (Delhi),1.6,15.000000000000002,25
+Asansol_DC (West Bengal),Rupnarayanpur_Salanpur_D (West Bengal),4.0,15.0,5
+Jasai_JNPT_D (Maharashtra),Mumbai_Sanpada_I (Maharashtra),2.357142857142857,14.928571428571429,11
+Luxettipet_ShivaDPP_D (Telangana),Karimnagar_KamnHbRD_I (Telangana),2.042372881355932,14.915254237288135,15
+Bheemunipatnam_SaiTempl_D (Andhra Pradesh),Vizianagaram_NcsRd_DC (Andhra Pradesh),2.2409090909090907,14.890909090909089,12
+Kolhapur_Shivaji_I (Maharashtra),Ratnagiri_MjgaonRd_D (Maharashtra),2.8608247422680413,14.88659793814433,8
+FBD_Balabhgarh_DPC (Haryana),Faridabad (Haryana),1.9333333333333333,14.866666666666667,22
+Delhi_Airport_H (Delhi),Bhiwandi_Mankoli_HB (Maharashtra),1.9899699097291876,14.849548645937814,15
+Amreli_Rajula_DC (Gujarat),Bhavnagar_Mahuva_DC (Gujarat),2.4827586206896552,14.827586206896552,10
+Ahmedabad_East_H_1 (Gujarat),Godhra_DC (Gujarat),1.7448979591836735,14.826530612244898,21
+Manuguru_AskNagar_D (Telangana),Sathupally_VidyaNGR_D (Telangana),2.053363074811256,14.747083047357583,14
+Bilimora_DC (Gujarat),Vansda_CikhliRD_D (Gujarat),1.8666666666666667,14.733333333333334,17
+Vadodara_Karelibaug_DPC (Gujarat),Surat_HUB (Gujarat),1.775,14.724999999999998,19
+Godda_Central_D_2 (Jharkhand),Sahebganj_BaraLoha_D (Jharkhand),2.634920634920635,14.714285714285714,9
+Sonipat_Kundli_H (Haryana),Kurukshetra_DC (Haryana),1.9787234042553192,14.680851063829788,15
+Atmakur_IndraNgr_D (Andhra Pradesh),Srisailam_Sishumdr_D (Andhra Pradesh),2.0455465587044532,14.637651821862345,14
+Junagadh_DPC (Gujarat),Junagadh_keshod_DC (Gujarat),2.125,14.625,13
+Sivakasi_Msstreet_DC (Tamil Nadu),Sankaran_Kovil_D (Tamil Nadu),1.86,14.620000000000001,17
+Gurgaon_Bilaspur_HB (Haryana),Bhopal_Trnsport_H (Madhya Pradesh),1.8590831918505941,14.6044142614601,17
+Hyderabad_Shamshbd_H (Telangana),Rajamundry_AtoNgrRd_I (Andhra Pradesh),2.2142857142857144,14.571428571428573,12
+Bhiwandi_Mankoli_HB (Maharashtra),Lonavala_NngrgnRd_D (Maharashtra),2.455223880597015,14.55223880597015,10
+Tikamgarh_MndiRoad_D (Madhya Pradesh),Satna_Central_I_2 (Madhya Pradesh),2.3225806451612905,14.548387096774196,11
+Supaul_SadrHsptl_D (Bihar),Saharsa_Gangjala_D (Bihar),2.8181818181818183,14.545454545454547,8
+Hoskote_DC (Karnataka),Bengaluru_Hoodi_IP (Karnataka),3.076923076923077,14.53846153846154,7
+Bengaluru_KGAirprt_HB (Karnataka),Bengaluru_Peenya_IP (Karnataka),1.8529411764705883,14.500000000000002,17
+Hubli_Adargchi_IP (Karnataka),Dharwad_Dc (Karnataka),3.9,14.5,5
+Chandigarh_Mehmdpur_H (Punjab),BilaspurHP_Indsarea_D (Himachal Pradesh),2.0357142857142856,14.499999999999998,14
+Manamelkudi_TmpleSrt_D (Tamil Nadu),Sivaganga_Wardno3_D (Tamil Nadu),1.9044798222880415,14.471677156608663,16
+GGN_DPC (Haryana),Gurgaon_Bilaspur_HB (Haryana),1.7235521235521234,14.471042471042468,20
+Rusera_Wardno4_D (Bihar),Manjhaul_Purbari_D (Bihar),1.9038461538461537,14.46153846153846,16
+Ambajogai_BnsllNgr_D (Maharashtra),Pune_Tathawde_H (Maharashtra),2.80468980253463,14.43751842027704,8
+Tinusukia_Chrwpaty_D (Assam),DoomDooma_Pthrgoan_D (Assam),3.0625,14.4375,7
+Narktiganj_Central_DPP_2 (Bihar),Muzaffrpur_Bbganj_I (Bihar),2.312,14.431999999999999,11
+Deoli_Central_DPP_2 (Maharashtra),Yavatmal_JajuDPP_D (Maharashtra),2.1998577524893315,14.398293029871978,12
+Firozabad_Sudmpuri_D (Uttar Pradesh),Delhi_Airport_H (Delhi),2.1964285714285716,14.35714285714286,12
+Hailakandi_kalibari_D (Assam),Karimganj_Alngjuri_D (Assam),2.7933467741935485,14.346774193548388,8
+Mainpuri_Agraroad_I (Uttar Pradesh),Shikohabad_Katrmira_D (Uttar Pradesh),3.3838254172015403,14.30295250320924,6
+DalsinghSarai_Wardno13_D (Bihar),Rusera_Wardno4_D (Bihar),1.7141666666666666,14.283333333333331,20
+Patancheru_Ameenpur_I (Telangana),Hyderabad_Shamshbd_H (Telangana),2.4193548387096775,14.275142314990513,11
+Pune_Tathawde_H (Maharashtra),Aurangabad_Central_H_1 (Maharashtra),2.2151162790697674,14.262715898272813,12
+Mylduthuri_Thiruviz_D (Tamil Nadu),Mannargudi_Vadasari_D (Tamil Nadu),2.1880479251899474,14.256575102279369,12
+Ludhiana_GillChwk_DC (Punjab),Jagraon_DC (Punjab),1.6774193548387097,14.225806451612904,21
+Chakia_Wardno10_D (Bihar),Motihari_RajaBzr_D (Bihar),2.0384615384615383,14.209401709401709,15
+Villupuram_Thirumtr_IP (Tamil Nadu),Panruti_GandhiRd_D (Tamil Nadu),2.090909090909091,14.18181818181818,13
+Haridwar (Uttarakhand),Rishikesh_DC (Uttarakhand),1.8333333333333333,14.166666666666666,17
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_Kengeri_IP (Karnataka),2.25,14.146551724137932,17
+Surat_HUB (Gujarat),Delhi_Airport_H (Delhi),1.83115338882283,14.12960760998811,17
+Gorakhpur_Matriprm_IP (Uttar Pradesh),Sikandarpur_Central_D_3 (Uttar Pradesh),1.9405940594059405,14.108910891089108,15
+Jaipur_NgrNigam_DC (Rajasthan),Jaipur_Central_I_7 (Rajasthan),2.758928571428571,14.07142857142857,8
+Itarsi_DivrsnRd_D (Madhya Pradesh),Betul_PatelWrd_D (Madhya Pradesh),1.8782390269698572,14.051824431517716,16
+Fatepur_NH117_D (West Bengal),Kakdwip_KlngrDPP_D (West Bengal),2.1686507936507935,14.023809523809522,12
+Chandigarh_Kharar_DC (Chandigarh),RoopNagar_ChotiHvl_DC (Punjab),1.6666666666666667,14.000000000000002,21
+Chennai_Poonamallee (Tamil Nadu),Chennai_Sriperumbudur_Dc (Tamil Nadu),3.0,14.0,7
+Kamareddy_Devenply_I (Telangana),Hyderabad_Shamshbd_H (Telangana),2.2718446601941746,13.990291262135921,11
+Udaipur_Mangri_I (Rajasthan),Chittaurgarh_DC (Rajasthan),2.0759493670886076,13.987341772151899,13
+Gulbarga_Nehrugnj_I (Karnataka),Sindagi_KalyanNg_D (Karnataka),1.9324324324324325,13.986486486486488,15
+Mahoba_Mlkpura_D (Uttar Pradesh),Kanpur_Central_H_6 (Uttar Pradesh),2.9915254237288136,13.940677966101696,7
+Bhiwandi_Mankoli_HB (Maharashtra),Murbad_SnkunDPP_D (Maharashtra),2.5483870967741935,13.935483870967742,9
+Kodinar_NCplxDPP_D (Gujarat),Una_Mamlatdr_DC (Gujarat),2.0714285714285716,13.92857142857143,13
+Sonipat_Kundli_H (Haryana),Roorkee_IOTCEncl_L (Uttarakhand),1.9285714285714286,13.928571428571429,15
+Kalyandurg_Shankrpa_D (Andhra Pradesh),Anantapur_KamaStrt_I (Andhra Pradesh),1.7735849056603774,13.924528301886793,18
+Bhiwandi_Mankoli_HB (Maharashtra),Nashik_TgrniaRD_I (Maharashtra),1.731958762886598,13.907216494845361,19
+Gurgaon_Bilaspur_HB (Haryana),Ahmedabad_East_H_1 (Gujarat),1.8678797468354431,13.88607594936709,16
+Pulivendula_RTCStand_D (Andhra Pradesh),Anantapur_KamaStrt_I (Andhra Pradesh),1.952796234772979,13.881193407595596,15
+Kaithal_DC (Haryana),Assandh_MhrjaDPP_D (Haryana),1.7680672268907562,13.825210084033612,18
+Bengaluru_Kengeri_IP (Karnataka),Bangalore_Nelmngla_H (Karnataka),1.9310344827586208,13.822988505747126,18
+Haveri_GuttalRD_D (Karnataka),Ukkadagatri_Tuminkte_D (Karnataka),1.8636363636363635,13.818181818181817,16
+Jagdishpur_Wardno13_D (Bihar),Sasaram_Central_I_2 (Bihar),2.380281690140845,13.80281690140845,10
+Kolkata_Dankuni_HB (West Bengal),Kharagpur_DC (West Bengal),2.089108910891089,13.760823141137642,13
+Mumbai_Mumbra_DC (Maharashtra),Mumbai_East_I_21 (Maharashtra),2.375,13.75,10
+Narpatganj_Central_DPP_1 (Bihar),Simrahi_Bazar_D (Bihar),2.25,13.75,11
+Madhubani_Bardivan_D (Bihar),Jaynagar_Wardno6_D (Bihar),1.8076923076923077,13.730769230769232,17
+Bhiwandi_Mankoli_HB (Maharashtra),Ahmedabad_East_H_1 (Gujarat),2.081132045945354,13.718694250571186,13
+MAA_Poonamallee_HB (Tamil Nadu),Chennai_Perungudi_DPC (Tamil Nadu),2.5161290322580645,13.686527514231498,11
+Chandigarh_Mullanpr_DC (Chandigarh),Chandigarh_Mohali (Chandigarh),1.7595238095238095,13.67142857142857,18
+Bhiwadi DC (Rajasthan),Neemrana_Rcocmplx_D (Rajasthan),3.276595744680851,13.659574468085108,6
+Khammam_NSTRoad_I (Telangana),Kodad_VidyaNgr_D (Telangana),2.1311827956989244,13.574193548387093,12
+Srisailam_Sishumdr_D (Andhra Pradesh),Kurnool_AbbasNgr_I (Andhra Pradesh),1.9694656488549618,13.572519083969464,14
+Wardha_RamaNgr_D (Maharashtra),Deoli_Central_DPP_2 (Maharashtra),3.7142857142857144,13.571428571428573,5
+RoopNagar_ChotiHvl_DC (Punjab),AnandprShb_PnjPiara_D (Punjab),1.753787878787879,13.56818181818182,18
+Muzaffrngr_MhmodNgr_D (Uttar Pradesh),Deoband_Ramvlg_D (Uttar Pradesh),2.128623188405797,13.543478260869563,12
+Saraiya_Wardno4_D (Bihar),Muzaffrpur_Bbganj_I (Bihar),2.5,13.5,9
+Chennai_Vepmpttu_DC (Tamil Nadu),Chennai_Thiruvlr_DC (Tamil Nadu),2.5,13.5,9
+Faridabad_Blbgarh_DC (Haryana),FBD_Balabhgarh_DPC (Haryana),2.5,13.5,9
+Jorhat_RicMilRd_D (Assam),Sivasagar_Babupaty_D (Assam),2.3488612836438922,13.488612836438922,10
+Dhaka_PchpkrRD_D (Bihar),Bettiah_BypassRd_D (Bihar),2.1228070175438596,13.473684210526315,12
+Krishnarajpet_MuruPost_D (Karnataka),Koppa_BMRd_D (Karnataka),1.8974358974358974,13.46153846153846,15
+Rona_GadagRD_D (Karnataka),Gadag_Cdosclrd_D (Karnataka),1.840682788051209,13.450924608819346,16
+Nagapttinm_Sttyapar_D (Tamil Nadu),Thiruvarur_Bypasrd_D (Tamil Nadu),2.34375,13.4375,10
+Baharampur_Chuanpur_I (West Bengal),Kolkata_Dankuni_HB (West Bengal),2.919254658385093,13.434782608695652,7
+Ramdurg_GndhiNGR_D (Karnataka),Bagalkot_Sector4_D (Karnataka),1.7058823529411764,13.411764705882351,19
+Ajmer_FoySGRRD_I (Rajasthan),Beawar_DC (Rajasthan),1.9540169133192389,13.356236786469344,14
+Vrindavan_MathuraRD_D (Uttar Pradesh),Delhi_Airport_H (Delhi),2.11281512605042,13.353781512605043,12
+Chennai_Mdhavram_C (Tamil Nadu),Chennai_Chrompet_PC (Tamil Nadu),2.027027027027027,13.351351351351354,13
+Delhi_Airport_H (Delhi),Noida_Sector02_C (Uttar Pradesh),2.324324324324324,13.337411095305832,11
+Arrah_Katira_D (Bihar),Arwal_Rozapar_D (Bihar),2.333091436865022,13.33091436865022,10
+Kopargaon_NkshtrPz_D (Maharashtra),Vaijiapur_YeolaRD_D (Maharashtra),2.2083333333333335,13.291666666666668,11
+Shadnagar_Central_D_1 (Telangana),Hyderabad_Shamshbd_H (Telangana),2.88,13.288888888888888,12
+Berhampore_Central_I_2 (West Bengal),Domkal_Central_D_2 (West Bengal),2.107142857142857,13.285714285714286,12
+Ghatal_KrshDPP_D (West Bengal),Kolkata_North_I_4 (West Bengal),2.3266666666666667,13.266666666666666,10
+Nowda_AmtlaDPP_D (West Bengal),Baharampur_Chuanpur_I (West Bengal),3.6363636363636362,13.181818181818182,5
+Berhampore_Central_I_2 (West Bengal),Katwa_BSarani_D (West Bengal),2.010752688172043,13.13978494623656,13
+Roha_DataSagr_D (Maharashtra),Mahad_Govndsgr_D (Maharashtra),1.875,13.125,15
+JhumriTlya_RadhaCpx_D (Jharkhand),Gurgaon_Bilaspur_HB (Haryana),1.9372153349621453,13.121014689470034,14
+Bangalore_Nelmngla_H (Karnataka),Bhubaneshwar_Hub (Orissa),2.0912481441101862,13.094977729322235,12
+Bulndshahr_Ymunpurm_D (Uttar Pradesh),Khurja_Pnjbiyon_D (Uttar Pradesh),3.6153846153846154,13.076923076923077,5
+Bettiah_BypassRd_D (Bihar),Narktiganj_Central_DPP_2 (Bihar),1.9335288367546433,13.069403714565006,14
+Gomoh_KhsmiDPP_D (Jharkhand),Dhanbad_Kalynpur_I (Jharkhand),2.857142857142857,13.0,7
+Mahad_Govndsgr_D (Maharashtra),Pen_BljiMrkt_D (Maharashtra),2.0,13.0,13
+Ramgarh_HotelPrk_D (Jharkhand),Hazaribag_BodomBzr_DC (Jharkhand),2.0,13.0,13
+Ranchi_Hub (Jharkhand),Jamshedpur_Central_I_3 (Jharkhand),2.298890063424947,12.988900634249472,10
+Kumbakonam_Mettu_DC (Tamil Nadu),Mylduthuri_Thiruviz_D (Tamil Nadu),2.2962962962962963,12.962962962962962,10
+SultnBthry_Kollgpra_D (Kerala),Bangalore_Nelmngla_H (Karnataka),2.07847533632287,12.94170403587444,12
+Dandeli_RKComplx_D (Karnataka),Hubli_Adargchi_IP (Karnataka),1.9275362318840579,12.906649616368288,14
+Ratnagiri_MjgaonRd_D (Maharashtra),Shirala_Central_DPP_3 (Maharashtra),2.611742424242424,12.893939393939391,8
+YamunaNagar_DC (Haryana),PaontSahib_Gurudwar_D (Himachal Pradesh),2.2888888888888888,12.888888888888888,10
+Sendhwa_VishnuVhr_D (Madhya Pradesh),Dhule_MIDCAvdn_I (Maharashtra),2.607347184582957,12.858777476663654,8
+Sholinghur_ArkonmRD_D (Tamil Nadu),MAA_Poonamallee_HB (Tamil Nadu),2.0707196029776673,12.848635235732008,12
+Bethamangala_FshryOFC_D (Karnataka),Bangarapet_KolarRd_D (Karnataka),1.9166666666666665,12.833333333333332,14
+Chandigarh_Mehmdpur_H (Punjab),Jalandhar_DPC (Punjab),2.1621621621621623,12.783783783783786,11
+Nanded_Aswningr_I (Maharashtra),Loha_SivjiCWK_D (Maharashtra),2.0652173913043477,12.782608695652172,12
+Koppa_BMRd_D (Karnataka),Madikeri_MuthpTmp_D (Karnataka),1.85,12.750000000000002,15
+Neyatinkra_Arlumodu_D (Kerala),Kallikkad_Mutyvila_D (Kerala),1.75,12.75,17
+Arani_KrthiKyn_D (Tamil Nadu),Polur_StationRD_D (Tamil Nadu),2.1578947368421053,12.736842105263158,11
+Degana_BhukrdPP_D (Rajasthan),Merta_Central_DPP_1 (Rajasthan),2.0606060606060606,12.727272727272727,12
+Jaora_RtlamNka_D (Madhya Pradesh),Ahmedabad_East_H_1 (Gujarat),1.795221843003413,12.723549488054609,16
+Nandurbar_DhuleRd_D (Maharashtra),Shahada_Nandrbar_D (Maharashtra),2.268075639599555,12.680756395995552,10
+Ramanathapura_Central_D_2 (Karnataka),Hassan_Pandrnga_I (Karnataka),1.79251012145749,12.680161943319838,16
+Karanjia_Sarubali_D (Orissa),Bhadrak_Central_I_2 (Orissa),2.809917355371901,12.669421487603305,7
+Bengaluru_Peenya_IP (Karnataka),Bengaluru_Bomsndra_HB (Karnataka),1.818918918918919,12.639527027027029,21
+Kolkata_TrtllaRD_L (West Bengal),Kolkata_Dankuni_HB (West Bengal),3.103448275862069,12.620689655172413,6
+Allahabad_Central_H_1 (Uttar Pradesh),Kanpur_Central_H_6 (Uttar Pradesh),1.8405797101449275,12.608695652173912,15
+Arakkonam_HousngBd_D (Tamil Nadu),MAA_Poonamallee_HB (Tamil Nadu),2.2601214574898787,12.601214574898787,10
+Anantapur_KamaStrt_I (Andhra Pradesh),Hyderabad_Shamshbd_H (Telangana),1.7407407407407407,12.592592592592592,17
+Dumraon_Nishangr_D (Bihar),Jagdishpur_Wardno13_D (Bihar),1.837837837837838,12.567567567567568,15
+Rayadurgam_RailGate_D (Andhra Pradesh),Kalyandurg_Shankrpa_D (Andhra Pradesh),1.696969696969697,12.545454545454547,18
+Gurgaon_Bilaspur_HB (Haryana),Bhubaneshwar_Hub (Orissa),2.043713557949383,12.524562695392596,12
+Dinara_Wardno7_D (Bihar),Bikramgang_Dehrird_D (Bihar),3.5,12.5,5
+Kanpur_Central_H_6 (Uttar Pradesh),Agra_Idgah_P (Uttar Pradesh),2.5612229745782846,12.489783796626277,8
+Hyderabad_Shamshbd_H (Telangana),Kurnool_AbbasNgr_I (Andhra Pradesh),1.7789855072463767,12.463768115942027,16
+Jaleswar_NaturDPP_D (Orissa),Kolkata_Dankuni_HB (West Bengal),2.375,12.375,9
+LakhimpurN_SashPhkn_D (Assam),Dhemaji_WardNo3_D (Assam),2.765957446808511,12.361702127659576,7
+Pali_Nayagaon_I (Rajasthan),Jodhpur_Basni_I (Rajasthan),1.68657937806874,12.358428805237319,18
+Ongole_SubhVRTL_I (Andhra Pradesh),Kanigiri_Tiglgndi_D (Andhra Pradesh),1.6323529411764706,12.338235294117647,20
+Vellore_GndhiNgr_IP (Tamil Nadu),Ranipet_MBTRd_DC (Tamil Nadu),2.761904761904762,12.333333333333332,7
+Bengaluru_Peenya_L (Karnataka),Bangalore_Nelmngla_H (Karnataka),1.5714285714285714,12.298136645962732,23
+Shikohabad_Katrmira_D (Uttar Pradesh),Firozabad_Sudmpuri_D (Uttar Pradesh),2.1176470588235294,12.294117647058824,11
+Paralakhemundi_Ward14_D (Orissa),Srikakulam_Kuslpram_I (Andhra Pradesh),2.1153846153846154,12.26923076923077,11
+Bangalore_Nelmngla_H (Karnataka),Jaipur_Hub (Rajasthan),1.9436310395314789,12.267203513909225,13
+Rampurhat_SrifoDPP_D (West Bengal),Khargram_BoiDPP_D (West Bengal),2.221774193548387,12.21774193548387,10
+Rajam_SamathBv_D (Andhra Pradesh),Salur_ward9_D (Andhra Pradesh),1.6785714285714286,12.214285714285715,18
+Bengaluru_Hoodi_IP (Karnataka),Bangalore_Nelmngla_H (Karnataka),2.74468085106383,12.212765957446809,7
+Madurai_Kappalur_H (Tamil Nadu),Sivakasi_Msstreet_DC (Tamil Nadu),1.8125,12.1875,15
+Kolhapur_Shivaji_I (Maharashtra),Nipani_AkkolRD_D (Karnataka),2.3529411764705883,12.176470588235295,9
+Jamjodhpur_Court_D (Gujarat),Junagadh_DPC (Gujarat),2.0144927536231885,12.173913043478262,12
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Palakollu_CroadDPP_D (Andhra Pradesh),3.433333333333333,12.166666666666666,5
+Vellore_GndhiNgr_IP (Tamil Nadu),Arani_KrthiKyn_D (Tamil Nadu),1.935483870967742,12.161290322580646,13
+Chennai_Chrompet_DPC (Tamil Nadu),Chennai_Chnglptu_DC (Tamil Nadu),2.517857142857143,12.142857142857142,8
+Vadakara_Mandodi_D (Kerala),Kallachi_ZamQuatr_D (Kerala),1.7142857142857142,12.14285714285714,17
+Chidambaram_ARBNorth_DC (Tamil Nadu),Sirkazhi_Pngktgudi_D (Tamil Nadu),2.7333333333333334,12.133333333333333,7
+Jaipur_Central_I_7 (Rajasthan),Jaipur (Rajasthan),1.9333333333333333,12.133333333333333,13
+Madakasira_RTCStand_D (Andhra Pradesh),Pavagada_PnukndRD_D (Karnataka),1.7573529411764706,12.117647058823529,16
+Bhiwandi_Mankoli_HB (Maharashtra),Bhopal_Trnsport_H (Madhya Pradesh),2.2117632413449693,12.117632413449693,10
+Khammam_NSTRoad_I (Telangana),Tallada_PtrlBunk_D (Telangana),2.727272727272727,12.09090909090909,7
+MAA_Poonamallee_HB (Tamil Nadu),Chennai_Madhavaram_DPC (Tamil Nadu),1.8633633633633635,12.087087087087088,14
+PaontSahib_Gurudwar_D (Himachal Pradesh),Chandigarh_Mehmdpur_H (Punjab),2.506868686868687,12.054949494949497,8
+Hyderabad_Shamshbd_H (Telangana),Gulbarga_Nehrugnj_I (Karnataka),1.6676706827309238,12.018072289156628,18
+Narasnpeta_HudcoDPP_D (Andhra Pradesh),Tekkali_AmvdiDPP_D (Andhra Pradesh),2.2,12.000000000000002,10
+Aliganj_KaimgnjRD_D (Uttar Pradesh),Mainpuri_Agraroad_I (Uttar Pradesh),2.3333333333333335,12.000000000000002,9
+Hyderabad_Tolichwk_I (Telangana),Hyderabad_Shamshbd_H (Telangana),3.391304347826087,11.956521739130434,5
+Sawantwadi_LaxmiNgr_D (Maharashtra),Malvan_BllvMarg_D (Maharashtra),2.0851063829787235,11.936170212765958,11
+Jalandhar_DC (Punjab),Nakodar_ChowkDPP_D (Punjab),1.85,11.900000000000002,14
+Chennai_Hub (Tamil Nadu),Chennai_Chrompet_DPC (Tamil Nadu),2.5,11.863636363636363,12
+Narnaul_DC (Haryana),Rewari_YuktiDPP_D (Haryana),1.911764705882353,11.852941176470589,13
+Purnia_Central_H_2 (Bihar),Supaul_SadrHsptl_D (Bihar),2.184938409854423,11.849384098544231,10
+Suryapet_Krishna_D (Telangana),Nalgonda_HydRoad_DC (Telangana),1.8441295546558705,11.817813765182187,14
+Bhubaneshwar_Hub (Orissa),Bangalore_Nelmngla_H (Karnataka),2.3115530303030303,11.803977272727273,9
+Purnia_Central_H_2 (Bihar),Araria_Wardn13_D (Bihar),1.6553763440860214,11.796774193548385,18
+Masaurhi_Blockrd_D (Bihar),Jehanabad_Madarpur_D (Bihar),2.962121212121212,11.772727272727272,6
+Bengaluru_Peenya_IP (Karnataka),Bengaluru_Kengeri_IP (Karnataka),1.588235294117647,11.764705882352938,20
+Tumkur_Veersagr_I (Karnataka),Doddablpur_ChikaDPP_D (Karnataka),2.009359047078843,11.763471355643789,12
+Jamnagar_Dc (Gujarat),Khambhalia_JdswarRD_D (Gujarat),1.733653846153846,11.738461538461536,16
+Miryalguda_Ragvendr_D (Telangana),Vijayawada_Rynapadu_H (Andhra Pradesh),2.1695652173913045,11.695652173913045,10
+Bhadrachalam_ITDARd_D (Telangana),Manuguru_AskNagar_D (Telangana),1.6875,11.6875,17
+Limbdi_Busstand_D (Gujarat),Botad_DC (Gujarat),1.8974358974358974,11.666666666666666,13
+Gondia_RamNgr_D (Maharashtra),Balaghat_Kosmi_D (Madhya Pradesh),2.2962962962962963,11.666666666666666,9
+Thrissur_Poothole_D (Kerala),Aluva_Peedika_H (Kerala),2.2962962962962963,11.666666666666666,9
+PNQ Vadgaon Sheri DPC (Maharashtra),Pune_Tathawde_H (Maharashtra),2.0606060606060606,11.666666666666666,11
+Upleta_AdrshSt_DC (Gujarat),Junagadh_DPC (Gujarat),2.2941176470588234,11.64705882352941,9
+Kunnathund_Pringla_D (Kerala),Aluva_Peedika_H (Kerala),1.894736842105263,11.63157894736842,13
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Kishangarh_DPC (Delhi),1.58,11.600000000000001,20
+Hubli_Adargchi_IP (Karnataka),Ramdurg_GndhiNGR_D (Karnataka),1.9195402298850575,11.540229885057471,13
+Hyderabad_Shamshbd_H (Telangana),Patancheru_Ameenpur_I (Telangana),1.8665183537263625,11.539043381535038,16
+Solan_MohanPrk_D (Himachal Pradesh),Parwanoo_Central_D_1 (Himachal Pradesh),3.3076923076923075,11.538461538461537,5
+NeemKaThana_War5DPP_D (Rajasthan),Khandela_PlsrdDPP_D (Rajasthan),2.9170673076923075,11.502403846153845,6
+Sehore_Mangalam_D (Madhya Pradesh),Ashta_ShantiNg_D (Madhya Pradesh),1.7666666666666666,11.5,15
+Shahada_Nandrbar_D (Maharashtra),Shindkheda_KakaCplx_D (Maharashtra),2.2777777777777777,11.5,9
+Shrirampur_DavkharRd_D (Maharashtra),Shirdi_SaiBansi_D (Maharashtra),1.8846153846153846,11.5,13
+Devarakonda_DindiRD_D (Telangana),Haliya_PeroorRD_D (Telangana),1.7647058823529411,11.470588235294116,15
+Chimkurthy_MSRClgRd_D (Andhra Pradesh),Markapur_VidyaNgr_D (Andhra Pradesh),1.88135593220339,11.45762711864407,13
+Khammam_NSTRoad_I (Telangana),Suryapet_Krishna_D (Telangana),1.8181818181818181,11.454545454545453,14
+Baharampur_Chuanpur_I (West Bengal),Morgram_Kntgorya_D (West Bengal),2.6333333333333333,11.433333333333334,7
+Mulbagal_Sunku_D (Karnataka),Chintamani_Central_D_2 (Karnataka),1.8163319238900635,11.42864693446089,14
+Vijayawada_Rynapadu_H (Andhra Pradesh),Gudivada_GvrCompx_D (Andhra Pradesh),1.711904761904762,11.390476190476193,16
+Ranebennur_SriRmNGR_D (Karnataka),Haveri_GuttalRD_D (Karnataka),1.7115384615384617,11.384615384615387,16
+Deoria_CCRoad_D (Uttar Pradesh),Salempur_Banjaria_D (Uttar Pradesh),1.875,11.375,13
+Bahadurgarh_DC (Haryana),Sonipat_Kundli_H (Haryana),2.260869565217391,11.34782608695652,9
+Kanpur_Central_H_6 (Uttar Pradesh),Allahabad_Central_H_1 (Uttar Pradesh),1.5755395683453237,11.332985425131396,21
+Nakodar_ChowkDPP_D (Punjab),Jalandhar_DPC (Punjab),2.13125,11.3125,10
+Sivaganga_Wardno3_D (Tamil Nadu),Thiruvadanai_RamnadRD_D (Tamil Nadu),1.78125,11.303977272727273,15
+Sagardighi_UtBzrDPP_D (West Bengal),Berhampore_Central_I_2 (West Bengal),2.027027027027027,11.297297297297298,11
+Kashipur_BajprDPP_D (Uttarakhand),Rudrapur_UdhamNgr_H (Uttarakhand),1.868421052631579,11.289473684210527,13
+MAA_Poonamallee_HB (Tamil Nadu),Kanchipuram_DC (Tamil Nadu),2.409090909090909,11.272727272727273,8
+Goa_Hub (Goa),Pune_Tathawde_H (Maharashtra),1.9385467899534397,11.262561479441276,12
+Solapur_Central_I_2 (Maharashtra),Hyderabad_Shamshbd_H (Telangana),1.8042340197429794,11.25927627640171,14
+Shirdi_SaiBansi_D (Maharashtra),Kopargaon_NkshtrPz_D (Maharashtra),2.25,11.25,9
+Bhopal_Trnsport_H (Madhya Pradesh),Narsinghgarh_Central_D_1 (Madhya Pradesh),2.125,11.25,10
+Kanpur_Central_H_6 (Uttar Pradesh),Kanpur_GovndNgr_DC (Uttar Pradesh),2.23,11.219999999999999,14
+Dhemaji_WardNo3_D (Assam),Silapathar_Hejunagr_D (Assam),2.12,11.200000000000001,10
+Kanpur_Central_H_6 (Uttar Pradesh),Auraiya_AryaNagr_D (Uttar Pradesh),1.6366421568627452,11.190726290516206,18
+Solapur_Central_I_2 (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),2.398244186834791,11.185953494678326,8
+Rajsamand_kankroli_D (Rajasthan),Udaipur_Mangri_I (Rajasthan),1.7987588652482271,11.18262411347518,14
+Sivasagar_Babupaty_D (Assam),Dibrugarh_Bokule_H (Assam),2.1179315476190474,11.179315476190474,10
+Aranthangi_HsptlRod_D (Tamil Nadu),Karaikudi_Sbrmnprm_D (Tamil Nadu),1.6985887096774195,11.177419354838712,16
+Chandigarh_Mehmdpur_H (Punjab),Samana_PODPP_D (Punjab),2.23728813559322,11.135593220338981,9
+CCU_DumDum_DPC (West Bengal),Kolkata_Dankuni_HB (West Bengal),2.8529411764705883,11.117647058823529,6
+Gurgaon_Bilaspur_HB (Haryana),MAA_Poonamallee_HB (Tamil Nadu),1.8773291925465838,11.090062111801242,13
+Gurgaon_Bilaspur_RP (Haryana),KN_RPC (Delhi),2.1087962962962963,11.087962962962962,10
+Bhubaneshwar_Hub (Orissa),Berhampur_Khajuria_I (Orissa),2.007518796992481,11.08270676691729,11
+Indi_SindgiRD_D (Karnataka),Aland_RazaviRd_D (Karnataka),1.7886597938144329,11.04123711340206,14
+Jalandhar_DPC (Punjab),Phagwara_Lovely_D (Punjab),2.0,11.0,11
+Lalpet_PriyrNGR_D (Tamil Nadu),Kulithalai_AnnaNGR_D (Tamil Nadu),1.7333333333333334,11.0,15
+SultnBthry_Kollgpra_D (Kerala),Kalpetta_Ward19_D (Kerala),2.0,11.0,11
+Chennai_Chrompet_DPC (Tamil Nadu),Chennai_Hub (Tamil Nadu),3.2,11.0,5
+Najibabad_KotdwrRD_D (Uttar Pradesh),Dhampur_NaginaRD_D (Uttar Pradesh),2.566666666666667,10.966666666666669,7
+Solapur_Central_I_2 (Maharashtra),Osmanabad_Kakdepot_D (Maharashtra),1.5474290780141844,10.948581560283689,20
+Nanoor_Central_DPP_1 (West Bengal),Durgapur_Central_I_1 (West Bengal),1.7805835010060362,10.928169014084506,14
+Sitamau_Central_DPP_1 (Madhya Pradesh),Pratapgarh_Nimachrd_D (Rajasthan),2.4464285714285716,10.916353383458647,10
+Airport (Tamil Nadu),Chennai_Sholinganallur_Dc (Tamil Nadu),2.3636363636363633,10.909090909090907,8
+Jaipur_Hub (Rajasthan),Chomu_ShsmlDPP_D (Rajasthan),2.210526315789474,10.894736842105265,9
+Jadcherla_Badeplly_D (Telangana),Hyderabad_Shamshbd_H (Telangana),1.836734693877551,10.877551020408164,13
+Jaipur_Hub (Rajasthan),Udaipur_Mangri_I (Rajasthan),1.9059233449477353,10.871080139372824,12
+Chandigarh_Mehmdpur_H (Punjab),Amritsar_DPC (Punjab),1.9830508474576272,10.8135593220339,11
+Guwahati_UzanBazr_DC (Assam),Guwahati_Hub (Assam),2.9473684210526314,10.789473684210526,10
+Digboi_JyotiNgr_D (Assam),Margherita_CivilHPL_D (Assam),2.3472222222222223,10.777777777777779,8
+Vellore_GndhiNgr_IP (Tamil Nadu),MAA_Poonamallee_HB (Tamil Nadu),1.783132530120482,10.774610637672641,14
+Hyderabad_Uppal_I (Telangana),Hyderabad_South_D_12 (Telangana),3.142857142857143,10.714285714285714,5
+Thiruvarur_Bypasrd_D (Tamil Nadu),Pondicherry_Vasanthm_I (Pondicherry),2.071428571428571,10.714285714285712,10
+Kolhapur_Shivaji_I (Maharashtra),Surat_HUB (Gujarat),1.7139959432048681,10.709939148073023,15
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_Banshkri_DC (Karnataka),1.8214285714285714,10.678571428571429,13
+Ahmedabad_East_H_1 (Gujarat),Udaipur_Mangri_I (Rajasthan),1.9692307692307693,10.661538461538463,11
+Nadiad_DC (Gujarat),Umreth_Dakor_DC (Gujarat),1.76,10.64,14
+Vinukonda_Kothapet_D (Andhra Pradesh),Addanki_Oilmilrd_D (Andhra Pradesh),1.56,10.64,19
+Aligarh_KhirByps_I (Uttar Pradesh),Mainpuri_Agraroad_I (Uttar Pradesh),2.519230769230769,10.634615384615383,7
+Aluva_Peedika_H (Kerala),Bangalore_Nelmngla_H (Karnataka),2.062069097594607,10.620690975946072,10
+Bhatinda_DPC (Punjab),Chandigarh_Mehmdpur_H (Punjab),1.5297955974842767,10.595911949685535,20
+Ukkadagatri_Tuminkte_D (Karnataka),Davangere_Central_I_1 (Karnataka),1.813953488372093,10.581395348837209,13
+Nalgonda_HydRoad_DC (Telangana),Hyderabad_Shamshbd_H (Telangana),1.7543103448275863,10.560344827586208,14
+Kottarakkara_Amankovl_D (Kerala),Punalur_PostofJN_D (Kerala),1.5278637770897832,10.557275541795663,20
+Kurnool_AbbasNgr_I (Andhra Pradesh),Raichur_LSRoad_DC (Karnataka),1.8085106382978724,10.51063829787234,13
+Baharampur_Chuanpur_I (West Bengal),Domkal_Central_D_2 (West Bengal),2.5,10.5,7
+Chennai_Sholinganallur_Dc (Tamil Nadu),Chennai_Perungudi_DPC (Tamil Nadu),2.5,10.5,7
+Kalluvathukal_Pariplly_D (Kerala),Kilimanoor_Krvnkuzy_D (Kerala),1.525,10.499999999999998,20
+Pune_Tathawde_H (Maharashtra),Gurgaon_Bilaspur_HB (Haryana),1.7472906403940887,10.462068965517242,14
+Gurgaon_Bilaspur_HB (Haryana),Vijayawada_Rynapadu_H (Andhra Pradesh),1.9508580343213728,10.4594383775351,11
+Lonavala_NngrgnRd_D (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),2.3059701492537314,10.447761194029852,8
+Dehradun (Uttarakhand),Sonipat_Kundli_H (Haryana),2.0787037037037037,10.440247490481136,10
+Rudrapur_UdhamNgr_H (Uttarakhand),Ramnagar_BhwniGnj_D (Uttarakhand),1.6956521739130435,10.434782608695652,15
+Hyderabad_Shamshbd_H (Telangana),Solapur_Central_I_2 (Maharashtra),1.9477911646586346,10.42570281124498,11
+Vijayawada_Rynapadu_H (Andhra Pradesh),Khammam_NSTRoad_I (Telangana),1.8,10.4,13
+Palasa_Central_DPP_1 (Andhra Pradesh),Paralakhemundi_Ward14_D (Orissa),2.0399259650978316,10.399259650978316,10
+Vijayawada_Rynapadu_H (Andhra Pradesh),Nuzvid_Ward17_D (Andhra Pradesh),1.5471698113207548,10.396226415094342,19
+Bengaluru_KGAirprt_HB (Karnataka),HBR Layout PC (Karnataka),1.7419354838709677,10.387096774193548,14
+Sankaran_Kovil_D (Tamil Nadu),Rajpalayam_AshkTalk_D (Tamil Nadu),1.6490147783251232,10.384236453201972,16
+Kolkata_Dankuni_HB (West Bengal),Guwahati_Hub (Assam),3.073099415204678,10.365497076023392,5
+Bangalore_Nelmngla_H (Karnataka),MAA_Poonamallee_HB (Tamil Nadu),1.9421487603305785,10.363636363636363,11
+Ghanashyampur_NditaDPP_D (West Bengal),Baharampur_Chuanpur_I (West Bengal),3.0677966101694913,10.338983050847457,5
+Gurgaon_Kadipur (Haryana),Gurgaon_Manesar (Haryana),2.4761904761904763,10.333333333333334,7
+Naugchia_Vijayght_D (Bihar),Khagaria_GodamDPP_D (Bihar),2.0328502415458938,10.328502415458939,10
+Vallior_Radhaprm_D (Tamil Nadu),Nagarcoil_AsrplmRd_DC (Tamil Nadu),1.9375,10.3125,11
+BiharSarif_Soghra_D (Bihar),Nawada_Central_DPP_2 (Bihar),2.287878787878788,10.303030303030305,8
+Gurgaon_Bilaspur_HB (Haryana),Jaipur_RIICO_L (Rajasthan),1.6863905325443787,10.295857988165679,15
+Chennai_Egmore_DPC (Tamil Nadu),MAA_Poonamallee_HB (Tamil Nadu),2.286786786786787,10.294294294294296,8
+Barpeta_ShivBari_D (Assam),Bongaigaon_Chpaguri_D (Assam),2.4693877551020407,10.285714285714285,7
+Ludhiana_MilrGanj_HB (Punjab),Jalandhar_DPC (Punjab),1.6041666666666667,10.270833333333334,17
+Guwahati_Hub (Assam),Shillong (Meghalaya),2.0251020408163267,10.251020408163267,10
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Rohini_DPC (Delhi),1.6029411764705883,10.250000000000002,17
+Ranikhet_Subhash_D (Uttarakhand),Almora_SuzkiSrv_D (Uttarakhand),2.019607843137255,10.196078431372548,10
+Ramanagara_BMRd_DC (Karnataka),Kanakapura_VaniThtr_D (Karnataka),1.9259259259259258,10.185185185185183,11
+Guntakal_Verpatem_D (Andhra Pradesh),Rayadurgam_RailGate_D (Andhra Pradesh),1.5681818181818181,10.182601880877744,18
+Karimganj_Alngjuri_D (Assam),Badarpur_Konapara_D (Assam),2.6923076923076925,10.153846153846155,6
+MAA_Poonamallee_HB (Tamil Nadu),Bangalore_Nelmngla_H (Karnataka),1.845694779116466,10.148337349397591,12
+LowerParel_CP (Maharashtra),Mumbai Hub (Maharashtra),2.2666666666666666,10.133333333333333,8
+GZB_Mohan_Nagar_DPC (Uttar Pradesh),Pilkhuwa_HapurRD_D (Uttar Pradesh),2.266002844950213,10.128022759601706,8
+Plassey_BtaiRoad_D (West Bengal),Baharampur_Chuanpur_I (West Bengal),2.6875,10.125,6
+Kurnool_AbbasNgr_I (Andhra Pradesh),Hyderabad_Shamshbd_H (Telangana),1.84375,10.125,12
+Bhiwandi_Mankoli_HB (Maharashtra),Sonipat_Kundli_H (Haryana),1.9171483622350673,10.08863198458574,11
+Tekkali_AmvdiDPP_D (Andhra Pradesh),Palasa_Central_DPP_1 (Andhra Pradesh),1.72,10.08,14
+RaisingNgr_BisnolDPP_D (Rajasthan),Hanumangarh_DC (Rajasthan),2.118811881188119,10.06930693069307,9
+Kolkata_Dankuni_HB (West Bengal),Durgapur_Central_I_1 (West Bengal),2.1333333333333333,10.053459119496853,10
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Draksharamam_Anaipeta_D (Andhra Pradesh),2.675531914893617,10.053191489361703,6
+Hyderabad_Shamshbd_H (Telangana),Warangal_HunterRd_I (Telangana),1.7704918032786885,10.01639344262295,13
+Pthnmthitt_Klskhrpt_D (Kerala),Adoor_Town_D (Kerala),1.7149999999999999,10.009999999999998,14
+Anantapur_KamaStrt_I (Andhra Pradesh),Gooty_StatonRd_D (Andhra Pradesh),1.7149122807017543,10.00877192982456,14
+Miryalguda_Ragvendr_D (Telangana),Khammam_NSTRoad_I (Telangana),3.0,10.0,5
+SikandraRao_JydevNGR_D (Uttar Pradesh),Etah_CivlLine_D (Uttar Pradesh),3.0,10.0,5
+Baraut_SrnprHwy_D (Uttar Pradesh),Shamli_KarnalRd_D (Uttar Pradesh),1.9090909090909092,10.0,11
+Chandigarh_Mehmdpur_H (Punjab),Sonipat_Kundli_H (Haryana),1.9083969465648856,9.992366412213741,11
+Bhubaneshwar_Hub (Orissa),Bhadrak_Central_I_2 (Orissa),1.8296703296703296,9.956043956043956,12
+Pilkhuwa_HapurRD_D (Uttar Pradesh),Hapur_Swargash_D (Uttar Pradesh),1.7104166666666667,9.945833333333333,14
+Jalandhar_Sodal Road (Punjab),Ludhiana_MilrGanj_HB (Punjab),1.94185598767809,9.936850211782827,11
+Sujanpur_SainkSCL_D (Himachal Pradesh),Nadaun_Ward6_D (Himachal Pradesh),2.1,9.9,9
+Aurangabad_Central_H_1 (Maharashtra),Beed_JalnaRd_D (Maharashtra),2.2346938775510203,9.877551020408163,8
+Kurnool_AbbasNgr_I (Andhra Pradesh),Nandikotkr_UmarDPP_D (Andhra Pradesh),1.7586206896551724,9.86206896551724,13
+Pollachi_Venkatsa_DC (Tamil Nadu),Coimbatore_Karayam_H (Tamil Nadu),1.5789473684210527,9.842105263157896,17
+Mundakayam_Central_D_1 (Kerala),Karukachal_MnimlaRd_D (Kerala),2.2285714285714286,9.82857142857143,8
+Ludhiana_MilrGanj_HB (Punjab),Nawanshahr_DC (Punjab),1.8174603174603174,9.80952380952381,12
+Renukoot_Govind_D (Uttar Pradesh),Anpara_Parasi_D (Uttar Pradesh),2.4,9.799999999999999,7
+Deoghar_Barmasia_D (Jharkhand),Godda_Central_D_2 (Jharkhand),2.4,9.799999999999999,7
+Jalna_BhgyaNgr_D (Maharashtra),Sillod_ZebaTWR_D (Maharashtra),1.9795918367346939,9.795918367346939,10
+Budhana_Busstand_D (Uttar Pradesh),Sonipat_Kundli_H (Haryana),1.9787581699346406,9.787581699346406,10
+Hospet (Karnataka),Sandur_WrdN1DPP_D (Karnataka),2.2222222222222223,9.777777777777779,8
+Puttaprthi_Gokulam_D (Andhra Pradesh),Hindupur_Parigi_D (Andhra Pradesh),1.694915254237288,9.76806422836753,15
+Sonipat_Kundli_H (Haryana),Modinagar_SikriKla_DC (Uttar Pradesh),2.0851063829787235,9.765957446808512,9
+Brahmapuri_DhnliRth_D (Maharashtra),Gadchiroli_Central_DPP_1 (Maharashtra),2.6246376811594203,9.747826086956522,6
+AnandprShb_PnjPiara_D (Punjab),Chandigarh_Mehmdpur_H (Punjab),1.7714285714285714,9.741758241758241,17
+Mumbai_Sanpada_I (Maharashtra),Mumbai Hub (Maharashtra),1.973684210526316,9.73684210526316,10
+Dhule_MIDCAvdn_I (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),2.2170731707317075,9.73658536585366,8
+Nellore_DC (Andhra Pradesh),Hyderabad_Shamshbd_H (Telangana),1.6933701657458564,9.70718232044199,14
+Mainpuri_Agraroad_I (Uttar Pradesh),Chhibramau_Bhainpura_D (Uttar Pradesh),2.2125,9.7,8
+Gurgaon_Bilaspur_HB (Haryana),Ranchi_Hub (Jharkhand),1.8813160987074031,9.694477085781434,11
+Bangalore_East_I_20 (Karnataka),Kolar_Ambedkar_D (Karnataka),1.7454545454545454,9.69090909090909,13
+Ashta_ShantiNg_D (Madhya Pradesh),Bhopal_Trnsport_H (Madhya Pradesh),2.3835616438356166,9.684931506849317,7
+Nawada_Central_DPP_2 (Bihar),Rajgir_PnditNGR_D (Bihar),2.210144927536232,9.681159420289855,8
+Pratapgarh_Nimachrd_D (Rajasthan),Udaipur_Mangri_I (Rajasthan),2.3823529411764706,9.676470588235293,7
+Karkala_MarketRd_D (Karnataka),Dhrmsthala_Beltngdi_D (Karnataka),1.9673913043478262,9.673913043478262,10
+Purulia_GariDPP_D (West Bengal),Jhalda_GMukrDPP_D (West Bengal),1.7435897435897436,9.666666666666668,13
+Ajmer_FoySGRRD_I (Rajasthan),Kishangarh_Central_D_2 (Rajasthan),2.074074074074074,9.666666666666666,9
+Khambhat_MotvdDPP_D (Gujarat),Anand_Vaghasi_IP (Gujarat),1.8046129374337223,9.655355249204668,12
+Wanaparthy_VallaDPP_D (Telangana),Kurnool_AbbasNgr_I (Andhra Pradesh),2.206896551724138,9.655172413793103,8
+Mahabubnagar_DC (Telangana),Bijnapally_nagar_D (Telangana),1.5361344537815125,9.650420168067225,18
+Anantapur_KamaStrt_I (Andhra Pradesh),Dharmavram_SaiNgr_D (Andhra Pradesh),1.875,9.625,11
+Ranchi_Hub (Jharkhand),Gurgaon_Bilaspur_HB (Haryana),1.9612676056338028,9.60093896713615,10
+Kadthal_GndhiDPP_D (Telangana),Devarakonda_DindiRD_D (Telangana),2.2000907441016335,9.600725952813068,8
+Rewari_YuktiDPP_D (Haryana),Dharuhera_Central_DPP_2 (Haryana),1.96,9.6,10
+Mandapeta_Mainrd_D (Andhra Pradesh),Kakinada_DC (Andhra Pradesh),1.7,9.597560975609756,15
+Sindagi_KalyanNg_D (Karnataka),Indi_SindgiRD_D (Karnataka),1.6382978723404256,9.574468085106384,15
+Del_Okhla_PC (Delhi),Noida_Sec 02_DPC (Uttar Pradesh),2.2142857142857144,9.571428571428573,12
+Kadaba_AnugrDPP_D (Karnataka),Bangalore_Nelmngla_H (Karnataka),2.5903247038174637,9.541948222904782,6
+Husnabad_Greenmkt_D (Telangana),Jammikunta_ConduDPP_D (Telangana),1.7333333333333334,9.533333333333335,13
+Pavagada_PnukndRD_D (Karnataka),Puttaprthi_Gokulam_D (Andhra Pradesh),1.792376893939394,9.508522727272728,12
+Pennadam_EastmnRD_D (Tamil Nadu),Chinnasalem_VkotRoad_D (Tamil Nadu),1.6791310541310542,9.50783475783476,14
+Bijnapally_nagar_D (Telangana),Jadcherla_Badeplly_D (Telangana),1.5,9.5,19
+Sedam_DBRCmplx_D (Karnataka),Chincholi_Mainroad_D (Karnataka),1.5270270270270272,9.48648648648649,18
+Thirumalagiri_Xroad_D (Telangana),Hyderabad_Uppal_I (Telangana),1.789939300012915,9.479271600154979,12
+Kurnool_AbbasNgr_I (Andhra Pradesh),Nandyal_SrnvsNgr_D (Andhra Pradesh),1.5259216589861753,9.466589861751155,18
+Sasaram_Central_I_2 (Bihar),Kanpur_Central_H_6 (Uttar Pradesh),1.9460921177587844,9.460921177587844,10
+Ghumarwin_Gndhichk_D (Himachal Pradesh),Jahu_Sulgwan_D (Himachal Pradesh),1.945925925925926,9.45925925925926,10
+Cuddalore_KtsiGrsm_D (Tamil Nadu),Chidambaram_ARBNorth_DC (Tamil Nadu),1.8571428571428572,9.428571428571429,11
+Bhandara_RjnaiDPP_D (Maharashtra),Bhandara_KaremDPP_D (Maharashtra),1.7857142857142856,9.428571428571427,12
+Sonipat_Kundli_H (Haryana),Bahadurgarh_DC (Haryana),1.9404761904761905,9.404761904761905,10
+Venktagiri_TirupthiRd_D (Andhra Pradesh),Gudur_Bngisheb_D (Andhra Pradesh),1.6714285714285715,9.4,14
+Junagadh_DPC (Gujarat),Jetpur_DC (Gujarat),2.0434782608695654,9.39130434782609,9
+Makrana_Mwalibad_D (Rajasthan),Degana_BhukrdPP_D (Rajasthan),1.8529411764705883,9.382352941176471,11
+Tirupur_Koliplm_I (Tamil Nadu),Avinashi_Valluvar_D (Tamil Nadu),1.9375,9.375,10
+Umreth_Dakor_DC (Gujarat),Anand_Vaghasi_IP (Gujarat),1.72,9.36,13
+ChandroknaRD_Central_DPP_3 (West Bengal),Kharagpur_DC (West Bengal),2.166666666666667,9.333333333333336,8
+Bhopal_Trnsport_H (Madhya Pradesh),Jabalpur_Adhartal_IP (Madhya Pradesh),2.555299539170507,9.331797235023043,6
+Melur_MduraiRD_D (Tamil Nadu),Madurai_Kappalur_H (Tamil Nadu),1.7173913043478262,9.32608695652174,13
+Delhi_PunjabiB_L (Delhi),Gurgaon_Bilaspur_HB (Haryana),1.847457627118644,9.322033898305085,11
+Bijnor_NaginaRd_D (Uttar Pradesh),Najibabad_KotdwrRD_D (Uttar Pradesh),1.8461538461538463,9.307692307692308,11
+Auraiya_AryaNagr_D (Uttar Pradesh),Etawah_MhraChng_D (Uttar Pradesh),1.4893617021276595,9.297872340425531,19
+Chandigarh_Mehmdpur_H (Punjab),Bhatinda_DPC (Punjab),1.7134146341463414,9.274390243902438,13
+Mudigere_HesglDPP_D (Karnataka),Sakleshpur_RgvdrDPP_D (Karnataka),1.84,9.24,11
+Hiriyur_TahurDPP_D (Karnataka),Chitradurga_DC (Karnataka),1.8387096774193548,9.225806451612902,11
+Eluru_Agraharm_DC (Andhra Pradesh),Kaikaluru_Atapaka_D (Andhra Pradesh),1.7083333333333333,9.208333333333332,13
+Markapur_VidyaNgr_D (Andhra Pradesh),Vinukonda_Kothapet_D (Andhra Pradesh),1.6513468013468013,9.118855218855218,14
+Jalgaon_DC (Maharashtra),Bhusawal_Samarth_D (Maharashtra),2.823529411764706,9.11764705882353,5
+Guna_HnumnDPP_D (Madhya Pradesh),Ashokngr_Bypassrd_D (Madhya Pradesh),1.9102564102564101,9.102564102564102,10
+Hyderabad_Alwal_I (Telangana),Hyderabad_Shamshbd_H (Telangana),2.2972972972972974,9.08108108108108,7
+Renwal_ChomuRD_D (Rajasthan),Jaipur_Central_I_7 (Rajasthan),2.510459089226212,9.062754535357273,6
+Jodhpur_Basni_I (Rajasthan),Piparcity_BsstdDPP_D (Rajasthan),2.13265306122449,9.061224489795919,8
+Banswada_Menagrdn_D (Telangana),Yellareddy_JKRoad_D (Telangana),1.5384615384615385,9.006153846153847,17
+Kolaghat_Central_DPP_2 (West Bengal),Panskura_Central_D_3 (West Bengal),1.6,9.000000000000002,15
+Pilani (Rajasthan),Rajgarh_SadulDPP_D (Rajasthan),2.8,9.0,5
+Bodhan_SuryaDPP_D (Telangana),Banswada_Menagrdn_D (Telangana),1.5,9.0,18
+Ooty_Davisdle_D (Tamil Nadu),Gudalur_kalmpuza_D (Tamil Nadu),2.5,9.0,6
+Osmanabad_Kakdepot_D (Maharashtra),Barshi_Kurduwdi_D (Maharashtra),1.4285714285714286,9.0,21
+Marthandam_Nallur_D (Tamil Nadu),Tirunelveli_VdkkuSrt_I (Tamil Nadu),2.0,9.0,9
+Bangalore_Nelmngla_H (Karnataka),Pune_Tathawde_H (Maharashtra),1.6914556962025316,8.98892405063291,13
+Delhi_Airport_H (Delhi),GZB_Mohan_Nagar_DPC (Uttar Pradesh),2.492016806722689,8.952100840336135,6
+Sonipat_Kundli_H (Haryana),Delhi_Airport_H (Delhi),2.2758620689655173,8.931034482758621,7
+Gurgaon_Bilaspur_HB (Haryana),Jhajjar_DC (Haryana),1.891304347826087,8.91304347826087,10
+Pondicherry_Vasanthm_I (Pondicherry),Cuddalore_KtsiGrsm_D (Tamil Nadu),1.7413793103448276,8.896551724137932,12
+Coimbatore_Karayam_H (Tamil Nadu),Sathyamangalam_Mlydpthr_D (Tamil Nadu),1.8085106382978724,8.893617021276597,11
+Perambalur_goplpurm_D (Tamil Nadu),Ariyalur_Kmrajngr_D (Tamil Nadu),1.5553359683794468,8.885375494071148,16
+Cherthala_Mulapali_D (Kerala),Aluva_Peedika_H (Kerala),2.269230769230769,8.884615384615383,7
+Rayachoti_Madnpali_D (Andhra Pradesh),Pulivendula_RTCStand_D (Andhra Pradesh),1.5921052631578947,8.881578947368421,15
+Kalpakkam_Sadras_D (Tamil Nadu),MAA_Poonamallee_HB (Tamil Nadu),1.8059701492537314,8.865671641791046,11
+Bobbili_ColegRd_D (Andhra Pradesh),Parvathipuram_Central_D_2 (Andhra Pradesh),1.5534420289855073,8.855072463768117,16
+Bellary_Dc (Karnataka),Molakalmuru_KnsgraRD_D (Karnataka),1.9534883720930232,8.83720930232558,10
+Sahebganj_BaraLoha_D (Jharkhand),Dhanbad_Kalynpur_I (Jharkhand),1.8813469927769435,8.813469927769436,10
+Kurukshetra_DC (Haryana),Pehowa_WdN14DPP_D (Haryana),1.4001322751322751,8.802910052910052,22
+Muzaffrpur_Bbganj_I (Bihar),Dhaka_PchpkrRD_D (Bihar),1.8,8.8,11
+Gadarwara_MPward_D (Madhya Pradesh),Bareli_SourvDPP_D (Madhya Pradesh),2.4642857142857144,8.785714285714286,6
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Nangli_IP (Delhi),1.6756756756756757,8.783783783783784,13
+Alwar_Central_I_1 (Rajasthan),Bharatpur_NraynDPP_D (Rajasthan),1.7307692307692308,8.76923076923077,12
+Neemuch_KarjuDPP_D (Madhya Pradesh),BariSadri_BhmprDPP_D (Rajasthan),2.460606060606061,8.763636363636365,6
+Orai_Ajnari_D (Uttar Pradesh),Konch_Central_D_2 (Uttar Pradesh),1.4379276637341154,8.758553274682308,20
+Bhopal MP Nagar (Madhya Pradesh),Bhopal_Trnsport_H (Madhya Pradesh),2.25,8.75,7
+Kankavali_NrdawDPP_D (Maharashtra),Pune_Tathawde_H (Maharashtra),2.243150684931507,8.70205479452055,7
+Noida_Surajpur_DC (Uttar Pradesh),Noida_Sec 02_DPC (Uttar Pradesh),2.736842105263158,8.68421052631579,5
+Chabua_CollgeRD_D (Assam),Tinusukia_Chrwpaty_D (Assam),2.7333333333333334,8.666666666666668,5
+Didwana_KatlaDPP_D (Rajasthan),Sujangarh_LdnunDPP_D (Rajasthan),1.6666666666666667,8.666666666666668,13
+Gangavathi_PhrmPlza_D (Karnataka),Koppal_Banikatt_D (Karnataka),1.6666666666666667,8.666666666666668,13
+Pazhayannur_AlathurRD_D (Kerala),Thrissur_Poothole_D (Kerala),1.8653846153846154,8.653846153846153,10
+Soraon_BypassRD_D (Uttar Pradesh),Phulpur_Shekhpur_D (Uttar Pradesh),1.72,8.64,12
+Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),Hyderabad_Shamshbd_H (Telangana),2.0740965943942182,8.592772755153746,8
+Nandigama_Chndrlpd_D (Andhra Pradesh),Vijayawada_Rynapadu_H (Andhra Pradesh),2.227272727272727,8.59090909090909,7
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),1.7803030303030303,8.583333333333332,11
+MAA_Poonamallee_HB (Tamil Nadu),Bengaluru_Bomsndra_HB (Karnataka),1.7148936170212767,8.57872340425532,12
+Kanpur_Central_H_6 (Uttar Pradesh),Kanpur_Central_D_7 (Uttar Pradesh),1.75,8.55,21
+Sankari_Trchngrd_D (Tamil Nadu),Erode (Tamil Nadu),1.8529411764705883,8.529411764705884,10
+ChrkhiDdri_PuranDPP_D (Haryana),Gurgaon_Bilaspur_HB (Haryana),2.0652768284347234,8.522214627477787,8
+Vapi_IndEstat_I (Gujarat),Bhiwandi_Mankoli_HB (Maharashtra),2.704,8.520000000000001,5
+Sonipat_Kundli_H (Haryana),Muzaffrngr_MhmodNgr_D (Uttar Pradesh),1.946236559139785,8.516129032258064,9
+Pune_Tathawde_H (Maharashtra),Vijayawada_Rynapadu_H (Andhra Pradesh),1.945906432748538,8.513157894736842,9
+Parvathipuram_Central_D_2 (Andhra Pradesh),Palakonda_VadaiDPP_D (Andhra Pradesh),1.5,8.5,17
+Hindaun_MndwrRod_D (Rajasthan),Karauli_HnsChowk_D (Rajasthan),1.6071428571428572,8.5,14
+Thiruvarur_Bypasrd_D (Tamil Nadu),Thirthurpondi_Madaprum_D (Tamil Nadu),1.6538461538461537,8.499999999999998,13
+Cochin_PanditRd_D (Kerala),Aluva_Peedika_H (Kerala),2.0615530303030303,8.492424242424242,8
+Una_Mamlatdr_DC (Gujarat),Talala_SsnRdDPP_D (Gujarat),1.7704918032786885,8.475409836065573,11
+Aurangabad_Central_H_1 (Maharashtra),Pune_Tathawde_H (Maharashtra),1.9415204678362572,8.473684210526315,9
+Kanker_KrisnKunj_D (Chhattisgarh),Mahasamund_RajpurRD_D (Chhattisgarh),1.7692307692307692,8.46153846153846,11
+Kanigiri_Tiglgndi_D (Andhra Pradesh),Kandukur_LICOffce_D (Andhra Pradesh),1.6222222222222222,8.436406619385345,19
+Singrauli_Waidhan_D (Madhya Pradesh),Singrauli_Ward8DPP_D (Madhya Pradesh),2.4,8.399999999999999,6
+Udaipur_Mangri_I (Rajasthan),Banswara_KhandDPP_D (Rajasthan),2.198675496688742,8.390728476821193,7
+Tirunelveli_VdkkuSrt_I (Tamil Nadu),Eral_Busstand_D (Tamil Nadu),1.5975158562367864,8.36522198731501,14
+Gurgaon_Bilaspur_HB (Haryana),Delhi_PunjabiB_L (Delhi),1.5573770491803278,8.360655737704917,15
+Hunsur_RatnaDPP_D (Karnataka),Gonikoppal_Thomas_D (Karnataka),1.6961538461538461,8.353846153846153,12
+Pratapgarh_Nimachrd_D (Rajasthan),Mandsaur_YashDPP_D (Madhya Pradesh),1.7575757575757576,8.333333333333334,11
+Mumbai_Sanpada_I (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),2.1818181818181817,8.272727272727272,7
+Durgapur_Central_I_1 (West Bengal),Asansol_DC (West Bengal),2.6538461538461537,8.269230769230768,5
+Sikar_FatehpRd_I (Rajasthan),Nawalgarh_NavldiDPP_D (Rajasthan),1.5889689578713968,8.245565410199555,14
+Ganga Nagar_DC (Rajasthan),Sirsa_AnprnDPP_D (Haryana),1.824264705882353,8.242647058823529,10
+Kokrajhar_PigonDPP_D (Assam),Dhubri_Tetultol_D (Assam),2.6458333333333335,8.229166666666668,5
+Balrampur_PBRDDPP_D (Uttar Pradesh),Tulsipur_Central_DPP_1 (Uttar Pradesh),2.3666666666666667,8.2,6
+Peikulam_SriVnktpm_D (Tamil Nadu),Tirunelveli_VdkkuSrt_I (Tamil Nadu),1.7446808510638299,8.191489361702128,11
+Mehsana_Panchot_IP (Gujarat),Kadi_KaranNGR_D (Gujarat),1.5,8.175,18
+Coimbatore_Karayam_H (Tamil Nadu),Udumalpet_Artclgrd_D (Tamil Nadu),1.4794520547945205,8.150684931506849,17
+DoomDooma_Pthrgoan_D (Assam),Namsai_HelipadRD_D (Arunachal Pradesh),2.0181488203266786,8.145190562613429,8
+Sunam_DC (Punjab),Patiala (Punjab),1.8113207547169812,8.11320754716981,10
+Gurgaon_Bilaspur_HB (Haryana),Meham_GModDPP_D (Haryana),2.157303370786517,8.101123595505618,7
+Kalpetta_Ward19_D (Kerala),Mananthavady_Central_D_1 (Kerala),2.15625,8.09375,7
+Coimbatore_Karayam_H (Tamil Nadu),Tirupur_Koliplm_I (Tamil Nadu),1.7333333333333334,8.066666666666666,11
+Pupri_SngihiRD_D (Bihar),Benipatti_WardNo1_D (Bihar),2.15,8.049999999999999,7
+Naraingarh_Ward2DPP_D (Haryana),Lalru_OnkarDPP_D (Punjab),1.575,8.049999999999999,14
+Ongole_SubhVRTL_I (Andhra Pradesh),MAA_Poonamallee_HB (Tamil Nadu),1.7312252964426877,8.043478260869565,11
+Pithorgarh_Kumud_D (Uttarakhand),Rudrapur_UdhamNgr_H (Uttarakhand),2.004629326345671,8.037034610765367,8
+Kalwakurthy_VidyaNGR_D (Telangana),Devarakonda_DindiRD_D (Telangana),2.3362745098039217,8.017647058823531,6
+Guruvayoor_ManhrBld_D (Kerala),Edappal_PonaniRD_D (Kerala),1.4705882352941178,8.000000000000002,17
+Pattukotai_anthniyr_D (Tamil Nadu),Peravurani_SH71_D (Tamil Nadu),1.5,8.0,16
+Chikmagalur_DC (Karnataka),Mudigere_HesglDPP_D (Karnataka),2.142857142857143,8.0,7
+Vijayawada (Andhra Pradesh),Nandigama_Chndrlpd_D (Andhra Pradesh),2.0,8.0,8
+Khurja_Pnjbiyon_D (Uttar Pradesh),Jewar_SJRoad_D (Uttar Pradesh),1.5,8.0,16
+MAA_Poonamallee_HB (Tamil Nadu),Nellore_DC (Andhra Pradesh),1.6133333333333333,7.973333333333333,13
+Sinnar_Central_D_1 (Maharashtra),Sangamner_JawanChk_D (Maharashtra),1.796551724137931,7.96551724137931,10
+Jhajjar_DC (Haryana),Bhiwani_DC (Haryana),1.8846153846153846,7.961538461538462,9
+Shimoga_DC (Karnataka),Bangalore_Nelmngla_H (Karnataka),1.7943925233644862,7.943925233644862,10
+Satna_Central_I_2 (Madhya Pradesh),Chhatarpur_Busstand_D (Madhya Pradesh),2.1346153846153846,7.942307692307692,7
+Kolkata_Dankuni_HB (West Bengal),Gurgaon_Bilaspur_HB (Haryana),1.8823529411764706,7.9411764705882355,9
+Hyderabad_Shamshbd_H (Telangana),Ongole_SubhVRTL_I (Andhra Pradesh),1.7216117216117217,7.937728937728939,11
+Kolkata_Dankuni_HB (West Bengal),Bongaon_SukntDPP_D (West Bengal),2.586206896551724,7.931034482758621,5
+Pandhurna_Mataward_D (Madhya Pradesh),Sausar_Central_DPP_1 (Madhya Pradesh),1.4166666666666667,7.916666666666668,19
+Palakonda_VadaiDPP_D (Andhra Pradesh),Srikakulam_Kuslpram_I (Andhra Pradesh),1.5277777777777777,7.916666666666665,15
+Kolar_Ambedkar_D (Karnataka),Mulbagal_Sunku_D (Karnataka),1.565217391304348,7.913043478260871,14
+Guwahati_Jalukbari (Assam),Chhaygaon_GwhRDDPP_D (Assam),2.130434782608696,7.913043478260871,7
+Hyderabad_Shamshbd_H (Telangana),Mahabubnagar_DC (Telangana),1.5272727272727273,7.90909090909091,15
+Dhubri_Tetultol_D (Assam),Bilasipara_Wardno5_D (Assam),1.875,7.875,9
+Jalandhar_DPC (Punjab),Amritsar_DPC (Punjab),1.4919354838709677,7.870967741935484,16
+Jagraon_DC (Punjab),Raikot_DC (Punjab),1.436904761904762,7.864285714285714,18
+MAA_Poonamallee_HB (Tamil Nadu),Vellore_GndhiNgr_IP (Tamil Nadu),1.7142857142857142,7.857142857142856,11
+Kandi_DohalDPP_D (West Bengal),Ghanashyampur_NditaDPP_D (West Bengal),2.3089743589743588,7.853846153846153,6
+Mumbai Hub (Maharashtra),Pune_Tathawde_H (Maharashtra),1.98,7.84,8
+Del_Okhla_PC (Delhi),GZB_Mohan_Nagar_DPC (Uttar Pradesh),2.3043478260869565,7.826086956521739,6
+Kallachi_ZamQuatr_D (Kerala),Kuthuparamba_IdstrlAr_D (Kerala),1.4583333333333333,7.791666666666665,17
+Haliya_PeroorRD_D (Telangana),Hyderabad_Shamshbd_H (Telangana),1.7782608695652176,7.782608695652176,10
+Kusumnchi_SKRoad_D (Telangana),Khammam_NSTRoad_I (Telangana),2.111111111111111,7.777777777777779,7
+Dinhata_WrdN4DPP_D (West Bengal),Pundibari_StatonRD_D (West Bengal),2.5526315789473686,7.7631578947368425,5
+Georai_Bazarrd_D (Maharashtra),Shevgaon_VidyaNgr_D (Maharashtra),2.107142857142857,7.75,7
+Yellareddy_JKRoad_D (Telangana),Medak_Dwaraka_D (Telangana),1.5526315789473684,7.7368421052631575,14
+Malda_Central_I_3 (West Bengal),Itahar_NatunDPP_D (West Bengal),2.282608695652174,7.695652173913043,6
+Surat_Central_I_4 (Gujarat),Surat_Central_D_9 (Gujarat),2.5384615384615383,7.692307692307692,5
+Amalapuram_Vijdurg_D (Andhra Pradesh),Draksharamam_Anaipeta_D (Andhra Pradesh),1.9612010796221322,7.6896086369770575,8
+Ambur_Central_D_2 (Tamil Nadu),Tiruppattur_KoilStrt_D (Tamil Nadu),1.853658536585366,7.682926829268293,9
+Beed_JalnaRd_D (Maharashtra),Georai_Bazarrd_D (Maharashtra),2.0952380952380953,7.666666666666668,7
+Jangipur_Central_D_1 (West Bengal),Sagardighi_UtBzrDPP_D (West Bengal),1.511111111111111,7.666666666666666,15
+Warangal_Central_D_2 (Telangana),Husnabad_Greenmkt_D (Telangana),1.588235294117647,7.64705882352941,13
+Rudrapur_UdhamNgr_H (Uttarakhand),Haldwani_PiliKoti_D (Uttarakhand),2.2738095238095237,7.642857142857142,6
+Angamaly_CivilStn_D (Kerala),Chalakudy_SurbhiTh_D (Kerala),1.8461538461538463,7.615384615384617,9
+Chandigarh_Mehmdpur_H (Punjab),Chandigarh_Mullanpr_DC (Chandigarh),1.446808510638298,7.595744680851065,17
+Sasaram_Central_I_2 (Bihar),Gurgaon_Bilaspur_HB (Haryana),2.0834621329211744,7.584234930448221,7
+Bhusawal_Samarth_D (Maharashtra),Raver_Truptingr_D (Maharashtra),1.9473684210526316,7.578947368421053,8
+Ludhiana_MilrGanj_HB (Punjab),Khanna_DC (Punjab),1.8421052631578947,7.578947368421052,9
+Kollam_Central_H_1 (Kerala),Kottarakkara_Amankovl_D (Kerala),1.36,7.560000000000002,21
+Nandikotkr_UmarDPP_D (Andhra Pradesh),Atmakur_IndraNgr_D (Andhra Pradesh),1.9416666666666669,7.533333333333335,8
+Bhiwandi_Mankoli_HB (Maharashtra),Surat_HUB (Gujarat),2.2552631578947366,7.53157894736842,6
+Kanpur_Central_H_6 (Uttar Pradesh),Delhi_Airport_H (Delhi),2.5058479532163744,7.529239766081872,5
+Shahganj_KcharaRD_D (Uttar Pradesh),Badlapur_Bhaluahi_D (Uttar Pradesh),2.074074074074074,7.518518518518517,7
+Bengaluru_Bomsndra_HB (Karnataka),Aluva_Peedika_H (Kerala),1.6651270207852193,7.515675492342353,13
+Dhule_MIDCAvdn_I (Maharashtra),Sakri_DhuleRoad_D (Maharashtra),2.073170731707317,7.51219512195122,7
+Bangalore_Nelmngla_H (Karnataka),Hassan_Pandrnga_I (Karnataka),1.553030303030303,7.5019065042284865,15
+Visakhapatnam_VislkNgr_DC (Andhra Pradesh),Bheemunipatnam_SaiTempl_D (Andhra Pradesh),1.6818181818181819,7.500000000000001,11
+Hyderabad_Shamshbd_H (Telangana),Kadthal_GndhiDPP_D (Telangana),1.5,7.5,15
+Chittapur_GlbrgaRD_D (Karnataka),Sedam_DBRCmplx_D (Karnataka),1.5,7.5,15
+Vijayawada_Rynapadu_H (Andhra Pradesh),Hyderabad_Shamshbd_H (Telangana),1.7490196078431373,7.490196078431373,10
+Bangalore_Nelmngla_H (Karnataka),Bhopal_Trnsport_H (Madhya Pradesh),1.9325897187196897,7.460717749757517,8
+Bhiwandi_Mankoli_HB (Maharashtra),Solapur_Central_I_2 (Maharashtra),2.064935064935065,7.454545454545455,7
+Pune_Tathawde_H (Maharashtra),Kolhapur_Shivaji_I (Maharashtra),1.6545454545454545,7.453722747840396,12
+Sangamner_JawanChk_D (Maharashtra),Shrirampur_DavkharRd_D (Maharashtra),1.826086956521739,7.434782608695651,9
+Thuraiyur_Mthrapuri_D (Tamil Nadu),Perambalur_goplpurm_D (Tamil Nadu),1.4642857142857144,7.428571428571431,16
+Bangalore_Nelmngla_H (Karnataka),Kolhapur_Shivaji_I (Maharashtra),1.6183087259542543,7.419704711451052,12
+Ghanpur_Palakrty_D (Telangana),Jangaon_Hanmkond_D (Telangana),1.8235294117647058,7.411764705882352,9
+Hisar_ModelTwn_P (Haryana),Hisar_AgrohDPP_D (Haryana),2.057142857142857,7.399999999999999,7
+JoguGadwal_ColctrOf_D (Telangana),Wanaparthy_VallaDPP_D (Telangana),1.8205128205128205,7.384615384615384,9
+Porbandar_DC (Gujarat),Bhanvad_Mainroad_D (Gujarat),1.7375,7.375,10
+Jahu_Sulgwan_D (Himachal Pradesh),JognderNgr_Dhelu_D (Himachal Pradesh),2.0526315789473686,7.3684210526315805,7
+Chandigarh_Mehmdpur_H (Punjab),Patiala_GainMrkt_L (Punjab),2.0526315789473686,7.3684210526315805,7
+Bantwal_Trmltmpl_D (Karnataka),Puttur_Darbe_DC (Karnataka),2.473684210526316,7.36842105263158,5
+Gwalior_HrihrNgr_I (Madhya Pradesh),Ambah_MrenTirh_D (Madhya Pradesh),2.46875,7.34375,5
+Salem (Tamil Nadu),Tirchngode_Mhdhvpur_D (Tamil Nadu),1.488888888888889,7.333333333333334,15
+Roorkee_Dc (Uttarakhand),Haridwar (Uttarakhand),1.7332046332046334,7.332046332046334,10
+Dadri_ICDCant_D (Uttar Pradesh),Noida_Sec 02_DPC (Uttar Pradesh),1.7333333333333334,7.331666666666667,11
+Hyderabad_Shamshbd_H (Telangana),Choutuppal_Nagaram_D (Telangana),2.0434782608695654,7.304347826086958,7
+Sasaram_Central_I_2 (Bihar),Buxar_Sarswati_D (Bihar),2.2156756756756755,7.294054054054053,6
+Lalsot_NWclyDPP_D (Rajasthan),Jaipur_Central_I_7 (Rajasthan),1.7257053291536049,7.257053291536049,10
+Mungeli_Panderia_D (Chhattisgarh),Kawardha_TrnsptNGR_D (Chhattisgarh),1.6043478260869566,7.252173913043479,12
+Chandigarh_Mehmdpur_H (Punjab),Delhi_Airport_H (Delhi),1.8054054054054054,7.248648648648649,9
+Oriyur_Vllyaprm_D (Tamil Nadu),Manamelkudi_TmpleSrt_D (Tamil Nadu),1.5172413793103448,7.2413793103448265,14
+Jaipur_Hub (Rajasthan),Delhi_Airport_H (Delhi),1.7227722772277227,7.227722772277227,10
+Thamarassery_Chungam_D (Kerala),SultnBthry_Kollgpra_D (Kerala),1.60193019566367,7.22316234796404,12
+Jabalpur_Adhartal_IP (Madhya Pradesh),Lakhnadon_Central_DPP_1 (Madhya Pradesh),2.2037539574853007,7.222523744911804,6
+Gangapur_Ward6DPP_D (Rajasthan),Lalsot_NWclyDPP_D (Rajasthan),1.6551724137931034,7.206896551724138,11
+Goa_Hub (Goa),Canacona_CharRsta_D (Goa),1.8,7.2,9
+Rajamundry_AtoNgrRd_I (Andhra Pradesh),Hyderabad_Shamshbd_H (Telangana),2.198653198653199,7.191919191919194,6
+Gundlupet_Swamylyt_D (Karnataka),Chamarjngr_BrDbleRd_D (Karnataka),1.7169076751946606,7.169076751946606,10
+Hyderabad_Shamshbd_H (Telangana),Bhubaneshwar_Hub (Orissa),2.0204359673024523,7.143051771117166,7
+Aluva_Peedika_H (Kerala),Cochin_Kdvantra_D (Kerala),1.76,7.133333333333332,13
+Thirthurpondi_Madaprum_D (Tamil Nadu),Pushpavanam_Thmpulam_D (Tamil Nadu),1.4736842105263157,7.105263157894735,15
+Hisar_ModelTwn_P (Haryana),Gurgaon_Bilaspur_HB (Haryana),2.014925373134328,7.104477611940297,7
+Chandigarh_Raiprkln_C (Chandigarh),Chandigarh_Mehmdpur_H (Punjab),1.5900735294117647,7.080882352941177,12
+Zahirabad_Mohim_D (Telangana),Hyderabad_Shamshbd_H (Telangana),1.320453190220632,7.049970184853905,22
+Gurgaon_Bilaspur_HB (Haryana),Vadodara_Karelibaug_DPC (Gujarat),1.7827338129496404,7.044604316546764,9
+Tura_Sracmplx_D (Meghalaya),Guwahati_Hub (Assam),2.408805031446541,7.044025157232705,5
+Pallakad_ChndrNgr_D (Kerala),Bangalore_Nelmngla_H (Karnataka),1.704054054054054,7.04054054054054,10
+Khambhalia_JdswarRD_D (Gujarat),Bhatiya_Kalyanpr_D (Gujarat),1.7029411764705882,7.029411764705882,10
+Islampur_Shantanu_D (Maharashtra),Karad_Mundhe_D (Maharashtra),1.7028985507246377,7.028985507246377,10
+Madhupur_Sitarmrd_D (Jharkhand),Godda_Central_D_2 (Jharkhand),1.8772495755517826,7.017996604414261,8
+Channaraya_patna_D (Karnataka),Nagamangala_MandyaRD_D (Karnataka),1.6363636363636365,7.000000000000001,11
+Vansda_CikhliRD_D (Gujarat),Bilimora_DC (Gujarat),2.0,7.0,7
+DehriSone_Dilliyan_D (Bihar),AurngbadBR_Mahindra_D (Bihar),2.0,7.0,7
+Manthani_Chaitnya_D (Telangana),Karimnagar_KamnHbRD_I (Telangana),2.1626344086021505,6.975806451612903,6
+Tirunelveli_VdkkuSrt_I (Tamil Nadu),Vallior_Radhaprm_D (Tamil Nadu),1.6341463414634145,6.97560975609756,11
+Ahmedabad_East_H_1 (Gujarat),Bhavnagar_ChtrGIDC_IP (Gujarat),1.633587786259542,6.969465648854962,11
+Bangalore_East_I_20 (Karnataka),Malur_NharuExt_D (Karnataka),1.8709528214616098,6.967622571692878,8
+Bhatpara_TrengaRD_D (Chhattisgarh),Mungeli_Panderia_D (Chhattisgarh),1.6326530612244898,6.959183673469388,11
+Sakri_DhuleRoad_D (Maharashtra),Nandurbar_DhuleRd_D (Maharashtra),1.7714285714285714,6.942857142857142,9
+Gotan_DKLogDPP_D (Rajasthan),Jaipur_Hub (Rajasthan),2.3870967741935485,6.935483870967742,5
+Goa_Hub (Goa),Karwar_Central_D_1 (Karnataka),1.6296296296296295,6.925925925925925,11
+Pune_Tathawde_H (Maharashtra),Mumbai Hub (Maharashtra),1.8640776699029127,6.9126213592233015,8
+Talala_SsnRdDPP_D (Gujarat),Junagadh_DPC (Gujarat),1.626865671641791,6.895522388059701,11
+Bengaluru_KGAirprt_HB (Karnataka),Bengaluru_Banshkri_DC (Karnataka),1.4054054054054055,6.891891891891893,17
+Chandigarh_Mehmdpur_H (Punjab),Chandigarh_Kharar_DC (Chandigarh),1.4301572617946345,6.882516188714153,16
+Bassi_DmodrNGR_D (Rajasthan),Dausa_IndraCln_D (Rajasthan),1.774703557312253,6.881987577639752,12
+Bilasipara_Wardno5_D (Assam),Lakhipur_WrdN4DPP_D (Assam),1.8595505617977528,6.876404494382022,8
+Akola_Gaurkshn_I (Maharashtra),Mehkar_SagarDPP_D (Maharashtra),2.375,6.875,5
+Achrol_BgwriDPP_D (Rajasthan),Jaipur_Hub (Rajasthan),1.8571428571428572,6.857142857142858,8
+Hubli_Adargchi_IP (Karnataka),Belgaum_Dc (Karnataka),2.136986301369863,6.821917808219179,6
+Maharajapuram_Krsnakcl_D (Tamil Nadu),Madurai_Kappalur_H (Tamil Nadu),1.4516129032258065,6.774193548387098,15
+Kadiri_GVManu_D (Andhra Pradesh),Rayachoti_Madnpali_D (Andhra Pradesh),1.6769230769230767,6.769230769230767,10
+Hyderabad_Shamshbd_H (Telangana),Hyderabad_Uppal_I (Telangana),1.9642857142857142,6.749999999999999,7
+Sambhal_Khwssrai_D (Uttar Pradesh),Chandausi_Ganesh_D (Uttar Pradesh),1.6129032258064515,6.741935483870966,11
+Navsari_DC (Gujarat),Bilimora_DC (Gujarat),2.1208333333333336,6.725000000000001,6
+Dharapuram_Techrcly_D (Tamil Nadu),Kangayam_Thvlrsrt_D (Tamil Nadu),1.4482758620689655,6.724137931034483,15
+Ludhiana_MilrGanj_HB (Punjab),Moga_DPC (Punjab),1.7457627118644068,6.711864406779661,9
+Canacona_CharRsta_D (Goa),Mangalore_Kuntikna_H (Karnataka),2.11787072243346,6.7072243346007605,6
+Bhiwandi_Mankoli_HB (Maharashtra),Kolkata_Dankuni_HB (West Bengal),2.1114327062228653,6.668596237337192,6
+Nawalgarh_NavldiDPP_D (Rajasthan),Pilani (Rajasthan),1.605263157894737,6.657894736842106,11
+Ankola_Kakrmath_D (Karnataka),Goa_Hub (Goa),1.8307254623044096,6.645803698435277,8
+Tirpur_Palladam_DC (Tamil Nadu),Dharapuram_Techrcly_D (Tamil Nadu),1.473684210526316,6.631578947368423,14
+Bhavnagar_ChtrGIDC_IP (Gujarat),Amreli_MrktYrd_DC (Gujarat),1.9473684210526316,6.631578947368421,7
+Jewar_SJRoad_D (Uttar Pradesh),Pahasu_Kanongyn_D (Uttar Pradesh),1.5517241379310345,6.620689655172414,12
+Bijainagar_Central_DPP_1 (Rajasthan),Kekri_LxmntDPP_D (Rajasthan),1.8263611519865461,6.610889215892369,8
+Bongaon_SukntDPP_D (West Bengal),Helencha_ColnyDPP_D (West Bengal),2.1,6.6000000000000005,6
+Sagardighi_UtBzrDPP_D (West Bengal),Baharampur_Chuanpur_I (West Bengal),2.0945945945945947,6.567567567567568,6
+Chandigarh_Mehmdpur_H (Punjab),Zirakpur_DC (Punjab),1.2635467980295567,6.566502463054187,26
+Eral_Busstand_D (Tamil Nadu),Tirchchndr_Shnmgprm_D (Tamil Nadu),1.4375,6.5625,15
+Anand_Vaghasi_IP (Gujarat),Vadodara_Karelibaug_DPC (Gujarat),2.091578947368421,6.549473684210527,6
+Chennai_Perungudi_DPC (Tamil Nadu),Chennai_Sholinganallur_Dc (Tamil Nadu),1.7272727272727273,6.545454545454546,9
+Cumbum_LFRoad_D (Tamil Nadu),Kattappana_Palikval_D (Kerala),1.934782608695652,6.5434782608695645,7
+Betnoti_MhliaDPP_D (Orissa),Baripada_KalikDPP_D (Orissa),2.088888888888889,6.533333333333334,6
+Hisar_AgrohDPP_D (Haryana),Ratia_SchdvDPP_D (Haryana),2.305084745762712,6.52542372881356,5
+Hassan_Pandrnga_I (Karnataka),Tiptur_YTRd_D (Karnataka),1.5918367346938775,6.5102040816326525,11
+Gangarampr_FulbaDPP_D (West Bengal),Balurghat_AkhirDPP_D (West Bengal),1.8113043478260868,6.490434782608695,8
+Solapur_Central_I_2 (Maharashtra),Pandharpur_RajCmplx_D (Maharashtra),1.9245283018867925,6.471698113207547,7
+Dibrugarh_Bokule_H (Assam),Chabua_CollgeRD_D (Assam),1.9230769230769231,6.461538461538462,7
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Lajpat_IP (Delhi),2.07658371040724,6.45950226244344,6
+Bangalore_Nelmngla_H (Karnataka),Anantapur_KamaStrt_I (Andhra Pradesh),1.5370676195051645,6.4448114340619735,12
+Shamli_KarnalRd_D (Uttar Pradesh),Budhana_Busstand_D (Uttar Pradesh),1.8055555555555554,6.444444444444443,8
+Nagamangala_MandyaRD_D (Karnataka),Krishnarajpet_MuruPost_D (Karnataka),1.3783783783783783,6.432432432432431,17
+Tirchngode_Mhdhvpur_D (Tamil Nadu),Mettur_RTOroad_D (Tamil Nadu),1.459016393442623,6.426229508196722,14
+Nanjangud_RPRoad_D (Karnataka),Gundlupet_Swamylyt_D (Karnataka),1.9130434782608696,6.391304347826088,7
+Sasaram_Central_I_2 (Bihar),Mohania_Bhabua_D (Bihar),2.275,6.375,5
+Jaipur_RIICO_L (Rajasthan),Gurgaon_Bilaspur_HB (Haryana),1.9090909090909092,6.363636363636364,7
+Noida_Sector02_C (Uttar Pradesh),Kanpur_Central_H_6 (Uttar Pradesh),1.6361138522861398,6.361138522861398,10
+Dibrugarh_Bokule_H (Assam),Duliajan_StatonRd_D (Assam),1.5294117647058822,6.352941176470587,12
+Delhi_Mayapuri_PC (Delhi),Gurgaon_Bilaspur_HB (Haryana),1.3173076923076923,6.346153846153846,20
+Kanpur_Central_H_6 (Uttar Pradesh),Varanasi_Central_H_4 (Uttar Pradesh),2.0562770562770565,6.337662337662339,6
+Machhiwara_MnBzrDPP_D (Punjab),Ludhiana_MilrGanj_HB (Punjab),1.4488095238095238,6.283333333333333,14
+Machilipatnam_DC (Andhra Pradesh),Vijayawada_Rynapadu_H (Andhra Pradesh),2.25,6.25,5
+Anand_Vaghasi_IP (Gujarat),Nadiad_DC (Gujarat),1.6923076923076923,6.230769230769231,9
+Sikar_FatehpRd_I (Rajasthan),Bikaner_DC (Rajasthan),1.62012987012987,6.2012987012987,10
+Bishnupur_StnRdDPP_D (West Bengal),Durgapur_Central_I_1 (West Bengal),1.8857142857142857,6.199999999999999,7
+Kallikkad_Mutyvila_D (Kerala),Nedumangad_Arsprmbu_D (Kerala),1.4761904761904763,6.190476190476192,13
+Bongaigaon_Chpaguri_D (Assam),Kokrajhar_PigonDPP_D (Assam),1.7666666666666666,6.133333333333333,8
+Ponnamaravathi_Puduvalvu_D (Tamil Nadu),Pudukkotti_Mrthndpr_D (Tamil Nadu),1.4705882352941178,6.117647058823531,13
+Bhatiya_Kalyanpr_D (Gujarat),Dwarka_StnRoad_DC (Gujarat),1.5555555555555556,6.111111111111112,11
+Jagtial_Aravind_D (Telangana),DhrmpuriTS_HanumDPP_D (Telangana),2.005952380952381,6.035714285714286,6
+Brajrajnagar_LamtiDPP_D (Orissa),Sundargarh_DiyoDPP_D (Orissa),2.2058823529411766,6.029411764705883,5
+Virudhchlm_SelamRd_D (Tamil Nadu),Pennadam_EastmnRD_D (Tamil Nadu),1.6,6.000000000000001,10
+Vadnagar_BsstdDPP_D (Gujarat),Palanpur_DC (Gujarat),1.5,6.0,12
+Araria_Wardn13_D (Bihar),Raniganj_Central_DPP_1 (Bihar),1.9941520467836258,5.964912280701755,6
+Aluva_Peedika_H (Kerala),Guruvayoor_ManhrBld_D (Kerala),1.4969135802469136,5.962962962962963,12
+Khanapur_StatinRD_D (Karnataka),Hubli_Adargchi_IP (Karnataka),1.8518518518518519,5.962962962962963,7
+Guna_Raghogrh_D (Madhya Pradesh),Gwalior_HrihrNgr_I (Madhya Pradesh),1.6621160409556315,5.959044368600683,9
+Karaikudi_Sbrmnprm_D (Tamil Nadu),Ponnamaravathi_Puduvalvu_D (Tamil Nadu),1.4255319148936172,5.957446808510641,14
+Udumalpet_Artclgrd_D (Tamil Nadu),Pollachi_Venkatsa_DC (Tamil Nadu),1.370967741935484,5.935483870967744,16
+Ahmedabad_East_H_1 (Gujarat),Gandhidham_Sector1A_IP (Gujarat),1.49375,5.924999999999999,12
+Chittaurgarh_DC (Rajasthan),Bhilwara_DC (Rajasthan),1.5921325051759836,5.921325051759836,10
+Surat_HUB (Gujarat),Vapi_IndEstat_I (Gujarat),1.986842105263158,5.921052631578948,6
+Korba_Tilknagr_DC (Chhattisgarh),Raigarh_MithmdRd_D (Chhattisgarh),2.18018018018018,5.900900900900901,5
+Bangalore_Nelmngla_H (Karnataka),Kurnool_AbbasNgr_I (Andhra Pradesh),1.534965034965035,5.884615384615385,11
+Delhi_Airport_H (Delhi),Gurgaon_Bilaspur_HB (Haryana),1.5348837209302326,5.883720930232559,11
+Kottayam_Central_H_1 (Kerala),Tiruvalla_TKRoad_D (Kerala),1.3675000000000002,5.880000000000003,16
+Pathankot_DC (Punjab),Jassur_AadiDPP_D (Himachal Pradesh),1.9791666666666665,5.874999999999999,6
+Goa_ZuariNgr_IP (Goa),Goa_Ponda_Dc (Goa),2.1739130434782608,5.869565217391304,5
+Nazirpur_Central_D_1 (West Bengal),Nowda_ArhamDPP_D (West Bengal),1.391304347826087,5.869565217391304,15
+Molakalmuru_KnsgraRD_D (Karnataka),Challakere_Shivangr_D (Karnataka),1.5823717948717948,5.823717948717948,10
+Delhi_Wazirpur_L (Delhi),Gurgaon_Bilaspur_HB (Haryana),1.646153846153846,5.815384615384614,9
+Moodbidri_MrdiVlge_D (Karnataka),Karkala_MarketRd_D (Karnataka),1.7261904761904763,5.80952380952381,8
+Narsinghgarh_Central_D_1 (Madhya Pradesh),Pachore_Shop3DPP_D (Madhya Pradesh),1.5277777777777777,5.8055555555555545,11
+Dhule_MIDCAvdn_I (Maharashtra),Chalisgaon_BhadgDPP_D (Maharashtra),1.9639953542392568,5.7839721254355405,6
+FBD_Balabhgarh_DPC (Haryana),Faridabad_MohnVRTL_D (Haryana),1.9615384615384615,5.769230769230768,6
+Ashokngr_Bypassrd_D (Madhya Pradesh),Guna_Raghogrh_D (Madhya Pradesh),1.8227848101265822,5.7594936708860756,7
+Ambah_MrenTirh_D (Madhya Pradesh),Bhind_BhrolDPP_D (Madhya Pradesh),1.9598039215686274,5.758823529411764,6
+Dumka_Dudhani_D (Jharkhand),Pakur_Hatpada_D (Jharkhand),1.5232558139534884,5.7558139534883725,11
+Bhubaneshwar_Nayapalli (Orissa),Khurdha_MdhsnDPP_D (Orissa),1.9572192513368982,5.743315508021389,6
+Kurnool_AbbasNgr_I (Andhra Pradesh),Bangalore_Nelmngla_H (Karnataka),1.5211267605633803,5.732394366197183,11
+Doddablpur_ChikaDPP_D (Karnataka),Chikblapur_ShntiSgr_D (Karnataka),1.52,5.720000000000001,11
+Ranipet_MBTRd_DC (Tamil Nadu),Sholinghur_ArkonmRD_D (Tamil Nadu),1.52,5.720000000000001,11
+Dharmavram_SaiNgr_D (Andhra Pradesh),Puttaprthi_Gokulam_D (Andhra Pradesh),1.5185185185185186,5.703703703703704,11
+Mungaoli_AshkngRd_D (Madhya Pradesh),Bina_Srvdycwk_D (Madhya Pradesh),1.8135593220338984,5.694915254237289,7
+Medchal_MROoffce_D (Telangana),Hyderabad_Alwal_I (Telangana),2.1333333333333333,5.666666666666666,5
+Dinhata_WrdN4DPP_D (West Bengal),CoochBehar_Psthrjhr_D (West Bengal),2.130434782608696,5.6521739130434785,5
+Junagadh_keshod_DC (Gujarat),Mangrol_JilRDDPP_D (Gujarat),1.9415384615384617,5.64923076923077,6
+Mumbai_MiraRd_IP (Maharashtra),Bhiwandi_Mankoli_HB (Maharashtra),1.9383333333333335,5.630000000000001,6
+Rudrapur_UdhamNgr_H (Uttarakhand),Nainital_Sookhtal_D (Uttarakhand),1.431578947368421,5.610526315789474,13
+Chennai_Chnglptu_DC (Tamil Nadu),Malemruvathur_Achipkam_D (Tamil Nadu),1.4285714285714286,5.571428571428572,13
+Mehsana_Panchot_IP (Gujarat),Vadnagar_BsstdDPP_D (Gujarat),1.6176470588235294,5.5588235294117645,9
+Jhunir_BhaRDDPP_D (Punjab),Bhatinda_DPC (Punjab),1.3969594594594594,5.557432432432432,14
+Almora_SuzkiSrv_D (Uttarakhand),Pithorgarh_Kumud_D (Uttarakhand),1.9260940251998375,5.556564151199025,6
+Medak_Dwaraka_D (Telangana),Narsapur_Xroad_D (Telangana),1.3472222222222223,5.555555555555557,16
+Kandukur_LICOffce_D (Andhra Pradesh),Kavali_Kacheri_D (Andhra Pradesh),1.3066239316239316,5.51923076923077,18
+Anand_VUNagar_DC (Gujarat),Khambhat_MotvdDPP_D (Gujarat),1.5517970401691332,5.517970401691333,10
+Dausa_IndraCln_D (Rajasthan),Hindaun_MndwrRod_D (Rajasthan),1.344155844155844,5.506493506493506,16
+Hyderabad_Shamshbd_H (Telangana),Anantapur_KamaStrt_I (Andhra Pradesh),1.786008230452675,5.502057613168725,7
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Nangli_L (Delhi),1.7857142857142858,5.500000000000001,7
+Kolkata_Dankuni_HB (West Bengal),Dhanbad_Kalynpur_I (Jharkhand),1.7840909090909092,5.488636363636364,7
+Hubli_Adargchi_IP (Karnataka),Sirsi_Vidygiri_D (Karnataka),1.4216867469879517,5.481927710843372,13
+Pachore_Shop3DPP_D (Madhya Pradesh),Shajapur_MhpraRD_D (Madhya Pradesh),1.5184372256365233,5.458449440775661,12
+BLR_JPNagar_Pc (Karnataka),Bangalore_Nelmngla_H (Karnataka),1.558139534883721,5.44186046511628,13
+Jassur_AadiDPP_D (Himachal Pradesh),Dalhousie_Banikhet_D (Himachal Pradesh),1.6027397260273972,5.424657534246575,9
+AurngbadBR_Mahindra_D (Bihar),Sasaram_Central_I_2 (Bihar),1.9036796536796539,5.422077922077923,6
+Asifabad_PaikjNGR_D (Telangana),Karimnagar_KamnHbRD_I (Telangana),2.0833333333333335,5.416666666666668,5
+Saraimeer_MsmcyDPP_D (Uttar Pradesh),Shahganj_KcharaRD_D (Uttar Pradesh),2.076923076923077,5.384615384615385,5
+Azamgarh_ChtwrDPP_D (Uttar Pradesh),Saraimeer_MsmcyDPP_D (Uttar Pradesh),2.076923076923077,5.384615384615385,5
+Anthiyour_TherSRT_D (Tamil Nadu),Coimbatore_Karayam_H (Tamil Nadu),1.4133333333333333,5.373333333333333,13
+Trivandrum_Mnanthla_H (Kerala),Kollam_Central_H_1 (Kerala),1.5343822843822843,5.343822843822843,10
+Bhuj_DC (Gujarat),Nakhatrana_ClgRDDPP_D (Gujarat),1.8863636363636362,5.3181818181818175,6
+AmaDubi_Bulabeda_D (West Bengal),ChandroknaRD_Central_DPP_3 (West Bengal),1.8853917821309127,5.3123506927854764,6
+Pune_Tathawde_H (Maharashtra),Bangalore_Nelmngla_H (Karnataka),1.7577235772357724,5.304065040650407,7
+Davangere_Central_I_1 (Karnataka),Hubli_Adargchi_IP (Karnataka),1.588235294117647,5.2941176470588225,9
+Chandigarh_Mehmdpur_H (Punjab),Kathua_BOB_D (Jammu & Kashmir),1.8775933609958506,5.265560165975104,6
+Ghaziabad_MohanNgr_C (Uttar Pradesh),Del_Okhla_PC (Delhi),1.75,5.25,7
+Palanpur_DC (Gujarat),Deesa_HawaiPlr_DC (Gujarat),2.05,5.249999999999999,5
+Raikot_DC (Punjab),Ludhiana_MilrGanj_HB (Punjab),1.2916666666666665,5.249999999999997,18
+Tenkasi_RailwyRd_D (Tamil Nadu),Ambasamdrm_Solaiprm_D (Tamil Nadu),1.5231854838709677,5.231854838709678,10
+Paithan_SantaNGR_D (Maharashtra),Aurangabad_Central_H_1 (Maharashtra),1.87,5.220000000000001,6
+Batlagundu_RTOofice_D (Tamil Nadu),Vadipatti_lalaNGR_D (Tamil Nadu),1.5217391304347827,5.217391304347827,10
+Bhiwandi_Mankoli_HB (Maharashtra),Mumbai_MiraRoad_M (Maharashtra),2.04,5.2,5
+Mandsaur_YashDPP_D (Madhya Pradesh),Sitamau_Central_DPP_1 (Madhya Pradesh),1.5185185185185186,5.185185185185186,10
+Musiri_ThryrRD_D (Tamil Nadu),Thuraiyur_Mthrapuri_D (Tamil Nadu),1.8636363636363638,5.1818181818181825,6
+Pune_Tathawde_H (Maharashtra),Hyderabad_Shamshbd_H (Telangana),1.646875,5.175000000000001,8
+Anantapur_KamaStrt_I (Andhra Pradesh),Bangalore_Nelmngla_H (Karnataka),1.7391304347826086,5.173913043478261,7
+Attingal_Central_D_2 (Kerala),Kalluvathukal_Pariplly_D (Kerala),1.2583333333333333,5.166666666666666,20
+Mannargudi_Vadasari_D (Tamil Nadu),Thirukkatupli_Poondi_D (Tamil Nadu),1.8595628415300547,5.157377049180328,6
+Sirkazhi_Pngktgudi_D (Tamil Nadu),Karaikal_Thalthru_DC (Pondicherry),1.8571428571428572,5.142857142857143,6
+MAA_Poonamallee_HB (Tamil Nadu),Pondicherry_Vasanthm_I (Pondicherry),1.4280575539568345,5.136690647482014,12
+Vadodara (Gujarat),Dabhoi_Central_DPP_3 (Gujarat),1.8507130124777182,5.1042780748663095,6
+Chennai_Chrompet_DPC (Tamil Nadu),MAA_Poonamallee_HB (Tamil Nadu),1.6365546218487395,5.092436974789916,8
+Yellandu_Sudimala_D (Telangana),Rayaparthi_Perkadrd_D (Telangana),1.424142031940197,5.089704383282363,12
+Surat_HUB (Gujarat),Vadodara_Karelibaug_DPC (Gujarat),1.7258064516129032,5.080645161290323,7
+Mathabhang_Pshimpra_D (West Bengal),Dinhata_WrdN4DPP_D (West Bengal),1.631578947368421,5.052631578947368,8
+Noida_Sec 02_DPC (Uttar Pradesh),Noida_Sec-83_DC (Uttar Pradesh),1.8395833333333333,5.0375,6
+Reengus_Shop2DPP_D (Rajasthan),Sikar_FatehpRd_I (Rajasthan),1.4189189189189189,5.027027027027026,12
+Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),Anakapalle_Kothuru_D (Andhra Pradesh),2.0,5.0,5
+Dindigul_Central_D_1 (Tamil Nadu),Oddnchtram_Palani_D (Tamil Nadu),1.5555555555555556,5.0,9
+Pandharpur_RajCmplx_D (Maharashtra),Solapur_Central_I_2 (Maharashtra),2.0,5.0,5
+Anakapalle_Kothuru_D (Andhra Pradesh),Narsiptnm_Wardno8_D (Andhra Pradesh),2.0,5.0,5
+Balasore_Ganeshwr_D (Orissa),Betnoti_MhliaDPP_D (Orissa),2.0,5.0,5
+Amreli_MrktYrd_DC (Gujarat),Amreli_Rajula_DC (Gujarat),1.7142857142857142,4.999999999999999,7
+Kotputli_LXngrDPP_D (Rajasthan),Paota_SmClyDPP_D (Rajasthan),1.5483870967741935,4.935483870967742,9
+Muzaffrpur_Bbganj_I (Bihar),Sheohar_Ward9DPP_D (Bihar),1.3793103448275863,4.931034482758622,13
+Challakere_Shivangr_D (Karnataka),Bangalore_Nelmngla_H (Karnataka),1.4928571428571429,4.928571428571429,10
+Kadthal_GndhiDPP_D (Telangana),Kalwakurthy_VidyaNGR_D (Telangana),1.7037037037037037,4.925925925925926,7
+Surat_Central_I_4 (Gujarat),Navsari_DC (Gujarat),1.8198529411764706,4.919117647058823,6
+Jhansi_LVMColge_D (Uttar Pradesh),Lalitpur_RjghatRd_D (Uttar Pradesh),1.8181818181818183,4.90909090909091,6
+Bengaluru_Peenya_IP (Karnataka),Bangalore_Nelmngla_H (Karnataka),1.5454545454545454,4.909090909090908,9
+Bangalore_Nelmngla_H (Karnataka),Bellary_Dc (Karnataka),1.4895566181264943,4.895566181264943,10
+Bankura_KeranDPP_D (West Bengal),Bishnupur_StnRdDPP_D (West Bengal),1.8130434782608695,4.878260869565217,6
+Gonikoppal_Thomas_D (Karnataka),HDKote_BegurRD_D (Karnataka),1.6091135232926277,4.8729081863410215,8
+Pakur_Hatpada_D (Jharkhand),Dhanbad_Kalynpur_I (Jharkhand),1.9744897959183674,4.872448979591837,5
+Kishangarh_Central_D_2 (Rajasthan),Parbatsar_AjmhwDPP_D (Rajasthan),1.9743589743589745,4.871794871794872,5
+Hyderabad_Shamshbd_H (Telangana),Tandur_SnthiNGR_D (Telangana),1.6085106382978722,4.868085106382978,8
+Bhubaneshwar_Hub (Orissa),Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),1.6939393939393939,4.857575757575757,7
+Khandala_Satara_D (Maharashtra),Pune_Tathawde_H (Maharashtra),1.6933333333333334,4.8533333333333335,7
+Chandpur_NorprRD_D (Uttar Pradesh),Bijnor_NaginaRd_D (Uttar Pradesh),1.4844155844155844,4.8441558441558445,10
+Chhatarpur_Busstand_D (Madhya Pradesh),Tikamgarh_MndiRoad_D (Madhya Pradesh),1.6053073051700473,4.842458441360378,8
+Avinashi_Valluvar_D (Tamil Nadu),Tirpur_Palladam_DC (Tamil Nadu),1.44,4.84,11
+Bengaluru_KGAirprt_HB (Karnataka),Kolar_Ambedkar_D (Karnataka),1.9661016949152543,4.830508474576272,5
+Sonipat_Kundli_H (Haryana),Roorkee_Dc (Uttarakhand),1.9640287769784173,4.820143884892087,5
+Dhanbad_Kalynpur_I (Jharkhand),Giridih_Shivalya_D (Jharkhand),1.9636363636363636,4.818181818181818,5
+Malavalli_SulthnRd_D (Karnataka),Tirumakudalu_Narasipr_D (Karnataka),1.5333333333333334,4.800000000000001,9
+Irinjlkuda_Greens_D (Kerala),Aluva_Peedika_H (Kerala),1.5992176386913228,4.793741109530583,8
+Karwar_Central_D_1 (Karnataka),Mallapur_ShtDRDPP_D (Karnataka),1.3982469512195121,4.778963414634146,12
+Hyderabad_Shamshbd_H (Telangana),Hyderabad_Alwal_I (Telangana),1.7948717948717947,4.769230769230768,6
+Hanumangarh_DC (Rajasthan),Ganga Nagar_DC (Rajasthan),1.790516206482593,4.743097238895558,6
+Guwahati_Hub (Assam),Rangia_HosptlRd_D (Assam),1.9444444444444444,4.722222222222222,5
+Mangrol_JilRDDPP_D (Gujarat),Veraval_DC (Gujarat),1.7824074074074074,4.694444444444445,6
+Vadodara_Karelibaug_DPC (Gujarat),Ahmedabad_East_H_1 (Gujarat),1.5857142857142859,4.685714285714287,8
+Shoranur_KdrShrRd_D (Kerala),Pazhayannur_AlathurRD_D (Kerala),1.36,4.6800000000000015,13
+MAA_Poonamallee_HB (Tamil Nadu),Hyderabad_Shamshbd_H (Telangana),1.7733995163548428,4.640397098129057,6
+Hisar_IndstlAr_I (Haryana),Gurgaon_Bilaspur_HB (Haryana),1.927007299270073,4.635036496350366,5
+Jaipur_Central_I_7 (Rajasthan),Dudu_NrainaRD_D (Rajasthan),1.9230769230769231,4.615384615384616,5
+Junagadh_DPC (Gujarat),Porbandar_DC (Gujarat),1.461201950659782,4.61201950659782,10
+Draksharamam_Anaipeta_D (Andhra Pradesh),Rajamundry_AtoNgrRd_I (Andhra Pradesh),1.7659574468085106,4.595744680851064,6
+Chomu_ShsmlDPP_D (Rajasthan),Reengus_Shop2DPP_D (Rajasthan),1.5708333333333333,4.566666666666666,8
+Noida_Chukhndi_D (Uttar Pradesh),Dadri_ICDCant_D (Uttar Pradesh),1.35,4.550000000000001,13
+Kolhapur_Shivaji_I (Maharashtra),Satara_DC (Maharashtra),1.90625,4.53125,5
+Visakhapatnam_Gajuwaka_IP (Andhra Pradesh),Vishakhapatnam (Andhra Pradesh),1.75,4.5,6
+Pokhran_SttinDPP_D (Rajasthan),Phalodi_PalikDPP_D (Rajasthan),1.4492424242424242,4.492424242424242,10
+Pahasu_Kanongyn_D (Uttar Pradesh),Anupshahar_DcntCLY_D (Uttar Pradesh),1.3205128205128205,4.487179487179487,14
+Anpara_Parasi_D (Uttar Pradesh),Singrauli_Waidhan_D (Madhya Pradesh),1.6296296296296295,4.4074074074074066,7
+Gandhinagar_DC (Gujarat),Gandhinagar_Kalol_DC (Gujarat),1.3137254901960784,4.392156862745098,14
+Kozhikode_Central_H_4 (Kerala),Aluva_Peedika_H (Kerala),1.7303030303030305,4.381818181818183,6
+Chennai_Porur_DPC (Tamil Nadu),Chennai_Vepmpttu_DC (Tamil Nadu),1.875,4.375,5
+Duddhi_MChwkDPP_D (Uttar Pradesh),Renukoot_Govind_D (Uttar Pradesh),1.875,4.375,5
+Sirsi_Vidygiri_D (Karnataka),Sagara_Vardhard_D (Karnataka),1.625,4.375,7
+Kumta_Central_DPP_2 (Karnataka),Ankola_Kakrmath_D (Karnataka),1.7288306451612905,4.372983870967743,6
+Chhata_GvrdnDPP_D (Uttar Pradesh),Kaman_BsstdDPP_D (Rajasthan),1.4848484848484849,4.363636363636363,9
+Chitradurga_DC (Karnataka),Davangere_Central_I_1 (Karnataka),1.6222222222222222,4.355555555555556,7
+MAA_Poonamallee_HB (Tamil Nadu),Chennai_Chrompet_DPC (Tamil Nadu),1.7247899159663866,4.34873949579832,6
+Chalakudy_SurbhiTh_D (Kerala),Irinjlkuda_Greens_D (Kerala),1.619047619047619,4.333333333333334,7
+Villupuram_Thirumtr_IP (Tamil Nadu),MAA_Poonamallee_HB (Tamil Nadu),1.72,4.32,6
+Chandigarh_Mehmdpur_H (Punjab),Bangana_Bhaleti_D (Himachal Pradesh),1.3536019536019537,4.243223443223444,12
+Bhilwara_DC (Rajasthan),Rajsamand_kankroli_D (Rajasthan),1.8461538461538463,4.230769230769232,5
+Manmad_Malegaon_D (Maharashtra),Malegaon_Rawlgaon_D (Maharashtra),1.5276497695852536,4.2211981566820285,8
+Dharmapuri_Central_D_2 (Tamil Nadu),Bangalore_Nelmngla_H (Karnataka),1.8376623376623376,4.188311688311687,5
+Narsapur_Xroad_D (Telangana),Kamareddy_Devenply_I (Telangana),1.695852534562212,4.175115207373272,6
+Bangalore_Nelmngla_H (Karnataka),Bhiwandi_Mankoli_HB (Maharashtra),1.6944157089211487,4.166494253526892,6
+Arimbur_Veluthur_D (Kerala),Sankaramangalam_Central_D_1 (Kerala),1.4157268170426065,4.157268170426065,10
+Churhat_Central_DPP_1 (Madhya Pradesh),Sidhi_Padra_D (Madhya Pradesh),1.6875,4.125,6
+Gurgaon_Bilaspur_HB (Haryana),Dholpur_GtRoad_D (Rajasthan),1.8181818181818181,4.090909090909091,5
+Jabalpur_Adhartal_IP (Madhya Pradesh),Narsinghpur_KndliDPP_D (Madhya Pradesh),1.8181818181818181,4.090909090909091,5
+SirhindFatehgarh_DC (Punjab),Rajpura_DC (Punjab),1.5833333333333333,4.083333333333333,7
+Bhiwani_DC (Haryana),Loharu_BstndDPP_D (Haryana),1.8157894736842106,4.078947368421053,5
+Mainaguri_MilpaDPP_D (West Bengal),Mathabhang_Pshimpra_D (West Bengal),1.5091185410334347,4.072948328267477,8
+Manapparai_BypassRd_D (Tamil Nadu),Melur_MduraiRD_D (Tamil Nadu),1.3373538011695907,4.048245614035088,12
+Hamirpur_GutmgrCl_D (Himachal Pradesh),Sujanpur_SainkSCL_D (Himachal Pradesh),1.8095238095238095,4.0476190476190474,5
+Itahar_NatunDPP_D (West Bengal),Raiganj_SubrtDPP_D (West Bengal),1.8095238095238095,4.0476190476190474,5
+Kattappana_Palikval_D (Kerala),Madurai_Kappalur_H (Tamil Nadu),1.5057773109243697,4.046218487394958,8
+Shevgaon_VidyaNgr_D (Maharashtra),Paithan_SantaNGR_D (Maharashtra),1.5769230769230769,4.038461538461538,7
+Mehsana_Panchot_IP (Gujarat),Himmatnagar_DC (Gujarat),1.5046610169491526,4.03728813559322,8
+Athani_VikrmMah_D (Karnataka),Bijapur_KirtiNgr_D (Karnataka),1.5010332950631458,4.008266360505166,8
+Etah_CivlLine_D (Uttar Pradesh),Jalesar_ChngiDPP_D (Uttar Pradesh),1.6667682926829268,4.00060975609756,6
+Peravurani_SH71_D (Tamil Nadu),Aranthangi_HsptlRod_D (Tamil Nadu),1.2857142857142858,4.000000000000002,14
+Bangalore_Nelmngla_H (Karnataka),Hyderabad_Shamshbd_H (Telangana),1.6654442760710841,3.992665656426505,6
+Villupuram_Thirumtr_IP (Tamil Nadu),Attur_KaaduRd_D (Tamil Nadu),1.6653558052434456,3.9921348314606737,6
+Chikodi_IndraNgr_D (Karnataka),Athani_VikrmMah_D (Karnataka),1.4426229508196722,3.9836065573770494,9
+Aluva_Peedika_H (Kerala),Thrissur_Poothole_D (Kerala),1.3979166666666667,3.979166666666667,10
+Rghunthpur_barkarRd_D (West Bengal),Hura_Central_D_1 (West Bengal),1.7954545454545454,3.977272727272727,5
+Ambala (Haryana),YamunaNagar_DC (Haryana),1.660774410774411,3.9646464646464654,6
+Koyilandy_Pshrikvu_D (Kerala),Vadakara_Mandodi_D (Kerala),1.2792207792207793,3.9090909090909096,14
+Bngnpalle_Enkndla_D (Andhra Pradesh),Betamcherla_CmtNgRod_D (Andhra Pradesh),1.65,3.8999999999999995,6
+Delhi_Airport_H (Delhi),Ghaziabad_Central_L_8 (Uttar Pradesh),1.7755102040816326,3.877551020408163,5
+Panipat (Haryana),Karnal (Haryana),1.7714285714285714,3.8571428571428568,5
+Modinagar_SikriKla_DC (Uttar Pradesh),Meerut (Uttar Pradesh),1.6428571428571428,3.8571428571428568,6
+Mansa_GreenVly_D (Punjab),Jhunir_BhaRDDPP_D (Punjab),1.7692307692307692,3.846153846153846,5
+Tarkeshwar_Naraynpr_D (West Bengal),Khanakul_Ramnagar_D (West Bengal),1.6375338753387534,3.8252032520325203,6
+Mothkur_Mainroad_D (Telangana),Thirumalagiri_Xroad_D (Telangana),1.3798076923076923,3.798076923076923,10
+Chhindwara_NagpurRd_D (Madhya Pradesh),Seoni_Kidwai_D (Madhya Pradesh),1.5384615384615385,3.76923076923077,7
+Raichur_LSRoad_DC (Karnataka),JoguGadwal_ColctrOf_D (Telangana),1.4181818181818182,3.7636363636363637,9
+Paota_SmClyDPP_D (Rajasthan),Achrol_BgwriDPP_D (Rajasthan),1.75,3.75,5
+Nawanshahr_DC (Punjab),Machhiwara_MnBzrDPP_D (Punjab),1.75,3.75,5
+Hisar_ModelTwn_P (Haryana),Hanumangarh_DC (Rajasthan),1.7466666666666666,3.733333333333333,5
+Karur (Tamil Nadu),Dindigul_Central_D_1 (Tamil Nadu),1.7454545454545454,3.7272727272727266,5
+Halvad_CrossRD_D (Gujarat),Dhrangadhra_NvygRDPP_D (Gujarat),1.6156156156156156,3.6936936936936937,6
+Dhrangadhra_NvygRDPP_D (Gujarat),Ahmedabad_East_H_1 (Gujarat),1.4097222222222223,3.687500000000001,9
+Bengaluru_Kengeri_IP (Karnataka),Bengaluru_Bomsndra_HB (Karnataka),1.3052083333333333,3.6624999999999996,12
+Tirchchndr_Shnmgprm_D (Tamil Nadu),Thisayanvilai_UdnkdiRD_D (Tamil Nadu),1.2439024390243902,3.6585365853658534,15
+Sullia_Srirampt_D (Karnataka),Kadaba_AnugrDPP_D (Karnataka),1.5128205128205128,3.5897435897435894,7
+Bagepalli_TBCross_D (Karnataka),Gauribidanur_Gurukrpa_D (Karnataka),1.326086956521739,3.586956521739129,11
+Kodad_VidyaNgr_D (Telangana),Kusumnchi_SKRoad_D (Telangana),1.3243243243243243,3.5675675675675675,11
+Dindigul_Central_D_1 (Tamil Nadu),Madurai_Kappalur_H (Tamil Nadu),1.3958333333333333,3.562499999999999,9
+Karnaprayag_Umalodge_D (Uttarakhand),Chamoli_CGRoad_D (Uttarakhand),1.3953488372093024,3.558139534883721,9
+Malur_NharuExt_D (Karnataka),Bangarapet_KolarRd_D (Karnataka),1.393939393939394,3.5454545454545463,9
+BariSadri_BhmprDPP_D (Rajasthan),Chittaurgarh_DC (Rajasthan),1.5869565217391304,3.5217391304347823,6
+Nashik_TgrniaRD_I (Maharashtra),Sinnar_Central_D_1 (Maharashtra),1.3888888888888888,3.4999999999999996,9
+Mejia_Central_D_1 (West Bengal),Rghunthpur_barkarRd_D (West Bengal),1.3877551020408163,3.4897959183673466,9
+Lakhnadon_Central_DPP_1 (Madhya Pradesh),Chhindwara_NagpurRd_D (Madhya Pradesh),1.5778282828282828,3.466969696969697,6
+Karimnagar_DC (Telangana),Vemulawada_Central_DPP_2 (Telangana),1.3823529411764706,3.441176470588235,9
+Basti_GndhiNgr_D (Uttar Pradesh),Gorakhpur_Matriprm_IP (Uttar Pradesh),1.6756756756756757,3.378378378378378,5
+Polur_StationRD_D (Tamil Nadu),Chetpet_Blmrgnst_D (Tamil Nadu),1.375,3.375,9
+Puttur_Darbe_DC (Karnataka),Sullia_Srirampt_D (Karnataka),1.5620723362658846,3.3724340175953076,6
+Kekri_LxmntDPP_D (Rajasthan),Nasirabad_Central_DPP_2 (Rajasthan),1.3366402116402116,3.3664021164021163,10
+Nagaur_KisanCo_D (Rajasthan),Didwana_KatlaDPP_D (Rajasthan),1.556232492997199,3.3373949579831934,6
+Manbazar_Central_DPP_1 (West Bengal),Khatra_KoralDPP_D (West Bengal),1.333165322580645,3.33165322580645,10
+Tirunelveli_VdkkuSrt_I (Tamil Nadu),Tenkasi_RailwyRd_D (Tamil Nadu),1.4745762711864407,3.322033898305085,7
+Sundargarh_DiyoDPP_D (Orissa),Rajgangpur_Central_D_2 (Orissa),1.5530142781597038,3.318085668958223,6
+Beawar_DC (Rajasthan),Bilara_Central_DPP_2 (Rajasthan),1.6603773584905661,3.3018867924528306,5
+Malegaon_Rawlgaon_D (Maharashtra),Satana_ThrbadRD_D (Maharashtra),1.4705882352941178,3.2941176470588243,7
+Patan_Central_D_2 (Gujarat),Bhabhar_TirupDPP_D (Gujarat),1.2933333333333332,3.2266666666666657,11
+Bangalore_Nelmngla_H (Karnataka),Hiriyur_TahurDPP_D (Karnataka),1.641025641025641,3.205128205128205,5
+Farrukhbad_Pnchlght_D (Uttar Pradesh),Shahabad_KDRoad_D (Uttar Pradesh),1.353846153846154,3.1846153846153853,9
+Ahmedabad_East_H_1 (Gujarat),Mehsana_Panchot_IP (Gujarat),1.3176470588235294,3.176470588235294,10
+Jaipur_Central_I_7 (Rajasthan),Bassi_DmodrNGR_D (Rajasthan),1.3125,3.125,10
+Puttaprthi_Gokulam_D (Andhra Pradesh),Kadiri_GVManu_D (Andhra Pradesh),1.625,3.125,5
+Guna_Raghogrh_D (Madhya Pradesh),Guna_HnumnDPP_D (Madhya Pradesh),1.3038461538461539,3.0384615384615388,10
+Usilampatti_MrutiNGR_D (Tamil Nadu),Theni_Rathnam_D (Tamil Nadu),1.5018939393939394,3.0113636363636367,6
+Bilimora_DC (Gujarat),Valsad_DC (Gujarat),1.4285714285714286,3.0,7
+Bhanvad_Mainroad_D (Gujarat),Jamjodhpur_Court_D (Gujarat),1.3715384615384616,2.9723076923076928,8
+Narikkudi_MukkuRD_D (Tamil Nadu),Madurai_Kappalur_H (Tamil Nadu),1.4946938775510206,2.9681632653061234,6
+Dalhousie_Banikhet_D (Himachal Pradesh),Chamba_Bangotu_D (Himachal Pradesh),1.328125,2.953125,9
+Goa_ZuariNgr_IP (Goa),Goa_Margao_Dc (Goa),1.492063492063492,2.9523809523809526,6
+Haripad_Kumrpurm_D (Kerala),Alappuzha_Pazhvedu_D (Kerala),1.209375,2.9312500000000012,14
+SrinagarUK_Srikot_D (Uttarakhand),Karnaprayag_Umalodge_D (Uttarakhand),1.2083524027459953,2.9169336384439344,14
+Samana_PODPP_D (Punjab),Patran_MheshNGR_D (Punjab),1.4166666666666667,2.916666666666667,7
+Karimnagar_KamnHbRD_I (Telangana),Mancherial_Hitech_D (Telangana),1.4833543505674653,2.900126103404792,6
+Pandharpur_RajCmplx_D (Maharashtra),Atapadi_Vidyangr_D (Maharashtra),1.4803921568627452,2.882352941176471,6
+Morbi_DC (Gujarat),Wankaner_JivanDPP_D (Gujarat),1.478163992869875,2.8689839572192506,6
+Himmatnagar_DC (Gujarat),Modasa_Central_D_1 (Gujarat),1.2195121951219512,2.8536585365853657,13
+Aluva_Peedika_H (Kerala),Arimbur_Veluthur_D (Kerala),1.4732057416267943,2.8392344497607658,6
+Gandhidham_Sector1A_IP (Gujarat),Halvad_CrossRD_D (Gujarat),1.4,2.7999999999999994,7
+Pune_Tathawde_H (Maharashtra),Rajgurunagar_Chakan_D (Maharashtra),1.5517241379310345,2.7586206896551726,5
+Khedbrahma_Patelfli_D (Gujarat),Mehsana_Panchot_IP (Gujarat),1.3904761904761904,2.733333333333333,7
+Balotra_BsnoiHPL_D (Rajasthan),Barmer_Nehru3PL_D (Rajasthan),1.5454545454545454,2.727272727272727,5
+Tandur_SnthiNGR_D (Telangana),Vikarabad_Central_DPP_2 (Telangana),1.5365853658536586,2.682926829268293,5
+Bangalore_Nelmngla_H (Karnataka),Mysore_Yadvgiri_IP (Karnataka),1.4420289855072463,2.652173913043478,6
+Dhone_RmNyrDPP_D (Andhra Pradesh),Kurnool_AbbasNgr_I (Andhra Pradesh),1.5135135135135136,2.567567567567568,5
+Unjha_DC (Gujarat),Patan_Central_D_2 (Gujarat),1.4166666666666665,2.499999999999999,6
+Sikandarpur_Central_D_3 (Uttar Pradesh),Sahatwar_PnchmDPP_D (Uttar Pradesh),1.4142156862745099,2.4852941176470593,6
+Kanth_Dayanand_D (Uttar Pradesh),Thakurdwara_Fathuluh_D (Uttar Pradesh),1.309920634920635,2.4793650793650794,8
+Oddnchtram_Palani_D (Tamil Nadu),Palani_RjndraRd_D (Tamil Nadu),1.3461538461538463,2.423076923076924,7
+Rasipurm_Knrpati_D (Tamil Nadu),Namakkal_Rkcomplx_DC (Tamil Nadu),1.396551724137931,2.3793103448275863,6
+Seoni_Kidwai_D (Madhya Pradesh),Mandla_Mharajpr_D (Madhya Pradesh),1.396424570575056,2.378547423450336,6
+Bharatpur_DC (Rajasthan),Bayana_LalBagh_D (Rajasthan),1.2360150848522942,2.3601508485229417,10
+Jammu_TrnptNgr_L (Jammu & Kashmir),Samba_Wardno13_D (Jammu & Kashmir),1.4666666666666666,2.333333333333333,5
+Guwahati_North (Assam),Guwahati_Hub (Assam),1.3333333333333333,2.333333333333333,7
+Tilhar_SingCLNY_D (Uttar Pradesh),Jalalabad_farukngr_D (Uttar Pradesh),1.4634146341463414,2.317073170731707,5
+Belgaum_Dc (Karnataka),Khanapur_StatinRD_D (Karnataka),1.4516129032258065,2.2580645161290325,5
+Kollam_Central_H_1 (Kerala),Aluva_Peedika_H (Kerala),1.3735383206537053,2.2412299239222317,6
+Tiruvalla_TKRoad_D (Kerala),Kozhenchery_Cherukole_D (Kerala),1.3666666666666667,2.2,6
+Srirangapatna_Bburynkpl_D (Karnataka),Mandya_Dc (Karnataka),1.2741935483870968,2.193548387096774,8
+Choutuppal_Nagaram_D (Telangana),Miryalguda_Ragvendr_D (Telangana),1.3634293270643552,2.180575962386131,6
+Rajpalayam_AshkTalk_D (Tamil Nadu),Maharajapuram_Krsnakcl_D (Tamil Nadu),1.24,2.16,9
+Chittaurgarh_DC (Rajasthan),Nimbahera_MsjidDPP_D (Rajasthan),1.358416130917592,2.1504967855055517,6
+Aonla_KdidmCLY_D (Uttar Pradesh),Rampur_RoshnBgh_I (Uttar Pradesh),1.2941176470588236,2.0588235294117654,7
+Theni_Rathnam_D (Tamil Nadu),Cumbum_LFRoad_D (Tamil Nadu),1.2826086956521738,1.9782608695652169,7
+Ahmedabad_East_H_1 (Gujarat),Anand_Vaghasi_IP (Gujarat),1.2421875,1.9375,8
+Patiala (Punjab),Nabha_Sahni_D (Punjab),1.3205619412515963,1.923371647509578,6
+Chhibramau_Bhainpura_D (Uttar Pradesh),Farrukhbad_Pnchlght_D (Uttar Pradesh),1.3142361111111112,1.885416666666667,6
+Chamarjngr_BrDbleRd_D (Karnataka),Kollegala_NarsipuraRd_D (Karnataka),1.3617021276595744,1.8085106382978722,5
+Bharatpur_NraynDPP_D (Rajasthan),Bharatpur_DC (Rajasthan),1.3003337041156842,1.802002224694105,6
+Bhatinda_DPC (Punjab),Barnala_DC (Punjab),1.223609872137972,1.788878977103776,8
+Hanumangarh_DC (Rajasthan),Pilibanga_BsstdDPP_D (Rajasthan),1.2980295566502464,1.7881773399014786,6
+Attur_KaaduRd_D (Tamil Nadu),Villupuram_Thirumtr_IP (Tamil Nadu),1.3523809523809525,1.7619047619047623,5
+Muthukulathur_VaiklSRT_D (Tamil Nadu),Narikkudi_MukkuRD_D (Tamil Nadu),1.2909722222222222,1.7458333333333331,6
+MAA_Poonamallee_HB (Tamil Nadu),Villupuram_Thirumtr_IP (Tamil Nadu),1.338235294117647,1.6911764705882348,5
+Haldwani_PiliKoti_D (Uttarakhand),Rudrapur_UdhamNgr_H (Uttarakhand),1.3333333333333333,1.6666666666666663,5
+Satara_DC (Maharashtra),Wai_Central_DPP_3 (Maharashtra),1.2790697674418605,1.3953488372093026,5
